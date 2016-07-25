@@ -1,11 +1,19 @@
 # Schedule
 
-## Thursday, 9/8
+## Unit 1
 
+### Thursday, 9\/8
 
-## Tuesday, 9/13
+* Course overview
+* What and why is DH?
+* Lab: domain registration 
 
-## Thursday, 9/15
+### Tuesday, 9\/13
+
+* How the web works
+* Lab: HTML + CSS
+* Readings: 
+
 
 ## Tuesday, 9/20
 
