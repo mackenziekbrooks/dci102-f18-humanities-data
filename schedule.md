@@ -62,10 +62,15 @@
 *Methodology review: network*
 * What are networks?
 * Lab:
+* Reading:
+  * [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
 
 ### Tuesday, 10/11/16
 *Methodology review: network*
-Guest speaker: Jeff Barry, Associate University Librarian 
+* Guest speaker: Jeff Barry, Associate University Librarian 
+* Readings:
+  * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
+
 
 ### X Thursday, 10/13/16
 No class, reading days
