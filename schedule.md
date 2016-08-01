@@ -49,17 +49,23 @@
 * Lab: regular expressions
 
 ### Thursday, 9/29
-*project work: text* 
+*Project work: text* 
 * 
 
 ### Tuesday, 10/4
-*documentation: text*
+*Documentation: text*
+
 
 ## Unit 2 Network
 
 ### Thursday, 10/6/16
+*Methodology review: network*
+* What are networks?
+* Lab:
 
 ### Tuesday, 10/11/16
+*Methodology review: network*
+Guest speaker: Jeff Barry, Associate University Librarian 
 
 ### X Thursday, 10/13/16
 No class, reading days
