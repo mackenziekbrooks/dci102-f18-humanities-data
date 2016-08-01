@@ -14,12 +14,13 @@
 * Readings: 
   * [Digital_Humanities](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), chap 1
   * [Technology Is Taking Over English Departments: The false promise of the digital humanities](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)
+  * [Defining Data for Humanists: Text, Artifact, Information or Evidence?](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
   * 
 
 ### Thursday, 9/15/16 
 *Methodology review: text*
 * Text Analysis introduction
-* Geolocation guess?
+* Guest speakers: *Geolocation* artists
 * Lab: command line
 * Readings: 
   * [We Can All Be Technical With the Right Teacher](https://recompilermag.com/issues/issue-0/we-can-all-be-technical-with-the-right-teacher/)
@@ -43,11 +44,16 @@
 
 ### Tuesday, 9/27
 *Data work: text*
+* Data normalization
+* Guest speaker: Jason Mickel
+* Lab: regular expressions
 
 ### Thursday, 9/29
-*
+*project work: text* 
+* 
 
 ### Tuesday, 10/4
+*documentation: text*
 
 ## Unit 2 Network
 
@@ -75,10 +81,23 @@ No class, reading days
 ### Tuesday, 11/8/16
 * Prof. Brooks away at conference
 * The Day the World Might End
-* 
+* Guest speaker: Paul Youngman and Ulemj Enkhbold
 
 ### Thursday, 11/10/16
 
 ### Tuesday, 11/15/16
 
 ### Thursday, 11/17/16
+
+### Thanksgiving break
+
+### Tuesday, 11/29/16
+
+### Thursday, 12/1/16
+
+### Tuesday, 12/6/16
+
+### Thursday, 12/8/16
+
+### Finals week
+
