@@ -35,7 +35,7 @@
   * [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/index.html@p=19113.html)
 
 ### Thursday, 9/22
-*Data work: text* 
+*Data cleanup: text* 
 * How computers read
 * Data set introduction
 * Guest speaker: Alston Cobourn, Digital Scholarship Librarian
@@ -43,7 +43,7 @@
 * Readings: 
 
 ### Tuesday, 9/27
-*Data work: text*
+*Data cleanup: text*
 * Data normalization
 * Guest speaker: Jason Mickel
 * Lab: regular expressions
@@ -76,8 +76,14 @@
 No class, reading days
 
 ### Tuesday, 10/18/16
+*Project design: network*
+* Critical DH
+* Lab:introduce data set
+* Readings:
 
 ### Thursday, 10/20/16
+*Data work: network*
+
 
 ### Tuesday, 10/25/16
 
@@ -86,6 +92,7 @@ No class, reading days
 ### Tuesday, 11/1/16
 
 ### Thursday, 11/3/16
+*Documentation: network*
 
 ## Unit 3 Space
 
