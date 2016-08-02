@@ -4,7 +4,7 @@ This course will use an alternative grading model known as "Specifications Gradi
 
 ## Features of this system:
 
-* The majority of assignments will be graded on a pass\/fail basis. There will be no credit for partial work.
+* The majority of assignments will be graded on a pass/fail basis. There will be no credit for partial work.
 * You will be given clear and descriptive "specs" on each assignment so you know exactly what makes a passing assignment. 
 * Projects will be bundled in a way that clearly delineates A, B, and C-level work. 
 * You will receive three "free passes" to use for revisions, late assignments, or absences. You must indicate your use of a free pass before it's taken, not as CYA method.
@@ -21,7 +21,7 @@ This course will use an alternative grading model known as "Specifications Gradi
 
 * Complete all core assignments in each unit.
 * Complete 1 advanced assignment in each unit. 
-* Write 4\/6 blog posts.
+* Write 4/6 blog posts.
 * Attendance is good, 1-2 absences.
 
 ## C-level requirements
