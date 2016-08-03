@@ -1,6 +1,6 @@
 # Grading
 
-This course will use an alternative grading model known as "Specifications Grading." The goals of the system are to reduce the stress and mystery of grades while also raising the academic standards. I chose this system to complement the Digital Humanities methodologies we will be using this semester and to combat the grade anxiety rampant at W&L. The DH community values "productive failure." Thus, you need to be able to learn from your mistakes without worrying that it will affect your final grade. The course has been structured in a way that allows students to "self-select" their grade based on the amount and complexity of the assignments they complete.
+This course will use an alternative grading model known as "Specifications Grading." The goals of the system are to reduce the stress and mystery of grades while also raising academic standards. I chose this system to complement the Digital Humanities methodologies we will be using this semester and to combat the grade anxiety rampant at W&L. The DH community values "productive failure." Thus, you need to be able to learn from your mistakes without worrying that it will affect your final grade. The course has been structured in a way that allows students to "self-select" their grade based on the amount and complexity of the assignments they complete.
 
 ## Features of this system:
 
@@ -15,7 +15,7 @@ This course will use an alternative grading model known as "Specifications Gradi
 * Complete all core assignments in each unit.
 * Complete all advanced assignments in each unit.
 * Write all 6 blog posts.
-* Attend every class.
+* Attendance is great, 1 absence.
 
 ## B-level requirements
 
@@ -28,7 +28,7 @@ This course will use an alternative grading model known as "Specifications Gradi
 
 * Complete all core assignments in each unit. 
 * Complete no advanced assignments in any units.
-* Write 3\/6 blog posts. 
+* Write 3/6 blog posts. 
 * Attendance is moderate, 3+ absences. 
 
 ### Blog posts
