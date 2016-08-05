@@ -8,11 +8,10 @@ Just as you might outfit your study carrel with all the essentials, your compute
 I have made our course readings available in a Zotero library. 
 
 ## Homebrew
+[Homebrew](http://brew.sh/) makes it easy to install various packages on a Mac. 
 
+## Note taking
 
-Homebrew
-
-Note taking
 
 
 
