@@ -25,3 +25,5 @@ For more on this topic, see ["Do I Own My Domain If You Grade It?"](https://www.
 
 ## Resources
 * [Reclaim Documentation](http://docs.reclaimhosting.com/)
+* [Domain basics](http://domains.davidson.edu/support/general_information/domain_basics)
+* 
