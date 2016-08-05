@@ -41,7 +41,6 @@ This course will use an alternative grading model known as "Specifications Gradi
 * Project Review
 * Project Data
 * Project Visualization
-* 
 
 ### Advanced Assignments
 
