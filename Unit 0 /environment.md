@@ -8,11 +8,12 @@ Just as you might outfit your study carrel with all the essentials, your compute
 I have made our course readings available in a Zotero library. 
 
 ## Homebrew
-[Homebrew](http://brew.sh/) makes it easy to install various packages on a Mac.  
+[Homebrew](http://brew.sh/) makes it easy to install various packages on a Mac.
 
 ## Note taking
-Hypothesis
-Evernote
+[Hypothes.is](https://hypothes.is/) is a new framework for open annotation of the web. It operates via a Chrome extension allowing you to make private and public comments on websites. I have set up a [private group](https://hypothes.is/groups/XnMbDqV8/dh102-f16) for our course if you want to participate.
+
+If you're a big note-taker, [Evernote](https://evernote.com) is a great option. Available on the web, desktop, or mobile device. 
 
 
 
