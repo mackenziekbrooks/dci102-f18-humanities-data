@@ -10,6 +10,9 @@ I have made our course readings available in a Zotero library.
 ## Homebrew
 [Homebrew](http://brew.sh/) makes it easy to install various packages on a Mac.
 
+
+## Text editors
+
 ## Note taking
 [Hypothes.is](https://hypothes.is/) is a new framework for open annotation of the web. It operates via a Chrome extension allowing you to make private and public comments on websites. I have set up a [private group](https://hypothes.is/groups/XnMbDqV8/dh102-f16) for our course if you want to participate.
 
