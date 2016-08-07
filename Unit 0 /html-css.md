@@ -20,12 +20,20 @@ Tasks:
 
 
 ## CSS 
-Our next building block of the web is CSS, or Cascading Style Sheets. If HTML is just structured text, you need something else to add the pretty colors and images. 
+Our next building block of the web is CSS, or Cascading Style Sheets. HTML structures your webpage, but you need something else to add the pretty colors and images. 
 
-CSS has a different syntax than HTML. First you identify the HTML tag, then you declare the styles you wish to apply. 
+CSS has a different syntax than HTML. First you identify the HTML tag, then you declare the styles you wish to apply. ```title {color: red;}```
 
 See some basic CSS at the [W3 Schools CSS tutorial](http://www.w3schools.com/css/default.asp). 
 
-Sep stylesheet
+The beauty of CSS is that you can keep all your styles in one stylesheet which you link to all your HTML pages. 
 
+## Exercise 2
+
+Create a separate CSS document and link it to your HTML document. 
+
+Tasks:
+* Add a background color.
+* Change the border on your table. 
+* Add style to your links when you hover over them. 
 
