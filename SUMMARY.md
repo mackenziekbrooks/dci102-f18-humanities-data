@@ -6,6 +6,7 @@
    * [Reclaim Hosting](Unit 0 /reclaimmd.md)
    * [Environment](Unit 0 /environment.md)
    * [Command Line](Unit 0 /command-line.md)
+   * HTML + CSS
 * [Unit 1 / Text](unit1.md)
 * [Unit 2 / Network](unit_2__network.md)
 * [Unit 3 / Space](unit3_space.md)
