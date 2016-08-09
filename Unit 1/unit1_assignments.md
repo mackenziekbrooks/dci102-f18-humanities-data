@@ -9,15 +9,17 @@ Specs:
 * Due Thursday, 9/22 by 8am. 
 * 300-500 words. 
 * Submit via your Box folder. 
+* Be prepared to share your review in class. 
 * Address the following questions:
   * What is the goal of this project? Are there guiding research questions?
   * Who are authors? What are their affiliations and roles? Have they received external funding? Are students involved? 
-  * Tell me about the data. Where did it come from? How has it been cleaned or modified? What tools were used? 
+  * Tell me about the data. Where did it come from? How has it been cleaned, modified, or enhanced? 
   * What established standards (technical or otherwise) does the project data use? 
+  * What text analysis methods are at play? What tools are being used? Does the methodology seem appropriate to the data and goals?
   * Consider the design of the project. What aspects of the project does the design privilege? How does the design affect your understanding of the material? 
-  * How open is the project? Do they share their data? Is there public documentation? 
-    * 
-* Be prepared to share your review in class. 
+  * How open is the project? Do they share their data? In what format? Is there public documentation?
+  *  
+
 
 Projects:
 * Something
