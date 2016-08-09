@@ -15,7 +15,7 @@ Specs:
   * Tell me about the data. Where did it come from? How has it been cleaned or modified? What tools were used? 
   * What established standards (technical or otherwise) does the project data use? 
   * Consider the design of the project. What aspects of the project does the design privilege? How does the design affect your understanding of the material? 
-  * Documentation
+  * How open is the project? Do they share their data? Is there public documentation? 
     * 
 * Be prepared to share your review in class. 
 
