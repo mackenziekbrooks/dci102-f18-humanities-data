@@ -14,6 +14,10 @@ Specs:
 Projects:
 * 
 
+Resources on evaluating digital projects:
+* Guidelines for Evaluating Work in Digital Humanities and Digital Media - Modern Language Association
+* Criteria for Reviewing Scholarly Digital Editions -  Institut für Dokumentologie und Editorik
+* 
 
 
 ### Project data 
