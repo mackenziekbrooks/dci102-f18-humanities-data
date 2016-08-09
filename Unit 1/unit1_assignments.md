@@ -11,10 +11,8 @@ Specs:
 * Summarize 
 * Be prepared to share your review in class. 
 
-
-To familiarize yourself with the various DH projects and methodologies, each unit will require a review assignment. This is more than just a summary, you will be asked to critically evaluate the project content and design. Be prepared to discuss your project(s) and give a more formal presentation in unit 3. 500 words per review.
-
-
+Projects:
+* 
 
 
 
