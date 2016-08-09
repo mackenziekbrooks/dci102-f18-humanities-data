@@ -10,7 +10,7 @@ Specs:
 * 300-500 words. 
 * Submit via your Box folder. 
 * Be prepared to share your review in class. 
-* 
+* Do not quote extensively from the project's text. Summarize in your own words.
 * Address the following questions:
   * What is the goal of this project? Are there guiding research questions?
   * Who are authors? What are their affiliations and roles? Have they received external funding? Are students involved? 
