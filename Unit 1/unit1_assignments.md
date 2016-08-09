@@ -10,7 +10,7 @@ Specs:
 * 300-500 words. 
 * Submit via your Box folder. 
 * Be prepared to share your review in class. 
-* Do not quote extensively from the project's text. Summarize in your own words.
+* Do not quote extensively from the project website. Summarize in your own words.
 * Address the following questions:
   * What is the goal of this project? Are there guiding research questions?
   * Who are authors? What are their affiliations and roles? Have they received external funding? Are students involved? 
@@ -26,6 +26,7 @@ Projects:
 * [Listen to Wikipedia](http://listen.hatnote.com/)
 * [Quantifying Kissinger](http://blog.quantifyingkissinger.com/)
 * [Viral Texts](http://viraltexts.org/)
+* [Serendip](http://vep.cs.wisc.edu/serendip/)
 
 Resources on evaluating digital projects:
 * [Short Guide To Evaluation Of Digital Work by Geoffrey Rockwell](http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/)
