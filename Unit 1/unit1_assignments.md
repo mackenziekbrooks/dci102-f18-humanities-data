@@ -37,7 +37,11 @@ Resources on evaluating digital projects:
 
 
 ### Project data 
+At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured  and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends. 
 
+Specs: 
+* Due 
+  
 
 
 ### Project visualization
