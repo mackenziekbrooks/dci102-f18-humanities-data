@@ -1,4 +1,4 @@
-# Unit 1 / Text Assignments
+# Unit 1 / Text / Assignments
 
 ## Core Assignments
 
