@@ -42,11 +42,14 @@ At the beginning of each unit, you will be handed a messy data set. It is a rare
 Specs: 
 * Due Thursday 10/6 by 8am.
 * Submit in a zipped folder via Box.
-* 
+* Include a text file titled "data-assessment-%DATE.txt" with the results of our in-class activity. 
+* Include a text file titles "data-cleanup-%DATE.txt" with a list of the modifications you made to your data set. 
   
 
 
 ### Project visualization
+
+
 ### 
 
 
