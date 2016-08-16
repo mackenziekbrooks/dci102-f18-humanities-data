@@ -87,7 +87,7 @@ No class, reading days
 
 ### Tuesday, 10/25/16
 
-### Thursday, 10/17/16
+### Thursday, 10/27/16
 
 ### Tuesday, 11/1/16
 
