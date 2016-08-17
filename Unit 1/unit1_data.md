@@ -17,6 +17,10 @@ Currently, the RTP is available in several forms. Can you tell what they are fro
 ## Digitization 
 
 
+## Data set 
+Enough explanation, now what is 
+
+
 ## Newspaper data 
 
 
