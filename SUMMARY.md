@@ -9,7 +9,8 @@
    * [HTML + CSS](Unit 0 /html-css.md)
 * Unit 1 / Text
    * [Assignments](Unit 1/unit1_assignments.md)
-   * [Data](Unit 1/unit1_data.md)
+   * [Data](unit1(unit1_data.md)
+   * [Methodology](unit1_methodology.md)
 * Unit 2 / Network
   * [Assignments](Unit 2/unit2_assignments.md)
   * [Data](Unit 2/unit2_data.md)
