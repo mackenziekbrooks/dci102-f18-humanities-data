@@ -2,7 +2,7 @@
 
 * [Read Me](README.md)
 * [Schedule](schedule.md)
-* [Unit 0 / Setup](Unit 0 / Setup)
+* Unit 0 / Setup
    * [Reclaim Hosting](Unit 0 /reclaimmd.md)
    * [Environment](Unit 0 /environment.md)
    * [Command Line](Unit 0 /command-line.md)
