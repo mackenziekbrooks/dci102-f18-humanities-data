@@ -32,12 +32,13 @@ This course will use an alternative grading model known as "Specifications Gradi
 * Attendance is moderate, 3+ absences. 
 
 ### Blog posts
-
 * 2 blog posts due each unit to your own domain 
-* 
+* Posts can be on a topic of your choosing, though I can provide prompts.
+* 300-500 words.
+* Include links and images (with citation) when appropriate. 
+* I encourage personal responses/reflections on the work we've been doing in class. 
 
 ### Core Assignments
-
 * Project Review
 * Project Data
 * Project Visualization
