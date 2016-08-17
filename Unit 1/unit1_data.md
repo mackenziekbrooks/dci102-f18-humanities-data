@@ -13,16 +13,20 @@ Currently, the RTP is available in several forms. Can you tell what they are fro
 2. Most of the entire run is available on microfilm. 
 3. The current year of the print newspaper is available to public for browsing. 
 4. The entire run of the newspaper has been digitized and is available via the [Digital Archive](https://repository.wlu.edu/handle/11021/26338).
+5. Question: how is the RTP being captured now?
 
 ## Digitization & OCR
 Running a document through a scanner does result in a perfect copy and paste-able version of that document. If you've ever tried to scan a form or print journal article, you might have found yourself battling with an Adobe product. When you scan a document, even if it turns into a PDF, it is an *image* of that document. 
 
 The process by which computer turns that image into *characters* that can be manipulated is called **optical character recognition**. There are a variety of OCR tools available, however their quality can vary widely. 
 
+### Activity
+Scan with ABC. Compare OCR tools. 
+
 ## Data set 
-Enough explanation, now what is 
+A zip file of the RTP data set is available in our course Box folder. It consists of text files from each issue of the RTP. 
 
 
-## Newspaper data 
-
+### Activity
+Assessment 
 
