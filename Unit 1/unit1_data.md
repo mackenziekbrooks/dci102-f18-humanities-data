@@ -21,12 +21,13 @@ Running a document through a scanner does result in a perfect copy and paste-abl
 The process by which computer turns that image into *characters* that can be manipulated is called **optical character recognition**. There are a variety of OCR tools available, however their quality can vary widely. 
 
 ### Activity 1
-Scan with ABC. Compare OCR tools. 
+Scan with ABC. Compare OCR tools. Install tesseract and run it?
 
 ## Data set 
 A zip file of the RTP data set is available in our course Box folder. It consists of text files from each issue of the RTP. 
 
+The zip file also contains the folder ```/tesseractscript``` with the original scripts used to create the OCRed text files. This script was written by Professor Sara Sprenkle in 2014 in order to create a data set for another DH course. 
 
 ### Activity 2
-Assessment 
+Assessment... w/ command line 
 
