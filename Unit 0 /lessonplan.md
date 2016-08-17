@@ -12,8 +12,8 @@ Does it make sense to do this here?
 * What even is the humanities
 * Domain registration, professional portfolio stuff
   * This isn't a class about how to use WP, I'm expecting you to use this as a container. 
-* Lots of time on assignments and grading
-* Also time on environment stuff, time spent asssessing their laptop sitch
+* Lots of time on assignments and grading, BOX
+* Also time on environment stuff, time spent assessing their laptop sitch
 * ICE BREAKERS 
 
 ### Tuesday, 9/13/16
@@ -34,6 +34,7 @@ Does it make sense to do this here?
   * [We Can All Be Technical With the Right Teacher](https://recompilermag.com/issues/issue-0/we-can-all-be-technical-with-the-right-teacher/)
 
 
+
 ### Tuesday, 9/20/16
 *Methodology review: text*
 * Guest speaker: Brandon Walsh
@@ -42,6 +43,11 @@ Does it make sense to do this here?
   * [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet)
   * [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/index.html@p=19113.html)
 
+////
+* need readings
+* need a methodology page 
+* we'll play with tools 
+
 ### Thursday, 9/22
 *Data cleanup: text* 
 * How computers read
@@ -49,6 +55,13 @@ Does it make sense to do this here?
 * Guest speaker: Alston Cobourn, Digital Scholarship Librarian
 * Lab: OCR 
 * Readings: 
+
+////
+
+In class activities about OCR, evaluating their data 
+One of these will go in with the data they hand in
+Use command line, diff to change 
+
 
 ### Tuesday, 9/27
 *Data cleanup: text*
