@@ -10,6 +10,6 @@
 * [Unit 1 / Text](unit1.md)
    * [Assignments](Unit 1/unit1_assignments.md)
    * [Data](Unit 1/unit1_data.md)
-* [Unit 3 / Space](unit3_space.md)
 * Unit 2 / Network
-
+* Unit 3 / Space
+  * [Assignments](Unit 3/unit3_assignments.md)
