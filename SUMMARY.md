@@ -2,6 +2,7 @@
 
 * [Read Me](README.md)
 * [Schedule](schedule.md)
+* [Grading](grading.md)
 * Unit 0 / Setup
    * [Reclaim Hosting](Unit 0 /reclaimmd.md)
    * [Environment](Unit 0 /environment.md)
