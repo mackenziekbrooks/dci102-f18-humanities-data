@@ -11,12 +11,13 @@
 * Unit 1 / Text
    * [Assignments](Unit 1/unit1_assignments.md)
    * [Data](unit1(unit1_data.md)
-   * [Methodology](unit1_methodology.md)
+   * [Methodology](Unit 1/unit1_methodology.md)
 * Unit 2 / Network
-  * [Assignments](Unit 2/unit2_assignments.md)
-  * [Data](Unit 2/unit2_data.md)
-  * [Methodology](Unit 2/unit2_methodology.md)
+   * [Assignments](Unit 2/unit2_assignments.md)
+   * [Data](Unit 2/unit2_data.md)
+   * [Methodology](Unit 2/unit2_methodology.md)
 * Unit 3 / Space
-  * [Assignments](Unit 3/unit3_assignments.md)
-  * [Data](Unit 3/unit3_data.md)
-  * [Methodology](Unit 3/unit_methodology.md)
+   * [Assignments](Unit 3/unit3_assignments.md)
+   * [Data](Unit 3/unit3_data.md)
+   * [Methodology](Unit 3/unit_methodology.md)
+
