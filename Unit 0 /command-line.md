@@ -1,3 +1,2 @@
 # Command Line
-Stuff stuff 
-
+Most of us interact with our computers or phones through highly visual interfaces. We know what button to press because of the stylized image it contains. We understand what it means when a website has a blue "f" or when a friend sends a thumbs-up emoji. Your computer, regardless of operating system, wants to communicate with you via icons. But this hasn't always been the case. Graphical User Interfaces (GUI - pronounced gooey) are 
