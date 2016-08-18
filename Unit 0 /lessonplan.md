@@ -1,4 +1,11 @@
-Does it make sense to do this here? 
+# Outstanding
+http://schoolofdata.org/handbook/courses/what-is-data/
+http://miriamposner.com/blog/how-did-they-make-that/
+http://guides.library.upenn.edu/c.php?g=476112&p=3255815
+https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/digital-humanities.html
+http://miriamposner.com/dh101f15/index.php/tutorials-and-resources/cleaning-and-manipulating-data/
+http://miriamposner.com/dh101f15/index.php/tutorials-and-resources/cleaning-and-manipulating-data/
+
 
 ## Unit 1 
 
@@ -10,6 +17,7 @@ Does it make sense to do this here?
 * Something about the wild and wonderful world of data
 * How it connects with DH
 * What even is the humanities
+* What and why is data?? 
 * Domain registration, professional portfolio stuff
   * This isn't a class about how to use WP, I'm expecting you to use this as a container. 
 * Lots of time on assignments and grading, BOX
