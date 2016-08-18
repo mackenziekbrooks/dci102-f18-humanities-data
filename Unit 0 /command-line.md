@@ -11,7 +11,7 @@ If you're on Windows, open cmd.exe.
 
 * The command line gives you power. It frees you from a lot of clicking and lets you inhabit a world where your computer does exactly what you say. 
 * The command line lets you script and automate tasks and processes. It lets you perform the same set of actions on a one file or on many files. 
-* The command line is often needed for installing and running DH tools. 
+* The command line is often used for installing and running DH tools. 
 
 
 ## Learn
