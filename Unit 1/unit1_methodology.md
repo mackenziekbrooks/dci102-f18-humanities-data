@@ -10,3 +10,5 @@ There are a wide variety of methods for analyzing textual data. Obviously, we wi
 
 
 [Introduction to Text Analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/) by Prof. Brandon Walsh
+
+https://mimno.infosci.cornell.edu/
