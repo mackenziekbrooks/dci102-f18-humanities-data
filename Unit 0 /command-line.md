@@ -15,7 +15,9 @@ But there's another way. You can interact with your computer entirely via text c
 ## How
 If you're on a Mac, search for an app called Terminal. 
 
-If you're on Windows, open cmd.exe. 
+If you're on Windows, open cmd.exe or Powershell. 
 
 ## Learn
 There are a lot of resources for learning the command line. We'll be using [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) in this class. 
+
+Scholars' Lab has a great [tutorial](http://praxis.scholarslab.org/scratchpad/bash/). 
