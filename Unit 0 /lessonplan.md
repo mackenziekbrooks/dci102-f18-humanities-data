@@ -5,6 +5,7 @@ http://guides.library.upenn.edu/c.php?g=476112&p=3255815
 https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/digital-humanities.html
 http://miriamposner.com/dh101f15/index.php/tutorials-and-resources/cleaning-and-manipulating-data/
 http://miriamposner.com/dh101f15/index.php/tutorials-and-resources/cleaning-and-manipulating-data/
+http://www.digitalpedagogylab.com/hybridped/making-breaking-rethinking-web-higher-ed/
 
 
 ## Unit 1 
