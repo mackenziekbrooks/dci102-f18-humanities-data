@@ -1,5 +1,9 @@
 # HTML + CSS
 
+## How the web works
+The internet is magic. Just kidding, it's really not. The internet is made up of computers connected to other computers. 
+
+
 ## HTML
 HTML, or Hypertext Markup Language, is one of the basic building blocks of the web. HTML is a set of tags that add structure to documents. 
 
