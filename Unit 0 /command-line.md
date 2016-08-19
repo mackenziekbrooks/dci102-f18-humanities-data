@@ -1,5 +1,5 @@
 # Command Line
-Most of us interact with our computers or phones through highly visual interfaces. We know what button to press because of the stylized image it contains. We understand what it means when a website has a blue "f" or when a friend sends a thumbs-up emoji. Your computer, regardless of operating system, wants to interact with you via icons. The term for this is Graphical User Interfaces or GUI (pronounced gooey). 
+Most of us interact with our computers or phones through highly visual interfaces. We know what button to press because of the stylized image representing it. We understand what it means when a website has a blue "f" or when a friend sends a thumbs-up emoji. Your computer, regardless of operating system, wants to interact with you via icons. We call these Graphical User Interfaces or GUI (pronounced gooey). 
 
 But there's another way. You can interact with your computer entirely via text commands through something called a Command Line Interface or CLI. When you see a hacker typing green text into a black box in a movie, they're using the command line. And you can too. 
 
