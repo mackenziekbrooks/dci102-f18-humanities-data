@@ -13,9 +13,13 @@ But there's another way. You can interact with your computer entirely via text c
 
 
 ## How
+Mac vs. Windows. The commands are not always the same, so this will be a hassle. This hassle will continue well into your adult life.
+
 If you're on a Mac, search for an app called Terminal. 
 
 If you're on Windows, open cmd.exe or Powershell. 
+
+![https://xkcd.com/934/](http://imgs.xkcd.com/comics/mac_pc.png )
 
 ## Learn
 There are a lot of resources for learning the command line. We'll be using [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) in this class. 
