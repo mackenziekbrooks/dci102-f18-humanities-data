@@ -5,7 +5,7 @@
 ### Thursday, 9/8/16
 * Course overview
 * What and why is DH?
-* Lab: domain registration 
+* Lab: domain registration with [Reclaim Hosting](Unit 0/reclaimmd.md)
 
 
 ### Tuesday, 9/13/16
