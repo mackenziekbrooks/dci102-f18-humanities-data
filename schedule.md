@@ -10,7 +10,7 @@
 
 ### Tuesday, 9/13/16
 * How the web works
-* Lab: HTML + CSS
+* Lab: [HTML + CSS](Unit 0/html-css.md)
 * Readings: 
   * [Digital_Humanities](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), chap 1
   * [Technology Is Taking Over English Departments: The false promise of the digital humanities](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)
