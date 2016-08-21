@@ -25,9 +25,6 @@ Read for Thursday:
 * Guest speakers: *Geolocation* artists
 * Lab: command line
 
-  
-
-
 ### Tuesday, 9/20/16
 *Methodology review: text*
 * Guest speaker: Brandon Walsh
@@ -36,8 +33,9 @@ Read for Thursday:
   * [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet)
   * [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/index.html@p=19113.html)
 
-### Thursday, 9/22
+### Thursday, 9/22/16
 *Data cleanup: text* 
+* Project review due by 8am. Be prepared to share. 
 * How computers read
 * Data set introduction
 * Guest speaker: Alston Cobourn, Digital Scholarship Librarian
