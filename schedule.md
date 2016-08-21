@@ -21,7 +21,7 @@ Read for Thursday:
 
 ### Thursday, 9/15/16 
 *Methodology review: text*
-* Text Analysis introduction
+* Text analysis introduction
 * Guest speakers: *Geolocation* artists
 * Lab: command line
 
