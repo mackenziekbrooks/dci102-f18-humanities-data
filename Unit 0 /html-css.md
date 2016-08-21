@@ -20,7 +20,7 @@ In fact, you can see the HTML for any page on the web by right clicking anywhere
 
 HTML documents are just plain text documents. You can write and read HTML in a text editor like Notepad++ or Sublime. The magic happens when you open an HTML document in the browser. 
 
-## Exercise 1
+## Activity 1
 Open your favorite text editor and using the W3 Schools as a guide, write your own HTML document. 
 
 Tasks:
@@ -37,7 +37,7 @@ See some basic CSS at the [W3 Schools CSS tutorial](http://www.w3schools.com/css
 
 The beauty of CSS is that you can keep all your styles in one stylesheet which you link to all your HTML pages. 
 
-## Exercise 2
+## Activity 2
 
 Create a separate CSS document and link it to your HTML document. 
 
