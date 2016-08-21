@@ -14,7 +14,7 @@ http://www.digitalpedagogylab.com/hybridped/making-breaking-rethinking-web-highe
 * Course overview
 * What and why is DH?
 * Lab: domain registration 
-
+///
 * Something about the wild and wonderful world of data
 * How it connects with DH
 * What even is the humanities
@@ -32,7 +32,9 @@ http://www.digitalpedagogylab.com/hybridped/making-breaking-rethinking-web-highe
   * [Digital_Humanities](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), chap 1
   * [Technology Is Taking Over English Departments: The false promise of the digital humanities](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)
   * [Defining Data for Humanists: Text, Artifact, Information or Evidence?](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
-  * 
+ /////
+ Wordpress work 
+ 
 
 ### Thursday, 9/15/16 
 *Methodology review: text*
