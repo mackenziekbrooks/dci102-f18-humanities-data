@@ -49,7 +49,13 @@ Specs:
 
 
 ### Project visualization
+Now that you have some experience creating a usable data set - what can you do with it? From the tools we have experimented with in class, select your favorite and/or most meaningful visualization. This can be a graph, a word cloud, a topic model etc. 
 
+Specs:
+* Due Thursday 10/6 by 8am. 
+* Embed/publish on your website. 
+* Include 100-200 words on why you selected this visualization. 
+* 
 
 ### Project narrative
 
