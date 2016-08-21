@@ -1,10 +1,10 @@
 # DH 102: Data in the Humanities 
 
-https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities
+[Course website](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities)
 
-Fall 2016
-TR 2:30-4:30
-Leyburn M47
+Fall 2016 // TR 2:30-4:30 // Leyburn M47
+
+////
 
 Mackenzie Brooks
 
