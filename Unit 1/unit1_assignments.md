@@ -51,8 +51,11 @@ Specs:
 ### Project visualization
 
 
+### Project narrative
 
-### 
+### Project documentation
+
+### Project reflection
 
 
 
