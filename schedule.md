@@ -18,6 +18,7 @@
 
 **Read for Thursday:**
 * [We Can All Be Technical With the Right Teacher](https://recompilermag.com/issues/issue-0/we-can-all-be-technical-with-the-right-teacher/)
+* [Introduction to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash) (we will review in class)
 
 ### Thursday, 9/15/16 
 *Methodology review: text*
