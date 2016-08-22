@@ -26,13 +26,16 @@
 * Guest speakers: *Geolocation* artists
 * Lab: command line
 
+**Read for Tuesday**
+* [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet)
+* [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/index.html@p=19113.html)
+
 ### Tuesday, 9/20/16
 *Methodology review: text*
 * Guest speaker: Brandon Walsh
 * Lab: text analysis tools
 * Readings: 
-  * [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet)
-  * [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/index.html@p=19113.html)
+
 
 ### Thursday, 9/22/16
 *Data cleanup: text* 
