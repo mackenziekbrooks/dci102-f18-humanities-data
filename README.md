@@ -4,11 +4,7 @@
 
 Fall 2016 // TR 2:30-4:30 // Leyburn M47
 
-////
-
-Mackenzie Brooks
-
-Assistant Professor & Digital Humanities Librarian
+Mackenzie Brooks, Assistant Professor & Digital Humanities Librarian
 
 brooksm@wlu.edu // 540-458-8659 // Leyburn M37/218
 
@@ -50,3 +46,11 @@ In groups, we will take advantage of local archival material to develop network 
 In this unit, we will explore how spatial visualizations affect our understanding of a cultural object or process, be it a novel like Mrs. Dalloway or an historical event like Emancipation. How do you visualize movement in space using good design principles? How do you map fictional places? 
 
 We will work in the same groups and with the same data as Unit 2. Now that we have worked through the project management cycle twice, students will be expected to assemble their projects independently. They will research mapping methodology and tools, design the project, create a clean data set, and assemble the project. 
+
+# Policies
+
+## Accommodations
+Washington and Lee University makes reasonable academic accommodations for qualified students with disabilities. All undergraduate accommodations must be approved through the Office of the Dean of the College. Students requesting accommodations for this course should present an official accommodation letter within the first two weeks of the term and schedule a meeting outside of class time to discuss accommodations. It is the student’s responsibility to present this paperwork in a timely fashion and to follow up about accommodation arrangements. 
+
+## Plagiarism
+All writing should be your own or should be cited properly. The writing assignments in this course are different than what is required in other courses, so we will discuss proper citation procedures for writing for the Web, writing in a group, and writing technical documentation. For more info: http://libguides.wlu.edu/plagiarism
