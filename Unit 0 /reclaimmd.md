@@ -10,6 +10,7 @@ Your domain can be a place to build a professional portfolio or just experiment 
 
 In this class, your website will be an easy-to-share container for the work you do. In a world where print is the primary medium of scholarship, term papers in Word docs make sense. But the tools we will use to create, clean, and visualize data expect a web-based final product. 
 
+
 ## Privacy
 That being said, this domain is in your control. If there is work you do not want to publish to the web, we can arrange other methods of delivery. Password protection is an option. 
 
@@ -26,4 +27,3 @@ For more on this topic, see ["Do I Own My Domain If You Grade It?"](https://www.
 ## Resources
 * [Reclaim Documentation](http://docs.reclaimhosting.com/)
 * [Domain basics](http://domains.davidson.edu/support/general_information/domain_basics)
-* 
