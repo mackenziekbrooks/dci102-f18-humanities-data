@@ -7,7 +7,7 @@
 * What and why is DH?
 * Lab: domain registration with [Reclaim Hosting](Unit 0/reclaimmd.md)
 
-Read for Tuesday:
+**Read for Tuesday:**
   * [Digital_Humanities](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), chap 1
   * [Technology Is Taking Over English Departments: The false promise of the digital humanities](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)
   * [Defining Data for Humanists: Text, Artifact, Information or Evidence?](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
@@ -16,7 +16,7 @@ Read for Tuesday:
 * How the web works
 * Lab: [HTML + CSS](Unit 0/html-css.md)
 
-Read for Thursday:
+**Read for Thursday:**
 * [We Can All Be Technical With the Right Teacher](https://recompilermag.com/issues/issue-0/we-can-all-be-technical-with-the-right-teacher/)
 
 ### Thursday, 9/15/16 
