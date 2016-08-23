@@ -1,8 +1,7 @@
   # Unit 1 / Text / Methodology 
-There are a wide variety of methods for analyzing textual data. Obviously, we will not be able to cover them all in-depth. The goal of this unit is to introduce you to text analysis methods and the steps required to assemble a textual data set. 
- 
+There are a wide variety of methods for analyzing textual data. Obviously, we will not be able to cover them all in-depth. The goal of this unit is to introduce you to text analysis methods and the steps required to assemble a textual data set. Because this is a data-focused course, we are not spending time on digital methods for close reading. But they do exist!
+
 ## Defining methods
-### Distant reading
 
 ### Word frequency or counting words
 Word frequency is a good place to start. How many times does a specific word occur in a document? In a corpus? 
@@ -21,7 +20,7 @@ For our purposes, n-grams are phrases of a certain length or "n". Technically, l
 
 Prof. Brandon Walsh delves into the nuances of the Ngram Viewer over on his [text analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/issues/google-ngram.html).
 ### Topic modeling
-
+A complex technique for determining the topic or a list of topics of a document/corpus. 
 
 ### Sentiment analysis 
 
@@ -30,6 +29,12 @@ Prof. Brandon Walsh delves into the nuances of the Ngram Viewer over on his [tex
 Easy to use word cloud generator. 
 
 ### Voyant
+A classic text analyis tool. Accepts single documents or entire corpora. 
+
+[http://voyant-tools.org](http://voyant-tools.org)
+
+I recommend [running Voyant locally](http://docs.voyant-tools.org/resources/run-your-own/voyant-server/) so it doesn't stress their servers.
+
 ### AntConc
 
 [AntConc](http://www.laurenceanthony.net/software/antconc/)
@@ -49,3 +54,7 @@ Serendip
 * [Introduction to Text Analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/) by Prof. Brandon Walsh
 
 https://mimno.infosci.cornell.edu/
+
+http://culturalanalytics.org/
+
+http://guides.library.duke.edu/c.php?g=289707&p=1930856
