@@ -19,6 +19,7 @@
 **Read for Thursday:**
 * [We Can All Be Technical With the Right Teacher](https://recompilermag.com/issues/issue-0/we-can-all-be-technical-with-the-right-teacher/)
 * [Introduction to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash) (we will review in class)
+* [Selection of articles](https://dl.dropboxusercontent.com/u/24448504/LS-StudentReadingPacket.pdf) by *Geolocation* artists
 
 ### Thursday, 9/15/16 
 *Methodology review: text*
@@ -26,7 +27,7 @@
 * Guest speakers: *Geolocation* artists
 * Lab: command line
 
-**Read for Tuesday**
+**Read for Tuesday:**
 * [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet)
 * [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/index.html@p=19113.html)
 
@@ -44,11 +45,14 @@
 * Data set introduction
 * Guest speaker: Alston Cobourn, Digital Scholarship Librarian
 * Lab: OCR 
-* Readings: 
+
+**Read for Tuesday:**
+* [Beginning with Regular Expressions](https://recompilermag.com/issues/issue-0/beginning-with-regular-expressions/)
+* [Cleaning OCR'd text with regular expressions](http://programminghistorian.org/lessons/cleaning-ocrd-text-with-regular-expressions)
 
 ### Tuesday, 9/27
 *Data cleanup: text*
-* Data normalization
+* Data cleanup
 * Guest speaker: Jason Mickel
 * Lab: regular expressions
 
