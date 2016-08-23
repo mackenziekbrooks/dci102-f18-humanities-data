@@ -1,20 +1,49 @@
   # Unit 1 / Text / Methodology 
 There are a wide variety of methods for analyzing textual data. Obviously, we will not be able to cover them all in-depth. The goal of this unit is to introduce you to text analysis methods and the steps required to assemble a textual data set. 
  
-## Methods
+## Defining methods
+### Distant reading
 
+### Word frequency or counting words
+Word frequency is a good place to start. How many times does a specific word occur in a document? In a corpus? 
+
+You've probably seen this executed in the form of a word cloud. The more frequently a word appears, the larger the size.
+
+For more introduction, check out ["Basic Text Mining: Word Clouds, their Limitations, and Moving Beyond."](http://www.themacroscope.org/?page_id=633)
+
+### Collocation and context
+So we have some frequently-used words. What about their neighbors? Are there patterns to the words that appear around our frequently-used words? Where is the document do those words appear? Near the beginning or the end? 
+
+### N-grams 
+For our purposes, n-grams are phrases of a certain length or "n". Technically, linguists consider n-grams to be "a contiguous sequence of n items from a given sequence of text or speech" ([Wikipedia](https://en.wikipedia.org/wiki/N-gram)).
+
+[Google Books Ngram Viewer](https://books.google.com/ngrams) is a popular tool for visualizing n-grams over time in the Google Books data set. 
+
+Prof. Brandon Walsh delves into the nuances of the Ngram Viewer over on his [text analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/issues/google-ngram.html).
+### Topic modeling
+
+
+### Sentiment analysis 
 
 ## Tools
-Wordle
-Voyant
+### Wordle
+Easy to use word cloud generator. 
+
+### Voyant
+### AntConc
+
 [AntConc](http://www.laurenceanthony.net/software/antconc/)
-Bookworm 
+
+### Google n-gram
+
+### Bookworm 
 
 
+JSTOR DFR
 
 ## Projects ??
 
-
-[Introduction to Text Analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/) by Prof. Brandon Walsh
+## Resources
+* [Introduction to Text Analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/) by Prof. Brandon Walsh
 
 https://mimno.infosci.cornell.edu/
