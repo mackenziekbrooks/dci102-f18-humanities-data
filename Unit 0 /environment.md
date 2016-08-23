@@ -13,7 +13,7 @@ One key feature of Box is Box Sync. This makes the contents of your Box folders 
 I have made our course readings available in a Zotero [group library](https://www.zotero.org/groups/dh102-f16). Let me know if you want to join and add resources.
 
 ## Homebrew
-[Homebrew](http://brew.sh/) makes it easy to install various packages on a Mac.
+[Homebrew](http://brew.sh/) makes it easy to install various packages on a Mac. [Scoop](http://scoop.sh/) is a similar options for Windows.
 
 
 ## Text editors
