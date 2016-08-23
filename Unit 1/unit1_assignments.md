@@ -56,8 +56,17 @@ Specs:
 * Include 100-200 words on why you selected this visualization. 
 * 
 
-### Project narrative
 
+## Advanced Assignments
+### Project narrative
+Because we are short on time, you're not being expected to design and implement a full-scale data-driven project. This assignment asks you to use your imagination about what this project could become. Now that you're familiar with the data, what paths would you like to pursue? 
+
+Specs:
+* Due Thursday 10/6 by 8am. 
+* Embed/publish on your website OR submit via your Box folder. 
+* 250-300 words. 
+* Identify your disciplinary angle. Are you approaching this project as a historian, a literature person, someone else entirely?
+* Include three potential research questions. 
 
 ### Project documentation
 
@@ -67,4 +76,3 @@ Specs:
 
 
 
-## Advanced Assignments
