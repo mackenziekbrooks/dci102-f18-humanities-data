@@ -12,7 +12,9 @@ I have made our course readings available in a Zotero [group library](https://ww
 
 
 ## Text editors
-Microsoft Word or Google Drive are great apps for writing papers. They make it easy to style and present a document. However, to work with text in a programmatic way, or to write code, we need a different app. 
+Microsoft Word or Google Drive are great apps for writing papers. They make it easy to style and present a document. However, to work with text in a programmatic way, or to write code, we need a different app. MS Word adds a lot of hidden styling and other baggage that we don't need. One of the best features of text editors is that they can detect what language you're writing in and highlight the elements in different colors.
+
+There are a lot of [options](http://lifehacker.com/five-best-text-editors-1564907215) for text editors. You're welcome to try on a few before choosing. I use [Sublime Text](https://www.sublimetext.com), so I recommend you install it for consistency. 
 
 ## Note taking
 [Hypothes.is](https://hypothes.is/) is a new framework for open annotation of the web. It operates via a Chrome extension allowing you to make private and public comments on websites. I have set up a [private group](https://hypothes.is/groups/XnMbDqV8/dh102-f16) for our course if you want to participate.
