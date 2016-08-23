@@ -41,6 +41,8 @@ Easy to use word cloud generator.
 
 JSTOR DFR
 
+Serendip
+
 ## Projects ??
 
 ## Resources
