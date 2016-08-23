@@ -2,6 +2,11 @@
 
 Just as you might outfit your study carrel with all the essentials, your computer also needs to be set up with all the right tools. Preparing as much as you can ahead of time keeps you from losing momentum when that new tool you want to try has more dependencies than you expected. Make the computer work for you. 
 
+## Box
+Did you know that W&L offers unlimited cloud storage while you're a student? We will use [http://box.wlu.edu/](https://www.wlu.edu/its/how-to/box-faq) to share course materials. Please take some time to familiarize yourself with the platform.
+
+One key feature of Box is Box Sync. This makes the contents of your Box folders accessible via the Finder or Windows Explorer. You will need to install Box Sync on your computer. 
+
 ## Zotero
 [Zotero](https://www.zotero.org/) is a citation manager. They offer browser plugins so you can capture citation information directly from the web. There is also a standalone desktop app (and [text mining possibilities](http://papermachines.org/)!) as well. There's even a plug-in for MS Word that will automatically generate your bibliography. 
 
