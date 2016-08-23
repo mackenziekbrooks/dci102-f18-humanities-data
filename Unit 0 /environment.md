@@ -5,7 +5,7 @@ Just as you might outfit your study carrel with all the essentials, your compute
 ## Zotero
 [Zotero](https://www.zotero.org/) is a citation manager. They offer browser plugins so you can capture citation information directly from the web. There is also a standalone desktop app (and [text mining possibilities](http://papermachines.org/)!) as well. There's even a plug-in for MS Word that will automatically generate your bibliography. 
 
-I have made our course readings available in a Zotero library. 
+I have made our course readings available in a Zotero [group library](https://www.zotero.org/groups/dh102-f16). Let me know if you want to join and add resources.
 
 ## Homebrew
 [Homebrew](http://brew.sh/) makes it easy to install various packages on a Mac.
