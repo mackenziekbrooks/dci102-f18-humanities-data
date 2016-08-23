@@ -12,7 +12,7 @@ I have made our course readings available in a Zotero [group library](https://ww
 
 
 ## Text editors
-
+Microsoft Word or Google Drive are great apps for writing papers. They make it easy to style and present a document. However, to work with text in a programmatic way, or to write code, we need a different app. 
 
 ## Note taking
 [Hypothes.is](https://hypothes.is/) is a new framework for open annotation of the web. It operates via a Chrome extension allowing you to make private and public comments on websites. I have set up a [private group](https://hypothes.is/groups/XnMbDqV8/dh102-f16) for our course if you want to participate.
