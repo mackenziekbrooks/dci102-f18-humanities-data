@@ -5,6 +5,12 @@ There are a wide variety of methods for analyzing textual data. Obviously, we wi
 
 
 ## Tools
+Wordle
+Voyant
+[AntConc](http://www.laurenceanthony.net/software/antconc/)
+Bookworm 
+
+
 
 ## Projects ??
 
