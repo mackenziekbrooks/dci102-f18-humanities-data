@@ -44,9 +44,8 @@ Specs:
 * Submit in a zipped folder via Box.
 * Include a text file titled "data-assessment-%DATE.txt" with the results of our in-class activity. 
 * Include a text file titled "data-cleanup-%DATE.txt" with a list of the modifications you made to your data set. Those modifications should include:
-  * Thing
+  * 10 regular expressions patterns that have a major impact on your data set. Out of all the problems, what are the most important ones to solve?
   
-
 
 ### Project visualization
 Now that you have some experience creating a usable data set - what can you do with it? From the tools we have experimented with in class, select your favorite and/or most meaningful visualization. This can be a graph, a word cloud, a topic model etc. 
@@ -58,6 +57,7 @@ Specs:
 * 
 
 ### Project narrative
+
 
 ### Project documentation
 
