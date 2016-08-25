@@ -19,9 +19,12 @@ For our purposes, n-grams are phrases of a certain length or "n". Technically, l
 [Google Books Ngram Viewer](https://books.google.com/ngrams) is a popular tool for visualizing n-grams over time in the Google Books data set. 
 
 Prof. Brandon Walsh delves into the nuances of the Ngram Viewer over on his [text analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/issues/google-ngram.html).
+
 ### Topic modeling
 A complex technique for determining the topic or a list of topics of a document/corpus. 
-http://programminghistorian.org/lessons/topic-modeling-and-mallet
+
+For more introduction, check out [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet).
+
 
 ### Sentiment analysis 
 
