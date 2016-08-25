@@ -107,7 +107,10 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 * Relatedly, respond to the *Geolocation* exhibit and readings. 
 * What interesting stuff have you found in *Ring-tum Phi*? Anything that would make a cool research project? Is there a period of W&L's history that you'd like to learn more about? How would you compare that period to today? 
 
-
-
+Specs:
+* 2 blog posts due 10/6 by 8am. (I recommend spacing them out!)
+* Publish to your own domain. 
+* 300-500 words
+* Link to outside articles and embed images (with citations!), if relevant.
 
 
