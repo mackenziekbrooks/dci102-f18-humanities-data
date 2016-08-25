@@ -21,6 +21,7 @@ Specs:
   * How open is the project? Do they share their data? In what format? Is there public documentation?
  
 Projects:
+* [Mining the Dispatch](http://dsl.richmond.edu/dispatch/)
 * [The Proceedings of the Old Bailey](https://www.oldbaileyonline.org/)
 * [DPLA App Library](https://dp.la/apps)
 * [Listen to Wikipedia](http://listen.hatnote.com/)
