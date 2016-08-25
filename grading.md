@@ -20,23 +20,24 @@ This course will use an alternative grading model known as "Specifications Gradi
 ## B-level requirements
 
 * Complete all core assignments in each unit.
-* Complete 1 advanced assignment in each unit. 
+* Complete 2 advanced assignments in each unit. 
 * Write 4/6 blog posts.
 * Attendance is good, 1-2 absences.
 
 ## C-level requirements
 
 * Complete all core assignments in each unit. 
-* Complete no advanced assignments in any units.
+* Complete 1 advanced assignment in each unit.
 * Write 3/6 blog posts. 
 * Attendance is moderate, 3+ absences. 
+
+---
 
 ### Blog posts
 * 2 blog posts due each unit to your own domain 
 * Posts can be on a topic of your choosing, though I can provide prompts.
 * 300-500 words.
-* Include links and images (with citation) when appropriate. 
-* I encourage personal responses/reflections on the work we've been doing in class. 
+* Include links and images (with citation) when appropriate.  
 
 ### Core Assignments
 * Project Review
@@ -44,7 +45,6 @@ This course will use an alternative grading model known as "Specifications Gradi
 * Project Visualization
 
 ### Advanced Assignments
-
 * Project Narrative
 * Project Documentation 
 * Project Reflection 
