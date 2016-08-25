@@ -85,12 +85,19 @@ Specs:
 * Include screenshots when appropriate.
 
 ### Project reflection
-The final assignment for this unit a piece of reflective writing. Talk about your feelings. What have you learned? What has been challenging? How has your relationship with technology changed? What would you have done differently?
+The final assignment for this unit a piece of reflective writing. Talk about your feelings. What have you learned? What has been challenging? How has your relationship with technology changed? What would you have done differently? What new strategies will you try in the next unit?
 
 Specs:
 * Due Thursday 10/6 by 8am. 
 * Submit via your Box folder. You are welcome, but not required to post to your website.
 * 300-500 words.
+* Address the following: 
+  * What have you learned? 
+  * What has been challenging? 
+  * How has your relationship with technology changed? 
+  * What would you have done differently? 
+  * What new strategies will you try in the next unit?
+
 
 
 
