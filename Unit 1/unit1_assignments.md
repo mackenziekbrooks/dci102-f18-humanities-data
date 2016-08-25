@@ -71,14 +71,21 @@ Specs:
 ### Project documentation
 As you have reviewed projects and experimented with various tools, you have found yourself relying on their documentation. Documentation is super important, but it doesn't always get the attention it deserves. Documenting your process, your project, and everything in between helps yourself and others. Ever gone back to a project after time away? Was it hard to remember where you left off? (This will only get worse as you get older). Documentation is a gift to your future self. A detailed description of what you did and how you did it will help your external audience as well. Your work can serve as inspiration or help someone through a similar problem. Last but not least, documentation is a workplace reality. Your boss and your team will want to know what you've been working on. 
 
+Your professor is not your audience. Imagine a friend or family member trying to recreate what you have done in this unit using your documentation.
+
 Check out [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) for more guidance.
 
 Specs:
 * Due Thursday 10/6 by 8am. 
 * Publish to your website.
-* 
+* Address the following:
+  * What is your data set? Where did it come from? Who owns it? 
+  * What did you do to your data? How did you do it?
+  * What tools did you use? How did you use them? What steps did you follow? 
+* Include screenshots when appropriate.
 
 ### Project reflection
+
 
 
 
