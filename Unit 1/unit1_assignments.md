@@ -55,6 +55,9 @@ Specs:
 * Due Thursday 10/6 by 8am. 
 * Embed/publish on your website. 
 * Include 100-200 words on why you selected this visualization. 
+  * What did you learn about your data from this visualization, if anything?
+  * What about the methodology worked or didn't work?
+  * Are there issues with the data that the visualization illuminates or disguises?
 * Indicate which tool/method you used to produce this visualization. 
 
 
