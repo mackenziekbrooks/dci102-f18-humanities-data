@@ -13,6 +13,7 @@
   * [Defining Data for Humanists: Text, Artifact, Information or Evidence?](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
 
 ### Tuesday, 9/13/16
+* Discuss readings
 * How the web works
 * Lab: [HTML + CSS](Unit 0/html-css.md)
 
@@ -26,7 +27,7 @@
 *Methodology review: text*
 * Text analysis introduction
 * Guest speakers: *Geolocation* artists
-* Lab: command line
+* Lab: [command line](Unit 0/commandline.md)
 
 **Read for Tuesday:**
 * [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet)
