@@ -54,7 +54,7 @@ Specs:
 * Due Thursday 10/6 by 8am. 
 * Embed/publish on your website. 
 * Include 100-200 words on why you selected this visualization. 
-* 
+* Indicate which tool/method you used to produce this visualization. 
 
 
 ## Advanced Assignments
@@ -69,6 +69,14 @@ Specs:
 * Include three potential research questions. 
 
 ### Project documentation
+As you have reviewed projects and experimented with various tools, you have found yourself relying on their documentation. Documentation is super important, but it doesn't always get the attention it deserves. Documenting your process, your project, and everything in between helps yourself and others. Ever gone back to a project after time away? Was it hard to remember where you left off? (This will only get worse as you get older). Documentation is a gift to your future self. A detailed description of what you did and how you did it will help your external audience as well. Your work can serve as inspiration or help someone through a similar problem. Last but not least, documentation is a workplace reality. Your boss and your team will want to know what you've been working on. 
+
+Check out [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) for more guidance.
+
+Specs:
+* Due Thursday 10/6 by 8am. 
+* Publish to your website.
+* 
 
 ### Project reflection
 
