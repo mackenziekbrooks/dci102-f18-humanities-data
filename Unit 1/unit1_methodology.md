@@ -24,9 +24,10 @@ Prof. Brandon Walsh delves into the nuances of the Ngram Viewer over on his [tex
 A complex technique for determining the topic or a list of topics of a document/corpus. 
 
 For more introduction, check out [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet).
-
+Also, [Topic Modeling Made Just Simple Enough](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/) by Ted Underwood.
 
 ### Sentiment analysis 
+
 
 ## Tools
 ### Wordle
