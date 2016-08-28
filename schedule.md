@@ -69,14 +69,15 @@
 ### Tuesday, 10/4/16
 *Documentation*
 
-
+**All Unit 1 assignments due 10/6/16 by 8am**
 ## Unit 2 Network
 
 ### Thursday, 10/6/16
 *Methodology review: network*
 * What are networks?
 * Lab:
-* Reading:
+
+*Read for Tuesday:*
   * [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
 
 ### Tuesday, 10/11/16
