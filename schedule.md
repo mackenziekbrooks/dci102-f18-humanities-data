@@ -66,7 +66,7 @@
 * Lab: data cleanup continued 
 
 ### Tuesday, 10/4/16
-*Documentation*
+*Project work + documentation*
 * End of unit review 
 * Lab: project work continued
 * Lab: documentation writing
