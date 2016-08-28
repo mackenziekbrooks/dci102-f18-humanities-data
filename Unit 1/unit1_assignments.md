@@ -46,6 +46,7 @@ Specs:
 * Include a text file titled "data-assessment-%DATE.txt" with the results of our in-class activity. 
 * Include a text file titled "data-cleanup-%DATE.txt" with a list of the modifications you made to your data set. Those modifications should include:
   * 5 or more regular expressions patterns that have a major impact on your data set. Out of all the problems, what are the most important ones to solve?
+  * Changes made to the existing file structure or file names.
   
 
 ### Project visualization
@@ -69,8 +70,10 @@ Specs:
 * Due Thursday 10/6 by 8am. 
 * Embed/publish on your website OR submit via your Box folder. 
 * 250-300 words. 
-* Identify your disciplinary angle. Are you approaching this project as a historian, a literature person, someone else entirely?
+* Introduce the data set and provide context. 
+* Identify your disciplinary angle. Are you approaching this project as a historian, a literature person, someone else entirely? Who is your audience?
 * Include three potential research questions. 
+
 
 ### Project documentation
 As you have reviewed projects and experimented with various tools, you have found yourself relying on their documentation. Documentation is super important, but it doesn't always get the attention it deserves. Documenting your process, your project, and everything in between helps yourself and others. Ever gone back to a project after time away? Was it hard to remember where you left off? (This will only get worse as you get older). Documentation is a gift to your future self. A detailed description of what you did and how you did it will help your external audience as well. Your work can serve as inspiration or help someone through a similar problem. Last but not least, documentation is a workplace reality. Your boss and your team will want to know what you've been working on. 
