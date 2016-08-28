@@ -45,7 +45,7 @@
 
 ### Thursday, 9/22/16
 *Data cleanup: text* 
-* Project review due by 8am. Be prepared to share. 
+* Assignment: Project review due by 8am. Be prepared to share. 
 * How computers read
 * Data set introduction
 * Guest speaker: Alston Cobourn, Digital Scholarship Librarian
