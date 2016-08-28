@@ -80,6 +80,4 @@ Or [NLTK](http://www.nltk.org/) is a Python library for conducting natural langu
 * [Introduction to Text Analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/) by Prof. Brandon Walsh
 * [Journal of Cultural Analytics](http://culturalanalytics.org/) - new journal devoted to "the computational study of culture."
 * [Intro to Text Analysis guide](http://guides.library.duke.edu/text_analysis) from Duke University Libraries
-
-
-http://guides.library.duke.edu/c.php?g=289707&p=1930856
+* *[The Historian's Macroscope](http://www.themacroscope.org/?page_id=633)*, starting with the chapter "Basic Text Mining"
