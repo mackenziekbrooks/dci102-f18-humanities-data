@@ -8,12 +8,9 @@ Did you know that W&L offers unlimited cloud storage while you're a student? We 
 One key feature of Box is Box Sync. This makes the contents of your Box folders accessible via the Finder or Windows Explorer. You will need to install Box Sync on your computer. 
 
 ## Zotero
-[Zotero](https://www.zotero.org/) is a citation manager. They offer browser plugins so you can capture citation information directly from the web. There is also a standalone desktop app (and [text mining possibilities](http://papermachines.org/)!) as well. There's even a plug-in for MS Word that will automatically generate your bibliography. 
+[Zotero](https://www.zotero.org/) is a citation manager. It operates via a browser plugin so you can capture citation information directly from the web. There is also a standalone desktop app (and [text mining possibilities](http://papermachines.org/)!) as well. There's even a plug-in for MS Word that will automatically generate your bibliography. 
 
 I have made our course readings available in a Zotero [group library](https://www.zotero.org/groups/dh102-f16). Let me know if you want to join and add resources.
-
-## Homebrew
-[Homebrew](http://brew.sh/) makes it easy to install various packages on a Mac. [Scoop](http://scoop.sh/) is a similar options for Windows.
 
 
 ## Text editors
@@ -26,6 +23,9 @@ There are a lot of [options](http://lifehacker.com/five-best-text-editors-156490
 
 If you're a big note-taker, [Evernote](https://evernote.com) is a great option. Available on the web, desktop, or mobile device. 
 
+
+## Homebrew
+[Homebrew](http://brew.sh/) makes it easy to install various packages on a Mac. [Scoop](http://scoop.sh/) is a similar options for Windows.
 
 
 
