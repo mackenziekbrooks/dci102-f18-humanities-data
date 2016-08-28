@@ -23,6 +23,14 @@ There are a lot of [options](http://lifehacker.com/five-best-text-editors-156490
 
 If you're a big note-taker, [Evernote](https://evernote.com) is a great option. Available on the web, desktop, or mobile device. 
 
+## File naming conventions
+Warning: I will be a stickler about file naming conventions. Not simply because it's annoying to receive 15 documents with the title "Paper 1.docx," but because file names matter a great deal for the kind of work we will do in this class. We will be dealing with a lot of files and versions of those files. The tools and scripts we will use expect consistency.
+
+Guidelines:
+* Avoid spaces, use dashes if you must. 
+* Include your last name or W&L user name.
+* Format dates as such YYYY-MM-DD to facilitate correct sorting.
+* Be consistent!!!! 
 
 ## Homebrew
 [Homebrew](http://brew.sh/) makes it easy to install various packages on a Mac. [Scoop](http://scoop.sh/) is a similar options for Windows.
