@@ -56,9 +56,9 @@ I recommend [running Voyant locally](http://docs.voyant-tools.org/resources/run-
 
 The Programming Historian has a lesson on "[Corpus Analysis with AntConc](http://programminghistorian.org/lessons/corpus-analysis-with-antconc)."
 
-### Google n-gram
+### Google n-gram and Bookworm
 
-### Bookworm 
+
 
 
 JSTOR DFR
