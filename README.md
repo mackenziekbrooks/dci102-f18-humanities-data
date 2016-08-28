@@ -21,6 +21,7 @@ This course introduces students to the creation and visualization of data in hum
 
 # Disclaimers
 +	If you have ever labeled yourself as “bad at technology,” you are welcome in this course. There is no assumed technical skill. See also: https://xkcd.com/1053/
++	That being said, your laptop will be a major player in this course. Please make sure it is good working order by updating software and visiting the IT help desk as necessary. 
 +	This course will mix theory and hands-on work. Be prepared to think critically about technology AND to get your hands dirty in a little bit of code. 
 +	The DH community values experimentation and productive failure, often in public. We will learn from how and why things don’t work. We are not just going to talk about what we’re learning but how we’re learning it.
 
@@ -45,7 +46,7 @@ In groups, we will take advantage of local archival material to develop network 
 ## Unit 3: Space
 In this unit, we will explore how spatial visualizations affect our understanding of a cultural object or process, be it a novel like Mrs. Dalloway or an historical event like Emancipation. How do you visualize movement in space using good design principles? How do you map fictional places? 
 
-We will work in the same groups and with the same data as Unit 2. Now that we have worked through the project management cycle twice, students will be expected to assemble their projects independently. They will research mapping methodology and tools, design the project, create a clean data set, and assemble the project. 
+We will work with the same data as Unit 2. Now that we have worked through the project management cycle twice, students will be expected to assemble their projects independently. They will research mapping methodology and tools, design the project, create a clean data set, and assemble the project. 
 
 # Policies
 
