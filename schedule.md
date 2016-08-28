@@ -58,18 +58,21 @@
 
 ### Tuesday, 9/27/16
 *Data cleanup*
-* Data cleanup
 * Guest speaker: Jason Mickel
 * Lab: regular expressions
 
 ### Thursday, 9/29/16
 *Project work* 
-* 
+* Lab: data cleanup continued 
 
 ### Tuesday, 10/4/16
 *Documentation*
+* End of unit review 
+* Lab: project work continued
+* Lab: documentation writing
 
 **All Unit 1 assignments due 10/6/16 by 8am**
+
 ## Unit 2 Network
 
 ### Thursday, 10/6/16
