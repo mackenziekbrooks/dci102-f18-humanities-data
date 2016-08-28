@@ -1,11 +1,12 @@
 # Schedule
 
-## Unit 1 
+## Unit 1 / Text 
 
 ### Thursday, 9/8/16
 * Course overview
-* What and why is DH?
+* What and why is DH? What about data? 
 * Lab: domain registration with [Reclaim Hosting](Unit 0/reclaimmd.md)
+* Lab: [environment](Unit 0/environment.md) setup
 
 **Read for Tuesday:**
   * [Digital_Humanities](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), chap 1
