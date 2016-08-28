@@ -24,7 +24,7 @@ The process by which computer turns that image into *characters* that can be man
 Scan with ABC. Compare OCR tools. Install tesseract and run it?
 
 ## Data set 
-A zip file of the RTP data set is available in our course Box folder. It consists of text files from each issue of the RTP. 
+A zip file of the RTP data set is available in our course Box folder. It consists of text files from each issue of the RTP. Or does it?
 
 The zip file also contains the folder ```/tesseractscript``` with the original scripts used to create the OCRed text files. This script was written by Professor Sara Sprenkle in 2014 in order to create a data set for another DH course. 
 
