@@ -81,7 +81,8 @@
 ## Unit 2 Network
 
 ### Thursday, 10/6/16
-*Methodology review: network*
+*Methodology review*
+* Unit 1 project debrief. Be prepared to share your results for Unit 1. 
 * What are networks?
 * Lab:
 
