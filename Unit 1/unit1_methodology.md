@@ -34,16 +34,6 @@ Classification and NER are other methods of "natural language processing" that y
 
 ## Tools
 
-### Evaluation questions
-
-* What do you think of the results? What's surprising? What's not? 
-* How about the tool itself? What options do you have? 
-* What can you do with the results? 
-* What is useful about this tool and type of analysis? 
-* Are the visualizations meaningful? Easy to decipher? Why or why not?
-* Compare and contrast tools.
-* Does this tool expose problems with your data?
-
 ### Wordle
 Word clouds are a simple way to get started. Copy and paste text from the RTP into [Wordle](http://www.wordle.net/). 
 
@@ -71,6 +61,20 @@ Check out [Getting Started with Topic Modeling and MALLET](http://programminghis
 
 [Serendip](http://vep.cs.wisc.edu/serendip/) is a visual interface for interacting with the topic models of a corpus. Using their sample data, you can compare topics across all of Shakespeare's plays. It's also possible to load in your own corpus. 
 
+### Natural Language Toolkit (NLTK)
+[NLTK](http://www.nltk.org/) is a Python library containing a number of text analysis tools. If you feel comfortable with the command line or have programming experience, you might want to explore this option. 
+
+Check out the [Steinheil Affair project on GitHub](https://github.com/wludh/frenchnewspapers) for an example of what can be with NLTK. 
+
+## Evaluation questions
+
+* What do you think of the results? What's surprising? What's not? 
+* How about the tool itself? What options do you have? 
+* What can you do with the results? 
+* What is useful about this tool and type of analysis? 
+* Are the visualizations meaningful? Easy to decipher? Why or why not?
+* Compare and contrast tools.
+* Does this tool expose problems with your data?
 
 ## Resources
 * [Introduction to Text Analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/) by Prof. Brandon Walsh
