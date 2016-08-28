@@ -3,8 +3,9 @@
 ## Unit 1 / Text 
 
 ### Thursday, 9/8/16
-* Course overview
-* What and why is DH? What about data? 
+* Intros, course overview, 
+* Getting to know you [survey](https://docs.google.com/forms/d/e/1FAIpQLSdf_G84ock01cJdtt4a5_JN8poqC_aWRiVtG_arVXnEsRBzbQ/viewform)
+* Lecture: What and why is DH? What about data? 
 * Lab: domain registration with [Reclaim Hosting](Unit 0/reclaimmd.md)
 * Lab: [environment](Unit 0/environment.md) setup
 
@@ -14,8 +15,7 @@
   * [Defining Data for Humanists: Text, Artifact, Information or Evidence?](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
 
 ### Tuesday, 9/13/16
-* Discuss readings
-* How the web works
+* Lecture: How the web works
 * Lab: [HTML + CSS](Unit 0/html-css.md)
 
 **Read for Thursday:**
