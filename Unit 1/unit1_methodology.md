@@ -27,7 +27,11 @@ For more introduction, check out [Getting Started with Topic Modeling and MALLET
 Also, [Topic Modeling Made Just Simple Enough](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/) by Ted Underwood.
 
 ### Sentiment analysis 
+Sentiment analysis is a form of "natural language processing" that attempts to determine whether a chunk of text is positive, negative, or some other subjective measurement. 
 
+As you might imagine, this type of analysis is useful for determining public opinion - be it a brand, political message, or something else that is hashtag-able. 
+
+[Visualizing Twitter Sentiment](https://www.csc.ncsu.edu/faculty/healey/tweet_viz/) is a great way to see what sentiment analysis looks like in action. Try #wlu20 to see how the first-years are feeling. 
 
 ## Tools
 ### Wordle
