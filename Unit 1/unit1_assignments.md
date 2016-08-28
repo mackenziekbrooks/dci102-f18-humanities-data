@@ -70,7 +70,7 @@ Specs:
 * Due Thursday 10/6 by 8am. 
 * Embed/publish on your website OR submit via your Box folder. 
 * 250-300 words. 
-* Introduce the data set and provide context. 
+* Introduce the data set and provide context. Save the technical details for the project documentation assignment.
 * Identify your disciplinary angle. Are you approaching this project as a historian, a literature person, someone else entirely? Who is your audience?
 * Include three potential research questions. 
 
@@ -88,7 +88,7 @@ Specs:
 * Address the following:
   * What is your data set? Where did it come from? Who owns it? 
   * What did you do to your data? How did you do it?
-  * What tools did you use? How did you use them? What steps did you follow? 
+  * What tools did you use to clean and visualize your data? How did you use them? What steps did you follow? 
 * Include screenshots when appropriate.
 
 ### Project reflection
