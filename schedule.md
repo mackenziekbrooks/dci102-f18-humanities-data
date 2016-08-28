@@ -26,7 +26,7 @@
 * [Selection of articles](https://dl.dropboxusercontent.com/u/24448504/LS-StudentReadingPacket.pdf) by *Geolocation* artists
 
 ### Thursday, 9/15/16 
-*Methodology review: text*
+*Methodology review*
 * Text analysis introduction
 * Guest speakers: *Geolocation* artists
 * Lab: [command line](Unit 0/commandline.md)
@@ -36,7 +36,7 @@
 * [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/index.html@p=19113.html)
 
 ### Tuesday, 9/20/16
-*Methodology review: text*
+*Methodology review*
 * Guest speaker: Brandon Walsh
 * Lab: text analysis tools
 
@@ -45,7 +45,7 @@
 
 
 ### Thursday, 9/22/16
-*Data cleanup: text* 
+*Data cleanup* 
 * Assignment: Project review due by 8am. Be prepared to share. 
 * How computers read
 * Data set introduction
@@ -56,18 +56,18 @@
 * [Beginning with Regular Expressions](https://recompilermag.com/issues/issue-0/beginning-with-regular-expressions/)
 * [Cleaning OCR'd text with regular expressions](http://programminghistorian.org/lessons/cleaning-ocrd-text-with-regular-expressions)
 
-### Tuesday, 9/27
-*Data cleanup: text*
+### Tuesday, 9/27/16
+*Data cleanup*
 * Data cleanup
 * Guest speaker: Jason Mickel
 * Lab: regular expressions
 
-### Thursday, 9/29
-*Project work: text* 
+### Thursday, 9/29/16
+*Project work* 
 * 
 
-### Tuesday, 10/4
-*Documentation: text*
+### Tuesday, 10/4/16
+*Documentation*
 
 
 ## Unit 2 Network
