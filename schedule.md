@@ -124,12 +124,16 @@ Linked data?
 ### Thursday, 11/3/16
 *Documentation*
 
+
+**All Unit 2 assignments due Tuesday 11/8 by 8am.**
 ## Unit 3 Space
 
 ### Tuesday, 11/8/16
-* Prof. Brooks away at conference
-* The Day the World Might End
-* Guest speaker: Paul Youngman and Ulemj Enkhbold
+*Methodology review*
+* Prof. Brooks away at conference/The Day the World Might End
+* Guest speaker: Paul Youngman and Ulemj Enkhbold '17
+
+
 
 ### Thursday, 11/10/16
 
