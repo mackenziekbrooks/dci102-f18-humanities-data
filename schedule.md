@@ -32,12 +32,13 @@
 * Lab: [command line](Unit 0/commandline.md)
 
 **Read for Tuesday:**
+* Take a look at the [Intro to Text Analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/) by Prof. Brandon Walsh
 * [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet)
 
 
 ### Tuesday, 9/20/16
 *Methodology review*
-* Guest speaker: Brandon Walsh
+* Guest speaker: Prof. Brandon Walsh
 * Lab: [text analysis tools](Unit 1/unit1_methodology.md)
 
 **Read for Thursday:**
@@ -64,6 +65,9 @@
 ### Thursday, 9/29/16
 *Project work* 
 * Lab: data cleanup continued 
+
+**Read for Tuesday:**
+[The Historian's Macroscope](http://www.themacroscope.org/?page_id=837), "Making Your Data Legible" through "Making an Effective Visualization"
 
 ### Tuesday, 10/4/16
 *Project work + documentation*
