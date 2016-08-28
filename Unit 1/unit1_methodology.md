@@ -52,8 +52,9 @@ I recommend [running Voyant locally](http://docs.voyant-tools.org/resources/run-
 * Are the visualizations meaningful? Easy to decipher? Why or why not?
 
 ### AntConc
+[AntConc](http://www.laurenceanthony.net/software/antconc/) is another tool for performing linguistic analysis of a corpus. 
 
-[AntConc](http://www.laurenceanthony.net/software/antconc/)
+The Programming Historian has a lesson on "[Corpus Analysis with AntConc](http://programminghistorian.org/lessons/corpus-analysis-with-antconc)."
 
 ### Google n-gram
 
