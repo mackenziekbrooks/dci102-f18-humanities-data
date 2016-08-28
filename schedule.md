@@ -67,7 +67,8 @@
 * Lab: data cleanup continued 
 
 **Read for Tuesday:**
-[The Historian's Macroscope](http://www.themacroscope.org/?page_id=837), "Making Your Data Legible" through "Making an Effective Visualization"
+* [The Historian's Macroscope](http://www.themacroscope.org/?page_id=837), "Making Your Data Legible" through "Making an Effective Visualization"
+* [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 
 ### Tuesday, 10/4/16
 *Project work + documentation*
