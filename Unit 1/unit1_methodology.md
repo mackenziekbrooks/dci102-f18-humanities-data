@@ -43,11 +43,12 @@ Word clouds are a simple way to get started. Copy and paste text from the RTP in
 * What is useful about this tool and type of analysis? 
 
 ### Voyant
-A classic text analyis tool. Accepts single documents or entire corpora. 
-
-[http://voyant-tools.org](http://voyant-tools.org)
+[Voyant](http://www.voyant-tools.org/) is a popular text analysis tool. It accepts single documents or entire corpora. The number of features can be a little overwhelming, so be sure to check out the [documentation](http://www.voyant-tools.org/docs/#!/guide/about).
 
 I recommend [running Voyant locally](http://docs.voyant-tools.org/resources/run-your-own/voyant-server/) so it doesn't stress their servers.
+
+* Which Voyant feature is particularly intriguing? Which is hard to understand?
+* What benefits does Voyant have over Wordle?
 
 ### AntConc
 
