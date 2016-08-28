@@ -1,5 +1,5 @@
 # Outstanding
-http://schoolofdata.org/handbook/courses/what-is-data/
+
 http://miriamposner.com/blog/how-did-they-make-that/
 http://guides.library.upenn.edu/c.php?g=476112&p=3255815
 https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/digital-humanities.html
