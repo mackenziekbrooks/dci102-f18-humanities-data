@@ -1,7 +1,7 @@
 # HTML + CSS
 
 ## How the web works
-The internet is magic. Just kidding, it's really not. The internet is made up of computers connected to other computers. Even though you often connect to the internet wirelessly, the internet is still a very physical thing. The information you send and receive travels through wires and fiber-optic cables. These networked computers talk to each other using protocols. Every computer has an address, known as an IP (Internet Protocol) address, to help direct traffic. 
+The internet is magic. Just kidding, it's really not. The internet is made up of computers connected to other computers. Even though you often connect to the internet wirelessly, the internet is still a very physical thing. The information you send and receive travels through wires and fiber-optic cables in the ground and under the ocean. These networked computers talk to each other using protocols. Every computer has an address, known as an IP (Internet Protocol) address, to help direct traffic. 
 
 Another protocol that you use, even if you don't realize it, is the Hypertext Transfer Protocol, or HTTP. Your browser uses HTTP to render websites. When you type in ```http://www.wlu.edu``` your browser sends out a request to the computer that can serve up all the files at that particular address. The "server" returns the files and your browser renders them into a website. At its simplest, a website is just a folder full of text files and images. 
 
