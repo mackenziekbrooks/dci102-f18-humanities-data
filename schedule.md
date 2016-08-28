@@ -102,24 +102,27 @@ Critical DH?
 No class, reading days
 
 ### Tuesday, 10/18/16
-*Data cleanup*
+*Data structures*
 * Discussion: Critical DH
 * Lab: introduce data set
 
 ### Thursday, 10/20/16
-*Data refine*
+*Data reconciliation*
 
 Linked data? 
 
 ### Tuesday, 10/25/16
-
+*Data cleanup cont*
 
 ### Thursday, 10/27/16
+*Project work* 
 
 ### Tuesday, 11/1/16
+*Project work* 
+
 
 ### Thursday, 11/3/16
-*Documentation: network*
+*Documentation*
 
 ## Unit 3 Space
 
