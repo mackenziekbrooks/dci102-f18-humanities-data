@@ -38,7 +38,7 @@
 ### Tuesday, 9/20/16
 *Methodology review*
 * Guest speaker: Brandon Walsh
-* Lab: text analysis tools
+* Lab: [text analysis tools](Unit 1/unit1_methodology.md)
 
 **Read for Thursday:**
 [The Historian's Macroscope](http://www.themacroscope.org/?page_id=593), "Who We Are..." through "Putting Big Data to Good Use"
