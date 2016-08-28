@@ -45,7 +45,7 @@ Specs:
 * Submit in a zipped folder via Box.
 * Include a text file titled "data-assessment-%DATE.txt" with the results of our in-class activity. 
 * Include a text file titled "data-cleanup-%DATE.txt" with a list of the modifications you made to your data set. Those modifications should include:
-  * 10 regular expressions patterns that have a major impact on your data set. Out of all the problems, what are the most important ones to solve?
+  * 5 or more regular expressions patterns that have a major impact on your data set. Out of all the problems, what are the most important ones to solve?
   
 
 ### Project visualization
