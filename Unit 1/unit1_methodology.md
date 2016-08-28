@@ -16,15 +16,11 @@ So we have some frequently-used words. What about their neighbors? Are there pat
 ### N-grams 
 For our purposes, n-grams are phrases of a certain length or "n". Technically, linguists consider n-grams to be "a contiguous sequence of n items from a given sequence of text or speech" ([Wikipedia](https://en.wikipedia.org/wiki/N-gram)).
 
-[Google Books Ngram Viewer](https://books.google.com/ngrams) is a popular tool for visualizing n-grams over time in the Google Books data set. 
-
-Prof. Brandon Walsh delves into the nuances of the Ngram Viewer over on his [text analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/issues/google-ngram.html).
 
 ### Topic modeling
-A complex technique for determining the topic or a list of topics of a document/corpus. 
+A complex, statistical method for determining the topic or a list of topics of a document/corpus. 
 
-For more introduction, check out [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet).
-Also, [Topic Modeling Made Just Simple Enough](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/) by Ted Underwood.
+See [Topic Modeling Made Just Simple Enough](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/) by Ted Underwood.
 
 ### Sentiment analysis 
 Sentiment analysis is a form of "natural language processing" that attempts to determine whether a chunk of text is positive, negative, or some other subjective measurement. 
@@ -32,6 +28,9 @@ Sentiment analysis is a form of "natural language processing" that attempts to d
 As you might imagine, this type of analysis is useful for determining public opinion - be it a brand, political message, or something else that is hashtag-able. 
 
 [Visualizing Twitter Sentiment](https://www.csc.ncsu.edu/faculty/healey/tweet_viz/) is a great way to see what sentiment analysis looks like in action. Try #wlu20 to see how the first-years are feeling. 
+
+### Classification and named entity recognition
+A method for extracting "named entities" or proper nouns in a document. Useful for identifying the names of people, places, organizations. 
 
 ## Tools
 
@@ -54,26 +53,33 @@ Word clouds are a simple way to get started. Copy and paste text from the RTP in
 I recommend [running Voyant locally](http://docs.voyant-tools.org/resources/run-your-own/voyant-server/) so it doesn't stress their servers.
 
 ### AntConc
-[AntConc](http://www.laurenceanthony.net/software/antconc/) is another tool for performing linguistic analysis of a corpus. 
+[AntConc](http://www.laurenceanthony.net/software/antconc/) is another tool for performing linguistic analysis of a corpus. It is definitely powerful, but the results can be harder to interpret. 
 
 The Programming Historian has a lesson on "[Corpus Analysis with AntConc](http://programminghistorian.org/lessons/corpus-analysis-with-antconc)."
 
 
 ### Google n-gram and Bookworm
+[Google Books Ngram Viewer](https://books.google.com/ngrams) is a popular tool for visualizing n-grams over time in the Google Books data set. 
 
+Prof. Brandon Walsh delves into the nuances of the Ngram Viewer over on his [text analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/issues/google-ngram.html).
 
+You can apply the same technology to your own corpus with a took called [Bookworm](http://bookworm.culturomics.org/). 
 
+### MALLET and Serendip
+[MALLET](http://mallet.cs.umass.edu/http://mallet.cs.umass.edu/) stands for MAchine Learning for LanguagE Toolkit. It's a powerful command line tool with many features, including topic modeling. You're welcome to learn more about how MALLET works, but don't worry too much about understanding the statistics behind it. 
 
+Check out [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet).
 
-Serendip
+[Serendip](http://vep.cs.wisc.edu/serendip/) is a visual interface for interacting with the topic models of a corpus. Using their sample data, you can compare topics across all of Shakespeare's plays. It's also possible to load in your own corpus. 
 
-## Projects ??
+### Natural Language Toolkit
+Or [NLTK](http://www.nltk.org/) is a Python library for conducting natural language processing. 
+
 
 ## Resources
 * [Introduction to Text Analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/) by Prof. Brandon Walsh
+* [Journal of Cultural Analytics](http://culturalanalytics.org/) - new journal devoted to "the computational study of culture."
+* [Intro to Text Analysis guide](http://guides.library.duke.edu/text_analysis) from Duke University Libraries
 
-https://mimno.infosci.cornell.edu/
-
-http://culturalanalytics.org/
 
 http://guides.library.duke.edu/c.php?g=289707&p=1930856
