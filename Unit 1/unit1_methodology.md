@@ -34,34 +34,35 @@ As you might imagine, this type of analysis is useful for determining public opi
 [Visualizing Twitter Sentiment](https://www.csc.ncsu.edu/faculty/healey/tweet_viz/) is a great way to see what sentiment analysis looks like in action. Try #wlu20 to see how the first-years are feeling. 
 
 ## Tools
-### Wordle
-Word clouds are a simple way to get started. Copy and paste text from the RTP into [Wordle](http://www.wordle.net/). 
+
+### Evaluation questions
 
 * What do you think of the results? What's surprising? What's not? 
 * How about the tool itself? What options do you have? 
 * What can you do with the results? 
 * What is useful about this tool and type of analysis? 
+* Are the visualizations meaningful? Easy to decipher? Why or why not?
+* Compare and contrast tools.
+
+### Wordle
+Word clouds are a simple way to get started. Copy and paste text from the RTP into [Wordle](http://www.wordle.net/). 
 
 ### Voyant
 [Voyant](http://www.voyant-tools.org/) is a popular text analysis tool. It accepts single documents or entire corpora. The number of features can be a little overwhelming, so be sure to check out the [documentation](http://www.voyant-tools.org/docs/#!/guide/about).
 
 I recommend [running Voyant locally](http://docs.voyant-tools.org/resources/run-your-own/voyant-server/) so it doesn't stress their servers.
 
-* Which Voyant feature is particularly intriguing? Which is hard to understand?
-* What benefits does Voyant have over Wordle?
-* Are the visualizations meaningful? Easy to decipher? Why or why not?
-
 ### AntConc
 [AntConc](http://www.laurenceanthony.net/software/antconc/) is another tool for performing linguistic analysis of a corpus. 
 
 The Programming Historian has a lesson on "[Corpus Analysis with AntConc](http://programminghistorian.org/lessons/corpus-analysis-with-antconc)."
+
 
 ### Google n-gram and Bookworm
 
 
 
 
-JSTOR DFR
 
 Serendip
 
