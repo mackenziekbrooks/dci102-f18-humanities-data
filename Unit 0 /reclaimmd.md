@@ -10,6 +10,8 @@ Your domain can be a place to build a professional portfolio or just experiment 
 
 In this class, your website will be an easy-to-share container for the work you do. In a world where print is the primary medium of scholarship, term papers in Word docs make sense. But the tools we will use to create, clean, and visualize data expect a web-based final product. 
 
+The design and organization of your site is up to you, but I expect you to be thoughtful and intentional. I am happy to provide feedback. 
+
 
 ## Privacy
 That being said, this domain is in your control. If there is work you do not want to publish to the web, we can arrange other methods of delivery. Password protection is an option. 
@@ -23,6 +25,7 @@ For more on this topic, see ["Do I Own My Domain If You Grade It?"](https://www.
 * We will go over the cPanel in class, but the important links to know are:
   * Applications Installer - one click installations of Wordpress and other apps
   * File Manager - view or edit the files that make up your website
+
 
 ## Resources
 * [Reclaim Documentation](http://docs.reclaimhosting.com/)
