@@ -43,6 +43,7 @@ As you might imagine, this type of analysis is useful for determining public opi
 * What is useful about this tool and type of analysis? 
 * Are the visualizations meaningful? Easy to decipher? Why or why not?
 * Compare and contrast tools.
+* Does this tool expose problems with your data?
 
 ### Wordle
 Word clouds are a simple way to get started. Copy and paste text from the RTP into [Wordle](http://www.wordle.net/). 
