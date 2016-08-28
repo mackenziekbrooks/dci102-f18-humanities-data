@@ -118,7 +118,7 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 Specs:
 * 2 blog posts due 10/6 by 8am. (I recommend spacing them out!)
 * Publish to your own domain. 
-* 300-500 words
+* 300-500 words per post.
 * Link to outside articles and embed images (with citations!), if relevant.
 * Watch your tone. You are free to have personality and style, but remember that this is an academic/professional project. Find a balance between Buzzfeed and a scholarly journal. 
 
