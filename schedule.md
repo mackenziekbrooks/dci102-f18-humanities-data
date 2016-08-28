@@ -83,10 +83,10 @@
 ### Thursday, 10/6/16
 *Methodology review*
 * Unit 1 project debrief. Be prepared to share your results for Unit 1. 
-* What are networks?
-* Lab:
+* Lecture: What are networks?
+* Lab: 
 
-*Read for Tuesday:*
+**Read for Tuesday:**
   * [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
 
 ### Tuesday, 10/11/16
@@ -95,6 +95,7 @@
 * Readings:
   * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
 
+**Read for Tuesday:**
 
 ### X Thursday, 10/13/16
 No class, reading days
@@ -102,14 +103,15 @@ No class, reading days
 ### Tuesday, 10/18/16
 *Project design: network*
 * Critical DH
-* Lab:introduce data set
+* Lab: introduce data set
 * Readings:
 
 ### Thursday, 10/20/16
-*Data work: network*
+*Data cleanup*
 
 
 ### Tuesday, 10/25/16
+
 
 ### Thursday, 10/27/16
 
