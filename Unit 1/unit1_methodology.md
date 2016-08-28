@@ -35,7 +35,12 @@ As you might imagine, this type of analysis is useful for determining public opi
 
 ## Tools
 ### Wordle
-Easy to use word cloud generator. 
+Word clouds are a simple way to get started. Copy and paste text from the RTP into [Wordle](http://www.wordle.net/). 
+
+* What do you think of the results? What's surprising? What's not? 
+* How about the tool itself? What options do you have? 
+* What can you do with the results? 
+* What is useful about this tool and type of analysis? 
 
 ### Voyant
 A classic text analyis tool. Accepts single documents or entire corpora. 
