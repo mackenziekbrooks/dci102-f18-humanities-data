@@ -96,19 +96,20 @@
   * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
 
 **Read for Tuesday:**
+Critical DH? 
 
 ### X Thursday, 10/13/16
 No class, reading days
 
 ### Tuesday, 10/18/16
-*Project design: network*
-* Critical DH
+*Data cleanup*
+* Discussion: Critical DH
 * Lab: introduce data set
-* Readings:
 
 ### Thursday, 10/20/16
-*Data cleanup*
+*Data refine*
 
+Linked data? 
 
 ### Tuesday, 10/25/16
 
