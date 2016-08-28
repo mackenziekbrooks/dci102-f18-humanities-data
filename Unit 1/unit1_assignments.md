@@ -99,9 +99,9 @@ Specs:
 * Submit via your Box folder. You are welcome, but not required to post to your website.
 * 300-500 words.
 * Address the following: 
-  * What have you learned? 
+  * What have you learned?
   * What has been challenging? 
-  * How has your relationship with technology changed? 
+  * How has your relationship with technology changed? What about your conception of data?
   * What would you have done differently? 
   * What new strategies will you try in the next unit?
 
@@ -113,11 +113,13 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 * What does big data mean to you personally? To your field of study? To your future career path? 
 * Relatedly, respond to the *Geolocation* exhibit and readings. 
 * What interesting stuff have you found in *Ring-tum Phi*? Anything that would make a cool research project? Is there a period of W&L's history that you'd like to learn more about? How would you compare that period to today? 
+* Respond to "[What Screens Want](http://www.frankchimero.com/writing/what-screens-want/)" by Frank Chimero
 
 Specs:
 * 2 blog posts due 10/6 by 8am. (I recommend spacing them out!)
 * Publish to your own domain. 
 * 300-500 words
 * Link to outside articles and embed images (with citations!), if relevant.
+* Watch your tone. You are free to have personality and style, but remember that this is an academic/professional project. Find a balance between Buzzfeed and a scholarly journal. 
 
 
