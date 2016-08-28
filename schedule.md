@@ -12,8 +12,9 @@
 **Read for Tuesday:**
   * [Digital_Humanities](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), chap 1
   * [Technology Is Taking Over English Departments: The false promise of the digital humanities](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)
+  * [What is Data?](http://schoolofdata.org/handbook/courses/what-is-data/)
   * [Defining Data for Humanists: Text, Artifact, Information or Evidence?](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
-
+ 
 ### Tuesday, 9/13/16
 * Lecture: How the web works
 * Lab: [HTML + CSS](Unit 0/html-css.md)
