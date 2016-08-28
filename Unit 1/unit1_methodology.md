@@ -30,7 +30,7 @@ As you might imagine, this type of analysis is useful for determining public opi
 [Visualizing Twitter Sentiment](https://www.csc.ncsu.edu/faculty/healey/tweet_viz/) is a great way to see what sentiment analysis looks like in action. Try #wlu20 to see how the first-years are feeling. 
 
 ### Classification and named entity recognition
-A method for extracting "named entities" or proper nouns in a document. Useful for identifying the names of people, places, organizations. 
+Classification and NER are other methods of "natural language processing" that you might encounter. We won't spend much time with them in this course, but you should be aware of the terms. Both are machine-learning methods to figure out if a document or individual words/phrases match a particular model. Classification could be used to determine if an email is spam. NER could be used to extract the names of people or places mentioned in a document.
 
 ## Tools
 
@@ -57,7 +57,6 @@ I recommend [running Voyant locally](http://docs.voyant-tools.org/resources/run-
 
 The Programming Historian has a lesson on "[Corpus Analysis with AntConc](http://programminghistorian.org/lessons/corpus-analysis-with-antconc)."
 
-
 ### Google n-gram and Bookworm
 [Google Books Ngram Viewer](https://books.google.com/ngrams) is a popular tool for visualizing n-grams over time in the Google Books data set. 
 
@@ -71,9 +70,6 @@ You can apply the same technology to your own corpus with a took called [Bookwor
 Check out [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet).
 
 [Serendip](http://vep.cs.wisc.edu/serendip/) is a visual interface for interacting with the topic models of a corpus. Using their sample data, you can compare topics across all of Shakespeare's plays. It's also possible to load in your own corpus. 
-
-### Natural Language Toolkit
-Or [NLTK](http://www.nltk.org/) is a Python library for conducting natural language processing. 
 
 
 ## Resources
