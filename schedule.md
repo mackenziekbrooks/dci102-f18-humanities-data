@@ -33,7 +33,7 @@
 
 **Read for Tuesday:**
 * [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet)
-* [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/index.html@p=19113.html)
+
 
 ### Tuesday, 9/20/16
 *Methodology review*
