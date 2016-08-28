@@ -49,6 +49,7 @@ I recommend [running Voyant locally](http://docs.voyant-tools.org/resources/run-
 
 * Which Voyant feature is particularly intriguing? Which is hard to understand?
 * What benefits does Voyant have over Wordle?
+* Are the visualizations meaningful? Easy to decipher? Why or why not?
 
 ### AntConc
 
