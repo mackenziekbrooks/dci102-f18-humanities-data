@@ -46,7 +46,7 @@ Specs:
 * Include a text file titled "data-assessment-%DATE.txt" with the results of our in-class activity. 
 * Include a text file titled "data-cleanup-%DATE.txt" with a list of the modifications you made to your data set. Those modifications should include:
   * 5 or more regular expressions patterns that have a major impact on your data set. Out of all the problems, what are the most important ones to solve?
-  * Changes made to the existing file structure or file names.
+  * Changes made to the existing file structure or file names. 
   
 
 ### Project visualization
