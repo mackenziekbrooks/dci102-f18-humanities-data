@@ -51,7 +51,7 @@ We will work with the same data as Unit 2. Now that we have worked through the p
 # Policies
 
 ## Accommodations
-Washington and Lee University makes reasonable academic accommodations for qualified students with disabilities. All undergraduate accommodations must be approved through the Office of the Dean of the College. Students requesting accommodations for this course should present an official accommodation letter within the first two weeks of the term and schedule a meeting outside of class time to discuss accommodations. It is the student’s responsibility to present this paperwork in a timely fashion and to follow up about accommodation arrangements. 
+Washington and Lee University makes reasonable academic accommodations for qualified students with disabilities. All undergraduate accommodations must be approved through the Office of the Dean of the College. Students requesting accommodations for this course should present an official accommodation letter within the first two weeks of the term and schedule a meeting outside of class time to discuss accommodations. It is the student’s responsibility to present this paperwork in a timely fashion and to follow up about accommodation arrangements. Accommodations for test-taking must be arranged with the professor at least a week before the date of the test or exam, including finals.
 
 ## Plagiarism
 All writing should be your own or should be cited properly. The writing assignments in this course are different than what is required in other courses, so we will discuss proper citation procedures for writing for the Web, writing in a group, and writing technical documentation. For more info: http://libguides.wlu.edu/plagiarism
