@@ -20,7 +20,7 @@ This course will use an alternative grading model known as "Specifications Gradi
 ## B-level requirements
 
 * Complete all core assignments in each unit.
-* Complete 2 advanced assignments in each unit. 
+* Complete 2/3 advanced assignments in each unit. 
 * Write 4/6 blog posts.
 * Attendance is good, 1-2 absences.
 
