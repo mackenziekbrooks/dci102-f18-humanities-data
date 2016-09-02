@@ -28,6 +28,10 @@ This course introduces students to the creation and visualization of data in hum
 # Required texts 
 All readings are available freely online or through Leyburn Library’s subscriptions. 
 
+We will rely heavily on the following texts: 
+* [The Historian's Macroscope](http://www.themacroscope.org/?page_id=584)
+* [Programming Historian](http://programminghistorian.org/)
+
 # Course structure 
 We will meet in two-hour blocks to accommodate the lecture and lab components of the course. An extended class period ensures that we have sufficient time to explore and master the technical aspects of the course.
 
