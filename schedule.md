@@ -103,8 +103,10 @@ Critical DH?
 ### X Thursday, 10/13/16
 No class, reading days
 
+
 ### Tuesday, 10/18/16
 *Data structures*
+* Assignment: project review due by 8am. Be prepared to share.
 * Discussion: Critical DH
 * Lecture: How to structure data 
 * Data set introduction
