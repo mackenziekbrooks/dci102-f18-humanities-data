@@ -114,11 +114,8 @@ Specs:
 ## Blog posts
 You are free to choose the topic of your blog posts, as long as there is a connection to what we're covering in the course. You are encouraged to link to articles or embed relevant images (with citations!). If you need inspiration, here are few ideas:
 
-* How would you define your relationship with technology? How has that changed over your lifetime? What are some ways you see societal norms changing due to your generation's relationship with technology?
-* What does big data mean to you personally? To your field of study? To your future career path? 
-* Relatedly, respond to the *Geolocation* exhibit and readings. 
-* What interesting stuff have you found in *Ring-tum Phi*? Anything that would make a cool research project? Is there a period of W&L's history that you'd like to learn more about? How would you compare that period to today? 
-* Respond to "[What Screens Want](http://www.frankchimero.com/writing/what-screens-want/)" by Frank Chimero
+* How do you see networks functioning in your own life? 
+* What networks would you like to look at in your own field of study? Why? 
 
 Specs:
 * 2 blog posts due Tuesday 11/8 by 8am. (I recommend spacing them out!)
