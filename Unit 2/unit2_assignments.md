@@ -47,7 +47,7 @@ Specs:
 * Include a text file titled "data-assessment-%DATE.txt" with the results of our in-class activity. 
 * Include a text file titled "data-cleanup-%DATE.txt" with a list of the modifications you made to your data set. Those modifications should include:
   * All fields should be standardized to the most appropriate data type (Date, String, etc.)
-  *    
+  * Reconcile names to an external authority if possible (Shenandoah data set).   
   
 
 ### Project visualization
