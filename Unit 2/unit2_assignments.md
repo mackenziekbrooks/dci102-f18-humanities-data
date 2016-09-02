@@ -21,7 +21,8 @@ Specs:
   * How open is the project? Do they share their data? In what format? Is there public documentation?
  
 Projects:
-
+* [Kindred Britain](http://kindred.stanford.edu/)
+* 
 
 Resources on evaluating digital projects:
 * [Short Guide To Evaluation Of Digital Work by Geoffrey Rockwell](http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/)
