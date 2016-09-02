@@ -6,7 +6,7 @@
 To familiarize yourself with the various methodologies in the DH world, please conduct a review of one DH project. You may select from the list below or find a project of your choosing (subject to professor approval), as long as it uses textual data as its source. 
 
 Specs:
-* Due Thursday, 9/18 by 8am. 
+* Due Thursday, 10/18 by 8am. 
 * 300-500 words. 
 * Submit via your Box folder. 
 * Be prepared to share your review in class. 
@@ -22,7 +22,12 @@ Specs:
  
 Projects:
 * [Kindred Britain](http://kindred.stanford.edu/)
-* 
+* [Mapping the Republic of Letters](http://republicofletters.stanford.edu/)
+* [Preliminaries Project](http://dbrownbeta.blogs.cultureplex.ca/)
+* [Prosop](http://prosop.org/) (in development)
+* [Social Networks and Archival Context (SNAC)](http://socialarchive.iath.virginia.edu/)
+* [Digital Mitford](http://digitalmitford.org/visual.html)
+
 
 Resources on evaluating digital projects:
 * [Short Guide To Evaluation Of Digital Work by Geoffrey Rockwell](http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/)
