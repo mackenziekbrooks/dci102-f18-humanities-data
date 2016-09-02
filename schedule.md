@@ -47,7 +47,7 @@
 
 
 ### Thursday, 9/22/16
-*Data cleanup* 
+*Data introduction* 
 * Assignment: Project review due by 8am. Be prepared to share. 
 * How computers read
 * Data set introduction
@@ -66,6 +66,7 @@
 ### Thursday, 9/29/16
 *Project work* 
 * Lab: data cleanup continued 
+* Lab: visualization 
 
 **Read for Tuesday:**
 * [The Historian's Macroscope](http://www.themacroscope.org/?page_id=837), "Making Your Data Legible" through "Making an Effective Visualization." (Don't worry about implementing all these suggestions, we will continue to work with visualizations in the next two units.)
@@ -105,7 +106,11 @@ No class, reading days
 ### Tuesday, 10/18/16
 *Data structures*
 * Discussion: Critical DH
-* Lab: introduce data set
+* Lecture: How to structure data 
+* Data set introduction
+
+**Read for Thursday:**
+* linked data??
 
 ### Thursday, 10/20/16
 *Data reconciliation*
@@ -132,9 +137,9 @@ Linked data?
 
 ### Tuesday, 11/8/16
 *Methodology review*
-* Prof. Brooks away at conference/The Day the World Might End
-* Guest speaker: Paul Youngman and Ulemj Enkhbold '17
-
+* Vote! 
+* Prof. Brooks away at conference
+* Guest speakers: Paul Youngman and Ulemj Enkhbold '17 on *Mapping the Literary Railway*
 
 
 ### Thursday, 11/10/16
