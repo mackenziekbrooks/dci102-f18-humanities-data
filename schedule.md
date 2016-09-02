@@ -23,12 +23,13 @@
 * [We Can All Be Technical With the Right Teacher](https://recompilermag.com/issues/issue-0/we-can-all-be-technical-with-the-right-teacher/)
 * [Some things to think about before you exhort everyone to code](http://miriamposner.com/blog/some-things-to-think-about-before-you-exhort-everyone-to-code/)
 * [Introduction to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash) (we will review in class)
-* [Selection of articles](https://dl.dropboxusercontent.com/u/24448504/LS-StudentReadingPacket.pdf) by *Geolocation* artists
+* [Selection of articles](https://dl.dropboxusercontent.com/u/24448504/LS-StudentReadingPacket.pdf) by *Geolocation* artists: focus on "Brave New World of Digital Intimacy,” “Myth of the Disconnected Life," and  “How Companies Learn Your Secrets."
+* **Write down three questions related to these articles and the exhibit. We will use these in discussion with the artists on Thursday.**
 
 ### Thursday, 9/15/16 
 *Methodology review*
 * Text analysis introduction
-* Guest speakers: *Geolocation* artists
+* Guest speakers: *Geolocation* artists > Meet in Staniar Gallery at 2:30. 
 * Lab: [command line](Unit 0/commandline.md)
 
 **Read for Tuesday:**
