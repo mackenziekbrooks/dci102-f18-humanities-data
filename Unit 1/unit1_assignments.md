@@ -59,8 +59,12 @@ Specs:
   * What did you learn about your data from this visualization, if anything?
   * What about the methodology worked or didn't work?
   * Are there issues with the data that the visualization illuminates or disguises?
+  * Does this method of visualization require you to 
 * Indicate which tool/method you used to produce this visualization. 
 
+Resources on visualization:
+* [Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2014/05/DataVizChecklist_May2014.pdf)
+* "[Making an Effective Visualization](http://www.themacroscope.org/?page_id=882)" and "[Principles of Visualization](http://www.themacroscope.org/?page_id=469)" - The Historian's Macroscope
 
 ## Advanced Assignments
 ### Project narrative
