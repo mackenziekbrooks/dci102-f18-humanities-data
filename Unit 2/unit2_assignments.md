@@ -22,7 +22,9 @@ Specs:
  
 Projects:
 * [Kindred Britain](http://kindred.stanford.edu/)
+* [Belfast Group Poetry](http://belfastgroup.digitalscholarship.emory.edu)
 * [Mapping the Republic of Letters](http://republicofletters.stanford.edu/)
+* [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/)
 * [Preliminaries Project](http://dbrownbeta.blogs.cultureplex.ca/)
 * [Prosop](http://prosop.org/) (in development)
 * [Social Networks and Archival Context (SNAC)](http://socialarchive.iath.virginia.edu/)
