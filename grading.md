@@ -4,7 +4,7 @@ This course will use an alternative grading model known as "Specifications Gradi
 
 ## Features of this system:
 
-* The majority of assignments will be graded on a pass/fail basis. There will be no credit for partial work.
+* All assignments will be graded on a pass/fail basis. There will be no credit for partial work.
 * You will be given clear and descriptive "specs" on each assignment so you know exactly what makes a passing assignment. 
 * Projects will be bundled in a way that clearly delineates A, B, and C-level work. 
 * You will receive three "free passes" to use for revisions, late assignments, or absences. You must declare your free pass as the time of the deadline, not after. 
