@@ -20,7 +20,7 @@ For more on this topic, see ["Do I Own My Domain If You Grade It?"](https://www.
 
 ## How
 * First, carefully select your domain name. You will also need to pick a top-level domain (.com, .org, etc.) 
-* Register for the Student & Individuals plans from Reclaim. Select the privacy protection add-on. I will provide you with a registration code. 
+* Register for the Student & Individuals plans from Reclaim. Select the privacy protection add-on. 
 * You can access the backend of your website by prepending ```/cpanel``` to your URL. The cPanel is a common way to access all the different controls and features of your site. 
 * We will go over the cPanel in class, but the important links to know are:
   * Applications Installer - one click installations of Wordpress and other apps
