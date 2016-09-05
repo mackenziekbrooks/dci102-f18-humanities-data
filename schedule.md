@@ -16,6 +16,7 @@
   * [Defining Data for Humanists: Text, Artifact, Information or Evidence?](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
  
 ### Tuesday, 9/13/16
+* Discussion: readings
 * Lecture: How the web works
 * Lab: [HTML + CSS](Unit 0/html-css.md)
 
