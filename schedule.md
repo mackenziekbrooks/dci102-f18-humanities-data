@@ -6,8 +6,9 @@
 * Intros, course overview, 
 * Getting to know you [survey](https://docs.google.com/forms/d/e/1FAIpQLSdf_G84ock01cJdtt4a5_JN8poqC_aWRiVtG_arVXnEsRBzbQ/viewform)
 * Lecture: What and why is DH? What about data? 
-* Lab: domain registration with [Reclaim Hosting](Unit 0/reclaimmd.md)
 * Lab: [environment](Unit 0/environment.md) setup
+* Lab: domain registration with [Reclaim Hosting](Unit 0/reclaimmd.md)
+
 
 **Read for Tuesday:**
   * [Digital_Humanities](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), chap 1
