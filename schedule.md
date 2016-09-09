@@ -8,7 +8,7 @@
 * Lecture: What and why is DH? What about data? 
 * Lab: [environment](Unit 0/environment.md) setup
 * Lab: domain registration with [Reclaim Hosting](Unit 0/reclaimmd.md)
-
+* [Slides](http://slides.com/mackenziekbrooks/dh102-f16-day1)
 
 **Read for Tuesday:**
   * [Digital_Humanities](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), chap 1
