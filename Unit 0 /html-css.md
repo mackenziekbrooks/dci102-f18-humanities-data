@@ -47,3 +47,12 @@ The beauty of CSS is that you can keep all your styles in one stylesheet which y
 * Change the border on your table. 
 * Add style to your links when you hover over them. 
 
+## Activity 3
+When you opened your HTML files in your browser, you were viewing your files locally. Only you could see them on your computer. Now it's time to upload them to your domain so other people can view them. 
+
+* In CPanel, open up the File Manager.
+* Navigate to the ```public_html``` folder. 
+* Create a new folder titled ```activities``` or something similar. 
+* Upload all your HTML and CSS files. 
+* Navigate to ```www.yourdomain.com/activities```. What do you see?  
+
