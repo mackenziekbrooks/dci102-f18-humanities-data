@@ -20,6 +20,7 @@
 * Discussion: readings
 * Lecture: How the web works
 * Lab: [HTML + CSS](Unit 0/html-css.md)
+* [Slides](https://slides.com/mackenziekbrooks/dh102-f16-day2)
 
 **Read for Thursday:**
 * [We Can All Be Technical With the Right Teacher](https://recompilermag.com/issues/issue-0/we-can-all-be-technical-with-the-right-teacher/)
