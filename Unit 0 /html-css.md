@@ -54,5 +54,5 @@ When you opened your HTML files in your browser, you were viewing your files loc
 * Navigate to the ```public_html``` folder. 
 * Create a new folder titled ```activities``` or something similar. 
 * Upload all your HTML and CSS files. 
-* Navigate to ```www.yourdomain.com/activities```. What do you see?  
+* Navigate to your equivalent of ```www.yourdomain.com/activities```. What do you see?  
 
