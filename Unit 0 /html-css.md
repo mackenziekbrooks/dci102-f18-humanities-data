@@ -21,10 +21,12 @@ In fact, you can see the HTML for any page on the web by right clicking anywhere
 HTML documents are just plain text documents. You can write and read HTML in a text editor like Notepad++ or Sublime. The magic happens when you open an HTML document in the browser. 
 
 ## Activity 1
-Open your favorite text editor and using the W3 Schools as a guide, write your own HTML document. 
 
-Tasks:
-* Add five types of tags to the body of your HTML document, including a table.
+* Open your favorite text editor and using the W3 Schools as a guide, write your own HTML document.
+* Save the file as ```index.html``` in your Box folder in a separate folder titled: ```activity_2016-09-13```.
+*  To view your page in the browswer, open ```index.html``` in your browser, usually with the key commands ```Ctrl + o```
+* You should include the basic set of tags: ```<html> <head> <title> <body>```
+* Add five additional types of tags to the body of your HTML document, including a table.
 * Add an additional HTML page and link the two pages.
 
 
@@ -39,9 +41,8 @@ The beauty of CSS is that you can keep all your styles in one stylesheet which y
 
 ## Activity 2
 
-Create a separate CSS document and link it to your HTML document. 
-
-Tasks:
+* Create a separate CSS document and save it as ```style.css``` in the same folder you created for Activity 1. 
+* Link the ```style.css``` file to your HTML document. Consult the W3 Schools to figure out how to do this.
 * Add a background color.
 * Change the border on your table. 
 * Add style to your links when you hover over them. 
