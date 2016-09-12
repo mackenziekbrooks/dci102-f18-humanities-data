@@ -46,7 +46,8 @@
 * Lab: [text analysis tools](Unit 1/unit1_methodology.md)
 
 **Read for Thursday:**
-[The Historian's Macroscope](http://www.themacroscope.org/?page_id=593), "Who We Are..." through "Putting Big Data to Good Use"
+* [The Historian's Macroscope](http://www.themacroscope.org/?page_id=593), "Who We Are..." through "Putting Big Data to Good Use"
+* [The CobWeb](http://www.newyorker.com/magazine/2015/01/26/cobweb)
 
 
 ### Thursday, 9/22/16
