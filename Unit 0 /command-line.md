@@ -22,7 +22,7 @@ If you're on Windows, open cmd.exe or Powershell.
 ![https://xkcd.com/934/](http://imgs.xkcd.com/comics/mac_pc.png )
 
 ## Learn
-There are a lot of resources for learning the command line. We'll be using [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) in this class. 
+There are a lot of resources for learning the command line. We'll be using [The Command Line Crash Course](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf) in this class. 
 
 Programming Historian offers [Intro to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash).
 
