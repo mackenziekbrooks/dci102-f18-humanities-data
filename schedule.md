@@ -34,6 +34,7 @@
 * Text analysis introduction
 * Guest speakers: *Geolocation* artists > Meet in Staniar Gallery at 2:30. 
 * Lab: [command line](Unit 0/commandline.md)
+* [Slides](http://slides.com/mackenziekbrooks/dh102-f16-day3)
 
 **Read for Tuesday:**
 * Take a look at the [Intro to Text Analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/) by Prof. Brandon Walsh
