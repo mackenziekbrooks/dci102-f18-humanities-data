@@ -37,7 +37,7 @@
 
 **Read for Tuesday:**
 * Take a look at the [Intro to Text Analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/) by Prof. Brandon Walsh
-* [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet) (concentrate on the first 
+* [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet) (concentrate on the first couple sections)
 
 
 ### Tuesday, 9/20/16
@@ -74,26 +74,26 @@
 
 **Read for Tuesday:**
 * [The Historian's Macroscope](http://www.themacroscope.org/?page_id=837), "Making Your Data Legible" through "Making an Effective Visualization." (Don't worry about implementing all these suggestions, we will continue to work with visualizations in the next two units.)
-* [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
+
 
 ### Tuesday, 10/4/16
-*Project work + documentation*
-* End of unit review 
+*Project work*
 * Lab: project work continued
-* Lab: documentation writing
 
-**All Unit 1 assignments due 10/6/16 by 8am**
-
-## Unit 2 Network
+**Read for Thursday:**
+* [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 
 ### Thursday, 10/6/16
-*Methodology review*
+*Documentation*
 * Unit 1 project debrief. Be prepared to share your results for Unit 1. 
-* Lecture: What are networks?
-* Lab: 
+* Lab: documentation
 
 **Read for Tuesday:**
   * [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
+
+**All Unit 1 assignments due 10/11/16 by 8am**
+
+## Unit 2 Network
 
 ### Tuesday, 10/11/16
 *Methodology review*
