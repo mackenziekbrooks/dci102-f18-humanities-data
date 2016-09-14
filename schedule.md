@@ -19,7 +19,7 @@
 ### Tuesday, 9/13/16
 * Discussion: readings
 * Lecture: How the web works
-* Lab: [HTML + CSS](Unit 0/html-css.md)
+* Lab: [HTML + CSS](Unit 0 /html-css.md)
 * [Slides](https://slides.com/mackenziekbrooks/dh102-f16-day2)
 
 **Read for Thursday:**
