@@ -41,7 +41,7 @@ Resources on evaluating digital projects:
 At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends. 
 
 Specs: 
-* Due Thursday 10/6 by 8am.
+* Due Tuesday 10/11 by 8am.
 * Submit in a zipped folder via Box.
 * Include a text file titled "data-assessment-%DATE.txt" with the results of our in-class activity. 
 * Include a text file titled "data-cleanup-%DATE.txt" with a list of the modifications you made to your data set. Those modifications should include:
@@ -53,7 +53,7 @@ Specs:
 Now that you have some experience creating a usable data set - what can you do with it? From the tools we have experimented with in class, select your favorite and/or most meaningful visualization. This can be a graph, a word cloud, a topic model etc. Use "[Using Data Visualization to Find Insights in Data](http://datajournalismhandbook.org/1.0/en/understanding_data_7.html)" to guide your writing.
 
 Specs:
-* Due Thursday 10/6 by 8am. 
+* Due Tuesday 10/11 by 8am. 
 * Embed/publish on your website. 
 * Include 100-200 words on why you selected this visualization. 
   * What did you learn about your data from this visualization, if anything?
@@ -71,7 +71,7 @@ Resources on visualization:
 Because we are short on time, you're not being expected to design and implement a full-scale data-driven project. This assignment asks you to use your imagination about what this project could become. Now that you're familiar with the data, what paths would you like to pursue? How would you introduce this data set to the uninitiated? Think about the "About" pages we've seen during your Project Review assignment. 
 
 Specs:
-* Due Thursday 10/6 by 8am. 
+* Due Tuesday 10/11 by 8am. 
 * Embed/publish on your website OR submit via your Box folder. 
 * 250-300 words. 
 * Introduce the data set and provide context. Save the technical details for the project documentation assignment.
@@ -87,7 +87,7 @@ Your professor is not your audience. Imagine a friend or family member trying to
 Check out [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) for more guidance.
 
 Specs:
-* Due Thursday 10/6 by 8am. 
+* Due Tuesday 10/11 by 8am. 
 * Publish to your website.
 * Address the following:
   * What is your data set? Where did it come from? Who owns it? 
@@ -99,7 +99,7 @@ Specs:
 The final assignment for this unit a piece of reflective writing. Talk about your feelings. What have you learned? What has been challenging? How has your relationship with technology changed? What would you have done differently? What new strategies will you try in the next unit?
 
 Specs:
-* Due Thursday 10/6 by 8am. 
+* Due Tuesday 10/11 by 8am. 
 * Submit via your Box folder. You are welcome, but not required to post to your website.
 * 300-500 words.
 * Address the following: 
@@ -120,7 +120,7 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 * Respond to "[What Screens Want](http://www.frankchimero.com/writing/what-screens-want/)" by Frank Chimero
 
 Specs:
-* 2 blog posts due 10/6 by 8am. (I recommend spacing them out!)
+* 2 blog posts due Tuesday 10/11 by 8am. (I recommend spacing them out!)
 * Publish to your own domain. 
 * 300-500 words per post.
 * Link to outside articles and embed images (with citations!), if relevant.
