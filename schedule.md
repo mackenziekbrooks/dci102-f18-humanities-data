@@ -37,7 +37,7 @@
 
 **Read for Tuesday:**
 * Take a look at the [Intro to Text Analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/) by Prof. Brandon Walsh
-* [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet)
+* [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet) (concentrate on the first 
 
 
 ### Tuesday, 9/20/16
@@ -47,7 +47,7 @@
 
 **Read for Thursday:**
 * [The Historian's Macroscope](http://www.themacroscope.org/?page_id=593), "Who We Are..." through "Putting Big Data to Good Use"
-* [The CobWeb](http://www.newyorker.com/magazine/2015/01/26/cobweb)
+* [The CobWeb: Can the Internet Be Archived?](http://www.newyorker.com/magazine/2015/01/26/cobweb)
 
 
 ### Thursday, 9/22/16
