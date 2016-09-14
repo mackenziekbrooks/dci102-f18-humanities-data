@@ -67,14 +67,13 @@
 * Guest speaker: Jason Mickel
 * Lab: regular expressions
 
+**Read for Thursday:**
+* [The Historian's Macroscope](http://www.themacroscope.org/?page_id=837), "Making Your Data Legible" through "Making an Effective Visualization." (Don't worry about implementing all these suggestions, we will continue to work with visualizations in the next two units.)
+
 ### Thursday, 9/29/16
 *Project work* 
 * Lab: data cleanup continued 
 * Lab: visualization 
-
-**Read for Tuesday:**
-* [The Historian's Macroscope](http://www.themacroscope.org/?page_id=837), "Making Your Data Legible" through "Making an Effective Visualization." (Don't worry about implementing all these suggestions, we will continue to work with visualizations in the next two units.)
-
 
 ### Tuesday, 10/4/16
 *Project work*
