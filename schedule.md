@@ -53,8 +53,7 @@
 
 ### Thursday, 9/22/16
 *Data introduction* 
-* Assignment: Project review due by 8am. Be prepared to share. 
-* How computers read
+* Assignment: Project review due to your Box folder by 8am. Be prepared to share. 
 * Data set introduction
 * Guest speaker: Alston Cobourn, Digital Scholarship Librarian
 * Lab: OCR 
