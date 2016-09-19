@@ -33,7 +33,10 @@ Running a document through a scanner does result in a perfect copy and paste-abl
 The process by which computer turns that image into *characters* that can be manipulated is called **optical character recognition**. There are a variety of OCR tools available, however their quality can vary widely. 
 
 ### Activity 2
-The type of OCR tool you need depends on your project. If you have modern documents, 
+The type of OCR tool you need depends on your project. If you have modern documents, you might be okay with a less sophisticated tool. 
+* Adobe Pro
+* Tesseract
+* Google Drive 
 
 ## Data set 
 A zip file of the RTP data set is available in our course Box folder. It consists of text files from each issue of the RTP. Or does it?
