@@ -19,7 +19,7 @@
 ### Tuesday, 9/13/16
 * Discussion: readings
 * Lecture: How the web works
-* Lab: [HTML + CSS](Unit 0 /html-css.md)
+* Lab: HTML + CSS
 * [Slides](https://slides.com/mackenziekbrooks/dh102-f16-day2)
 
 **Read for Thursday:**
@@ -33,7 +33,7 @@
 *Methodology review*
 * Text analysis introduction
 * Guest speakers: *Geolocation* artists > Meet in Staniar Gallery at 2:30. 
-* Lab: [command line](Unit 0/commandline.md)
+* Lab: command line
 * [Slides](http://slides.com/mackenziekbrooks/dh102-f16-day3)
 
 **Read for Tuesday:**
