@@ -43,9 +43,10 @@ The type of OCR tool you need depends on your project. If you have modern docume
 ## Data set 
 A zip file of the RTP data set is available in our course Box folder. It consists of text files from each issue of the RTP. Or does it?
 
-
 ### Activity 3
-Assessment... w/ command line and  sublime 
+Using your new found command line skills, let's learn more about the RTP data. 
+* Use ```pwd``` ```cd``` and ```ls``` to navigate through the ```TesseractOCR``` folder. 
+* 
 
 
 
