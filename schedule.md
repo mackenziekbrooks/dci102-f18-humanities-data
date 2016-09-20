@@ -43,7 +43,7 @@
 
 ### Tuesday, 9/20/16
 *Methodology review*
-* Guest speaker: Prof. Brandon Walsh
+* Guest speaker: Prof. Brandon Walsh, "How to Read a Text," [slides etc](https://github.com/bmw9t/waystoread).
 * Lab: text analysis tools
 
 **Read for Thursday:**
