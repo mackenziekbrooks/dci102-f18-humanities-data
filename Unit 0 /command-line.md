@@ -27,3 +27,5 @@ There are a lot of resources for learning the command line. We'll be using [The 
 Programming Historian offers [Intro to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash).
 
 Scholars' Lab has a great [tutorial](http://praxis.scholarslab.org/scratchpad/bash/). 
+
+Prof. Brandon Walsh wrote a [Command Line Quiz](https://bmw9t.github.io/command_line_browser_quiz/). 
