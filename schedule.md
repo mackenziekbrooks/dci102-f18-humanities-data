@@ -50,10 +50,13 @@
 * [The Historian's Macroscope](http://www.themacroscope.org/?page_id=593), "Who We Are..." through "Putting Big Data to Good Use"
 * [The CobWeb: Can the Internet Be Archived?](http://www.newyorker.com/magazine/2015/01/26/cobweb)
 
+**Due on Thursday:**
+*  Unit 1 Methodology Review
+
 
 ### Thursday, 9/22/16
 *Data introduction* 
-* Assignment: Project review due to your Box folder by 8am. Be prepared to share. 
+* Assignment: Methodology review due to your Box folder by 8am. Be prepared to share. 
 * Data set introduction
 * Guest speaker: Alston Cobourn, Digital Scholarship Librarian
 * Lab: OCR 
