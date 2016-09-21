@@ -25,6 +25,7 @@ Let's explore what's in the Ring-tum Phi!
   * Mention of sorority/fraternity? 
   * Did your parent/older friend attend W&L?
   * Sports, music, or other W&L events?
+  * Other ideas: diversity, alcohol/drug policies, gender issues, town and gown relations...
 * Pay attention to your browsing experience. Is it easy to find what you're looking for? Are you tumbling down research rabbit holes? 
 
 ## Digitization & OCR
