@@ -47,8 +47,9 @@ A zip file of the RTP data set is available in our course Box folder. It consist
 ### Activity 3
 Using your new found command line skills, let's learn more about the RTP data. 
 * Use ```pwd``` ```cd``` and ```ls``` to navigate through the ```TesseractOCR``` folder. 
-* Use ```cat``` to read a file.
-
+* Use ```cat``` to read a file. Find the manual for ```cat```. What else can you do with this command? 
+* What happens when you type ```ls *.2.txt```?
+* Work through the tutorials in the Command Line page using the RTP data. 
 
 
 ### Activity 4
