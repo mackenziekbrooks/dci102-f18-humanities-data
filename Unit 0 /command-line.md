@@ -24,7 +24,7 @@ If you're on Windows, open cmd.exe or Powershell.
 ## Learn
 There are a lot of resources for learning the command line. We'll be using [The Command Line Crash Course](https://learnrubythehardway.org/book/appendixa.html) in this class. 
 
-Programming Historian offers [Intro to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash).
+Programming Historian offers [Intro to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash) and [Intro to Powershell](http://programminghistorian.org/lessons/intro-to-powershell).
 
 Scholars' Lab has a great [tutorial](http://praxis.scholarslab.org/scratchpad/bash/). 
 
