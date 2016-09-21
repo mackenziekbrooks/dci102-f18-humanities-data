@@ -59,7 +59,7 @@
 * Assignment: Methodology review due to your Box folder by 8am. Be prepared to share. 
 * Data set introduction
 * Guest speaker: Alston Cobourn, Digital Scholarship Librarian
-* Lab: OCR 
+* Lab: OCR, [slides](https://docs.google.com/presentation/d/1OdbJqTAGEpIAEWfL_kE9mOJZKl4eMjXL_DEm2-IDcPk/edit?usp=sharing)
 
 **Read for Tuesday:**
 * [Beginning with Regular Expressions](https://recompilermag.com/issues/issue-0/beginning-with-regular-expressions/)
