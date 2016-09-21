@@ -50,7 +50,7 @@ Using your new found command line skills, let's learn more about the RTP data.
 * Use ```cat``` to read a file. Find the manual for ```cat```. What else can you do with this command? 
 * What happens when you type ```ls *.2.txt```?
 * Work through the tutorials in the Command Line page using the RTP data. 
-
+* Can you figure out how to list all the file names in ```TesseractOCR``` and send them to a text file? 
 
 ### Activity 4
 The zip file also contains the folder ```/tesseractscript``` with the original scripts used to create the OCRed text files. This script was written by Professor Sara Sprenkle in 2014 in order to create a data set for another DH course. 
