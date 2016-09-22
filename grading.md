@@ -40,7 +40,7 @@ This course will use an alternative grading model known as "Specifications Gradi
 * Include links and images (with citation) when appropriate.  
 
 ### Core Assignments
-* Project Review
+* Project/Methodology Review
 * Project Data
 * Project Visualization
 
