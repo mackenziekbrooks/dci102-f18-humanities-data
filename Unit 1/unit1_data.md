@@ -35,11 +35,13 @@ The process by which computer turns that image into *characters* that can be man
 
 ### Activity 2
 The type of OCR tool you need depends on your project. If you have modern documents, you might be okay with a less sophisticated tool. 
-* Compare and contrast the output of several OCR tools. 
-* Use the files in the ```foldername```
-* Adobe Pro
-* Tesseract
-* Google Drive 
+
+Compare and contrast the output of several OCR tools: 
+* Use the TIFF files in the ```Unit1_Text``` in Box.
+* Submit the same TIFF file to each of these tools:
+  * Adobe Pro
+  * Google Drive 
+  * Tesseract
 
 ## Data set 
 A zip file of the RTP data set is available in our course Box folder. It consists of text files from each issue of the RTP. Or does it?
