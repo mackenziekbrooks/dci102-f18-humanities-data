@@ -38,10 +38,11 @@ The type of OCR tool you need depends on your project. If you have modern docume
 
 Compare and contrast the output of several OCR tools: 
 * Use the TIFF files in the ```Unit1_Text``` in Box.
-* Submit the same TIFF file to each of these tools:
+* Submit the same TIFF file to each of these tools. There's a document with instructions in Box.
   * Adobe Pro
   * Google Drive 
   * Tesseract
+* Which tool does a better job? Which is easier to install? To use? Which tool is more efficient for the task at hand? What if you had to OCR 100 years of the RTP?
 
 ## Data set 
 A zip file of the RTP data set is available in our course Box folder. It consists of text files from each issue of the RTP. Or does it?
@@ -56,4 +57,6 @@ Using your new found command line skills, let's learn more about the RTP data.
 
 
 The zip file also contains the folder ```/tesseractscript``` with the original scripts used to create the OCRed text files. This script was written by Professor Sara Sprenkle in 2014 in order to create a data set for another DH course. 
+
+### Activity 4
 
