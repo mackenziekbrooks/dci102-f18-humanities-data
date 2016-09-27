@@ -70,13 +70,20 @@
 * Guest speaker: Jason Mickel, [slides](https://docs.google.com/presentation/d/1dGwQHX8DNuRXgw80nKvBInTY7kJ7DjQKFC6RugSS3So/edit?usp=sharing)
 * Lab: regular expressions
 
-**Read for Thursday:**
-* [The Historian's Macroscope](http://www.themacroscope.org/?page_id=837), "Making Your Data Legible" through "Making an Effective Visualization." (Don't worry about implementing all these suggestions, we will continue to work with visualizations in the next two units.)
+**For Thursday:**
+* Please spend some time in the RTP text files with the following questions in mind:
+  * What potential research questions interest you the most? 
+  * Even if the project seems too big for execution now, what type of text analysis methods would you like to pursue?
+  * What would make the RTP easier to work with? 
+  * What 
 
 ### Thursday, 9/29/16
 *Project work* 
 * Lab: data cleanup continued 
-* Lab: visualization 
+* Lab: text analysis tools 
+
+**Read for Tuesday:**
+* [The Historian's Macroscope](http://www.themacroscope.org/?page_id=837), "Making Your Data Legible" through "Making an Effective Visualization." (Don't worry about implementing all these suggestions, we will continue to work with visualizations in the next two units.)
 
 ### Tuesday, 10/4/16
 *Project work*
