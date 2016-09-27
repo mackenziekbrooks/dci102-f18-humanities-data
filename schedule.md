@@ -67,7 +67,7 @@
 
 ### Tuesday, 9/27/16
 *Data cleanup*
-* Guest speaker: Jason Mickel
+* Guest speaker: Jason Mickel, [slides](https://docs.google.com/presentation/d/1dGwQHX8DNuRXgw80nKvBInTY7kJ7DjQKFC6RugSS3So/edit?usp=sharing)
 * Lab: regular expressions
 
 **Read for Thursday:**
