@@ -75,11 +75,13 @@
   * What potential research questions interest you the most? 
   * Even if the project seems too big for execution now, what type of text analysis methods would you like to pursue?
   * What would make the RTP easier to work with? 
-  * What 
+  * Specifically, what can you do to the text files to make them easier to work with? 
+* Review the Assignments page for Unit 1. Bring questions. 
+* Optional: [watch/listen to the Ed Ayers lecture on Civil War History and Digital Humanities](http://livestream.com/wlu/edward-ayers). If you're short on time, skip to minute 56.
 
 ### Thursday, 9/29/16
-*Project work* 
-* Lab: data assessment
+*Data clean up + project work* 
+* Lab: data assessment and cleanup
 * Lab: text analysis tools 
 
 **Read for Tuesday:**
@@ -94,7 +96,7 @@
 * [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 
 ### Thursday, 10/6/16
-*Documentation*
+*Project work + documentation*
 * Unit 1 project debrief. Be prepared to share your results for Unit 1. 
 * Lab: documentation
 
