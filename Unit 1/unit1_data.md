@@ -58,5 +58,5 @@ Using your new found command line skills, let's learn more about the RTP data.
 
 The zip file also contains the folder ```/tesseractscript``` with the original scripts used to create the OCRed text files. This script was written by Professor Sara Sprenkle in 2014 in order to create a data set for another DH course. 
 
-### Activity 4 TDB
+### Activity 4 TBD
 
