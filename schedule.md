@@ -79,7 +79,7 @@
 
 ### Thursday, 9/29/16
 *Project work* 
-* Lab: data cleanup continued 
+* Lab: data assessment
 * Lab: text analysis tools 
 
 **Read for Tuesday:**
@@ -87,7 +87,8 @@
 
 ### Tuesday, 10/4/16
 *Project work*
-* Lab: project work continued
+* Lab: text analysis tools cont.
+* Lab: website setup
 
 **Read for Thursday:**
 * [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
