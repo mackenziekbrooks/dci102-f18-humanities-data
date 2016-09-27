@@ -77,7 +77,7 @@
   * What would make the RTP easier to work with? 
   * Specifically, what can you do to the text files to make them easier to work with? 
 * Review the Assignments page for Unit 1. Bring questions. 
-* Optional: [watch/listen to the Ed Ayers lecture on Civil War History and Digital Humanities](http://livestream.com/wlu/edward-ayers). If you're short on time, skip to minute 56.
+* Optional: [watch/listen to the Ed Ayers lecture on Civil War History and Digital Humanities](http://livestream.com/wlu/edward-ayers). If you're short on time, skip to minute 56. Good material for a blog post! 
 
 ### Thursday, 9/29/16
 *Data clean up + project work* 
