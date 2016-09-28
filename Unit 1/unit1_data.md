@@ -64,3 +64,6 @@ The zip file also contains the folder ```/tesseractscript``` with the original s
 
 ### Activity 5 TBD
 
+## Data Assessment Activity 
+Using the skills you have picked up 
+
