@@ -73,6 +73,7 @@ Using your new found regex skills, let's start cleaning up some RTP data.
   * Are there frequent misspellings of common words? (Ring-tum, Rockbridge, Washington for instance).
   * Can you do anything about the gibberish?
 
+**Word of advice: keep a running list of all the changes you make!**
 
 ## Data Assessment Activity 
 Using the skills you have picked up during the last few class sessions, assess the data you have and make a plan for its cleanup. The results of this activity should be turned in with your data set on 10/11. While we will work on aspects of this activity together in class, ultimately this is part of your assignment and you will need to take individual responsibility for its completion. The answers to the following questions should be saved in a text file with your data set, as per instructions on the Assignments page. 
