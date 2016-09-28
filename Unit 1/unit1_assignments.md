@@ -63,7 +63,6 @@ Specs:
   * Are there issues with the data that the visualization illuminates or disguises?
   * Did this method of visualization require you to modify your data in a specific way?
 
-
 Resources on visualization:
 * [Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2014/05/DataVizChecklist_May2014.pdf)
 * "[Making an Effective Visualization](http://www.themacroscope.org/?page_id=882)" and "[Principles of Visualization](http://www.themacroscope.org/?page_id=469)" - The Historian's Macroscope
@@ -75,7 +74,7 @@ Because we are short on time, you're not being expected to design and implement 
 Specs:
 * Due Tuesday 10/11 by 8am. 
 * Embed/publish on your website OR submit via your Box folder. 
-* 250-300 words. 
+* 150-300 words. 
 * Introduce the data set and provide context. Save the technical details for the project documentation assignment.
 * Identify your disciplinary angle. Are you approaching this project as a historian, a literature person, someone else entirely? Who is your audience?
 * Include three potential research questions. 
