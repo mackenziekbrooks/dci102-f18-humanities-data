@@ -56,13 +56,15 @@ Using your new found command line skills, let's learn more about the RTP data.
 * Continue learning by working through the tutorials in the Command Line page using the RTP data. 
 
 ### Activity 4
+
+Box also contains the folder ```/tesseractscript``` with the original scripts used to create the OCRed text files. This script was written by Professor Sara Sprenkle in 2014 in order to create a data set for another DH course. 
+
+Even if you don't understand everything that's happening in the script, there is one important detail that affects your data. Can you find it?
+
+### Activity 5
 Using your new found Regex skills, let's start cleaning up some RTP data. 
 * Using Sublime Text, 
 
-
-The zip file also contains the folder ```/tesseractscript``` with the original scripts used to create the OCRed text files. This script was written by Professor Sara Sprenkle in 2014 in order to create a data set for another DH course. 
-
-### Activity 5 TBD
 
 ## Data Assessment Activity 
 Using the skills you have picked up during the last few class sessions, assess the data you have and make a plan for its cleanup. The results of this activity should be turned in with your data set on 10/11. While we will work on aspects of this activity together in class, ultimately this is part of your assignment and you will need to take individual responsibility for its completion. The answers to the following questions should be saved in a text file with your data set, as per instructions on the Assignments page. 
