@@ -52,8 +52,8 @@ Using your new found command line skills, let's learn more about the RTP data.
 * Use ```pwd``` ```cd``` and ```ls``` to navigate through the ```TesseractOCR``` folder. 
 * Use ```cat``` to read a file. Find the manual for ```cat```. What else can you do with this command? 
 * What happens when you type ```ls *.2.txt```?
-* Work through the tutorials in the Command Line page using the RTP data. 
 * Can you figure out how to list all the file names in ```TesseractOCR``` and send them to a text file? 
+* Continue learning by working through the tutorials in the Command Line page using the RTP data. 
 
 ### Activity 4
 Using your new found Regex skills, let's start cleaning up some RTP data. 
