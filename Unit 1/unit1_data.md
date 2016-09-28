@@ -63,7 +63,10 @@ Even if you don't understand everything that's happening in the script, there is
 
 ### Activity 5
 Using your new found Regex skills, let's start cleaning up some RTP data. 
-* Using Sublime Text, 
+* In Sublime Text, ```File > Open``` the TesseractOCR on your Desktop. The menu option ```View > Sidebar``` should show you a tree of all the files in this folder. 
+* Clicking on a file once will preview it, double clicking will actually open it. 
+* Right click on a directory and choose ```Find in folder```. Now you can use the find and replace function in all the text files. Remember to select the button ```.``` to turn on Regex capabilities.
+* Using any of the materials from Dr. Mickel's visit or our readings, start looking for patterns and apply regex searches to the text.
 
 
 ## Data Assessment Activity 
