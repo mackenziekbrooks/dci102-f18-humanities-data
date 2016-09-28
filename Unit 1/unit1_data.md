@@ -62,17 +62,22 @@ Box also contains the folder ```/tesseractscript``` with the original scripts us
 Even if you don't understand everything that's happening in the script, there is one important detail that affects your data. Can you find it?
 
 ### Activity 5
-Using your new found Regex skills, let's start cleaning up some RTP data. 
+Using your new found regex skills, let's start cleaning up some RTP data. 
 * In Sublime Text, ```File > Open``` the TesseractOCR on your Desktop. The menu option ```View > Sidebar``` should show you a tree of all the files in this folder. 
 * Clicking on a file once will preview it, double clicking will actually open it. 
-* Right click on a directory and choose ```Find in folder```. Now you can use the find and replace function in all the text files. Remember to select the button ```.``` to turn on Regex capabilities.
+* Right click on a directory and choose ```Find in folder```. Now you can use the find and replace function in all the text files. Remember to select the button ```.``` to turn on regex capabilities. If you type in a search, then press the enter key, you should get a new window with all the search results gathered together. This is useful for scanning results in multiple files.
 * Using any of the materials from Dr. Mickel's visit or our readings, start looking for patterns and apply regex searches to the text.
+* Don't forget that you can consult the newspaper images in the Digital Archive. Before you undertake a large scale correction, double check that you won't be altering content you still need.
+* Potential questions:
+  * How would you find large spaces between words? 
+  * Are there frequent misspellings of common words? (Ring-tum, Rockbridge, Washington for instance).
+  * Can you do anything about the gibberish?
 
 
 ## Data Assessment Activity 
 Using the skills you have picked up during the last few class sessions, assess the data you have and make a plan for its cleanup. The results of this activity should be turned in with your data set on 10/11. While we will work on aspects of this activity together in class, ultimately this is part of your assignment and you will need to take individual responsibility for its completion. The answers to the following questions should be saved in a text file with your data set, as per instructions on the Assignments page. 
 * What is the existing file structure of the data set as you you have received it? What can you discern from the directory names? Describe in detail.  Note the inconsistencies.
-* Can improvements be made to the file structure? 
+* Can improvements be made to the file structure and file names?
 * What is the granularity of the text files? Page? Issue? Reel? Volume? Year? Are there patterns? How does it change over time?
 * Is there duplicate data? How will you handle it?
 * How clean is the OCR? How could you estimate this? Does the quality change over time? 
