@@ -57,7 +57,7 @@ Using your new found command line skills, let's learn more about the RTP data.
 
 ### Activity 4
 
-Box also contains the folder ```/tesseractscript``` with the original scripts used to create the OCRed text files. This script was written by Professor Sara Sprenkle in 2014 in order to create a data set for another DH course. 
+Box also contains the folder ```/tesseractscript``` with the original scripts used to create the OCRed text files. The ```tesseract_process.sh``` script was written by Professor Sara Sprenkle in 2014 in order to create a data set for another DH course. 
 
 Even if you don't understand everything that's happening in the script, there is one important detail that affects your data. Can you find it?
 
