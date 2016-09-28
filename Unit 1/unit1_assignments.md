@@ -51,17 +51,18 @@ Specs:
   
 
 ### Project visualization
-Now that you have some experience creating a usable data set - what can you do with it? From the tools we have experimented with in class, select your favorite and/or most meaningful visualization. This can be a graph, a word cloud, a topic model etc. Use "[Using Data Visualization to Find Insights in Data](http://datajournalismhandbook.org/1.0/en/understanding_data_7.html)" to guide your writing.
+Now that you have some experience creating a usable data set - what can you do with it? From the tools we have experimented with in class, select your favorite and/or most meaningful visualization. This can be a graph, a word cloud, a topic model etc. Use "[Using Data Visualization to Find Insights in Data](http://datajournalismhandbook.org/1.0/en/understanding_data_7.html)" to guide your writing. Since this unit is all about text, it is okay if your visualization isn't that visual.
 
 Specs:
 * Due Tuesday 10/11 by 8am. 
 * Embed/publish on your website. 
+* Indicate which tool/method you used to produce this visualization. 
 * Include 100-200 words on why you selected this visualization. 
   * What did you learn about your data from this visualization, if anything?
-  * What about the methodology worked or didn't work?
+  * What about the visualization/methodology worked or didn't work?
   * Are there issues with the data that the visualization illuminates or disguises?
-  * Does this method of visualization require you to 
-* Indicate which tool/method you used to produce this visualization. 
+  * Did this method of visualization require you to modify your data in a specific way?
+
 
 Resources on visualization:
 * [Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2014/05/DataVizChecklist_May2014.pdf)
