@@ -65,5 +65,6 @@ Using the skills you have picked up during the last few class sessions, assess t
 On paper or on your computer, answer the following questions: 
 1. What is my research question or topic? 
 2. What are the biggest problems I have found with the data?
-3. What methods/tools am I interested in using?
-4. What are my next steps?
+3. What methods/tools am I interested in using? 
+4. What resources do I need?
+5. What are my next steps? Break them down!
