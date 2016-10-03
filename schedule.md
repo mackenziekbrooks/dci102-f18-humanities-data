@@ -89,7 +89,7 @@
 
 ### Tuesday, 10/4/16
 *Project work*
-* Lab: text analysis tools cont.
+* Lab: text analysis tools
 
 **Read for Thursday:**
 * [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
