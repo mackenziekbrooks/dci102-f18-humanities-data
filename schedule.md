@@ -90,14 +90,13 @@
 ### Tuesday, 10/4/16
 *Project work*
 * Lab: text analysis tools cont.
-* Lab: website setup
 
 **Read for Thursday:**
 * [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 
 ### Thursday, 10/6/16
 *Project work + documentation*
-* Unit 1 project debrief. Be prepared to share your results for Unit 1. 
+* Lab: website setup
 * Lab: documentation
 
 **Read for Tuesday:**
@@ -109,6 +108,7 @@
 
 ### Tuesday, 10/11/16
 *Methodology review*
+* Unit 1 project debrief. Be prepared to share your results for Unit 1. 
 * Guest speaker: Jeff Barry, Associate University Librarian 
 * Readings:
   * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
