@@ -62,5 +62,6 @@ Using the skills you have picked up during the last few class sessions, assess t
 * Based on your proposed research question, what are your priorities for OCR cleanup? Give examples. What are the biggest problems and how will you solve them? 
 
 ## Project planning
-* On paper or on your computer, answer the following questions: 
-1. What is 
+On paper or on your computer, answer the following questions: 
+1. What is my research question or topic? 
+2. 
