@@ -22,6 +22,20 @@ Compare and contrast the output of several OCR tools:
   * Tesseract
 * Which tool does a better job? Which is easier to install? To use? Which tool is more efficient for the task at hand? What if you had to OCR 100 years of the RTP?
 
+### Activity 3
+Using your new found command line skills, let's learn more about the RTP data. 
+* Use ```pwd``` ```cd``` and ```ls``` to navigate through the ```TesseractOCR``` folder. 
+* Use ```cat``` to read a file. Find the manual for ```cat```. What else can you do with this command? 
+* What happens when you type ```ls *.2.txt```?
+* Can you figure out how to list all the file names in ```TesseractOCR``` and send them to a text file? 
+* Continue learning by working through the tutorials in the Command Line page using the RTP data. 
+
+### Activity 4
+Box also contains the folder ```/tesseractscript``` with the original scripts used to create the OCRed text files. The ```tesseract_process.sh``` script was written by Professor Sara Sprenkle in 2014 in order to create a data set for another DH course. 
+
+Even if you don't understand everything that's happening in the script, there is one important detail that affects your data. Can you find it?
+
+
 ### Activity 5
 Using your new found regex skills, let's start cleaning up some RTP data. 
 * In Sublime Text, ```File > Open``` the TesseractOCR on your Desktop. The menu option ```View > Sidebar``` should show you a tree of all the files in this folder. 
