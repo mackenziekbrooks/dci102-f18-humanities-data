@@ -99,9 +99,6 @@
 * Lab: website setup
 * Lab: documentation
 
-**Read for Tuesday:**
-  * [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
-
 **All Unit 1 assignments due 10/11/16 by 8am**
 
 ## Unit 2 Network
@@ -110,10 +107,11 @@
 *Methodology review*
 * Unit 1 project debrief. Be prepared to share your results for Unit 1. 
 * Guest speaker: Jeff Barry, Associate University Librarian 
-* Readings:
-  * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
 
 **Read for Tuesday:**
+  * [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
+  * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
+
 Critical DH? 
 
 ### X Thursday, 10/13/16
