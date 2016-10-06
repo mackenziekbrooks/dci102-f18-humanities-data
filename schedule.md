@@ -98,6 +98,7 @@
 *Project work + documentation*
 * Lab: website setup
 * Lab: documentation
+* [Slides](https://slides.com/mackenziekbrooks/dh190-f16-docswp)
 
 **All Unit 1 assignments due 10/11/16 by 8am**
 
