@@ -112,6 +112,7 @@
 **Read for Tuesday the 18th:**
   * [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
   * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
+  * [Databases for people who don't know a whole lot about them](https://medium.com/@rwilliams_bv/intro-to-databases-for-people-who-dont-know-a-whole-lot-about-them-a64ae9af712#.tmk6ooisu)
 
 ### X Thursday, 10/13/16
 No class, reading days
@@ -124,7 +125,7 @@ No class, reading days
 * Data set introduction
 
 **Read for Thursday:**
-* [Databases for people who don't know a whole lot about them](https://medium.com/@rwilliams_bv/intro-to-databases-for-people-who-dont-know-a-whole-lot-about-them-a64ae9af712#.tmk6ooisu)
+
 * linked data??
 
 ### Thursday, 10/20/16
