@@ -1,7 +1,8 @@
   # Unit 2 / Network / Methodology
 Networks are everywhere. Once you start, it's hard to stop seeing them. The internet is a network, Facebook is a network, [Kevin Bacon is the central node](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) in the Hollywood network. 
 
-As we saw in Unit 1, computers are great at *computing*, but humans are still required for intepretation. 
+
+As we saw in Unit 1, computers are great at *computing*, but humans are still required for interpretation. 
 
  
 ## Defining methods
