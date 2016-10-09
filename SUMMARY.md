@@ -15,5 +15,5 @@
    * [Methodology](Unit 1/unit1_methodology.md)
 * Unit 2/Network
    * [Assignments](Unit 2/unit2_assignments.md)
-   * Data
+   * [Data](Unit 2/unit2_data.md)
 
