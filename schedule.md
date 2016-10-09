@@ -124,6 +124,7 @@ No class, reading days
 * Data set introduction
 
 **Read for Thursday:**
+* [Databases for people who don't know a whole lot about them](https://medium.com/@rwilliams_bv/intro-to-databases-for-people-who-dont-know-a-whole-lot-about-them-a64ae9af712#.tmk6ooisu)
 * linked data??
 
 ### Thursday, 10/20/16
