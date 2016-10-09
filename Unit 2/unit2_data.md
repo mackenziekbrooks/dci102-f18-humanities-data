@@ -13,7 +13,7 @@ This is not a literary history course, but there is a lot to learn about the mid
 
 
 ## Stonewall Jackson Cemetery
-If you haven't noticed, Lexington is a major tourist destination for Civil War History. Places like Lee Chapel and the Stonewall Jackson Cemetery attract thousands of visitors a year. Both sites have generated DH projects of one form or another. In 2013, Leyburn Library launched an online database of those buried in the Stonewall Jackson Cemetery. Carol Karsch (Data and Statistical Support Specialist) collaborated with Lexington resident Tom Kastner to create the database. Emily Crawford '15 assisted with the work of cleaning up the data and the accompanying photos. 
+If you haven't noticed, Lexington is a major tourist destination for Civil War History. Places like Lee Chapel and the Stonewall Jackson Cemetery attract tens of thousands of visitors a year. Both sites have generated DH projects of one form or another. In 2013, Leyburn Library launched an online database of those buried in the Stonewall Jackson Cemetery. Carol Karsch (Data and Statistical Support Specialist) collaborated with Lexington resident Tom Kastner to create the database. Emily Crawford '15 assisted with the work of cleaning up the data and the accompanying photos. 
 
 [Press release](http://news.blogs.wlu.edu/2013/02/11/wl-creates-website-for-stonewall-jackson-cemetery-census/)
 
