@@ -1,7 +1,10 @@
   # Unit 2 / Network / Methodology
 
+
  
-## Methods
+## Defining methods
 
 
 ## Tools
+
+## Resources
