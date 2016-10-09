@@ -109,7 +109,7 @@
 * Unit 1 project debrief. Be prepared to share your results for Unit 1. 
 * Guest speaker: Jeff Barry, Associate University Librarian 
 
-**Read for Tuesday:**
+**Read for Tuesday the 18th:**
   * [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
   * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
 
