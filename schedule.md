@@ -113,16 +113,13 @@
   * [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
   * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
 
-Critical DH? 
-
 ### X Thursday, 10/13/16
 No class, reading days
-
 
 ### Tuesday, 10/18/16
 *Data structures*
 * Assignment: project review due by 8am. Be prepared to share.
-* Discussion: Critical DH
+* Discussion: readings
 * Lecture: How to structure data 
 * Data set introduction
 
@@ -131,8 +128,8 @@ No class, reading days
 
 ### Thursday, 10/20/16
 *Data reconciliation*
-
-Linked data? 
+*Lecture: linked data
+*Lab: Open Refine 
 
 ### Tuesday, 10/25/16
 *Data cleanup cont*
@@ -143,9 +140,8 @@ Linked data?
 ### Tuesday, 11/1/16
 *Project work* 
 
-
 ### Thursday, 11/3/16
-*Documentation*
+*Project work + Documentation*
 
 
 **All Unit 2 assignments due Tuesday 11/8 by 8am.**
