@@ -30,7 +30,6 @@ Projects:
 * [Social Networks and Archival Context (SNAC)](http://socialarchive.iath.virginia.edu/)
 * [Digital Mitford](http://digitalmitford.org/visual.html)
 
-
 Resources on evaluating digital projects:
 * [Short Guide To Evaluation Of Digital Work by Geoffrey Rockwell](http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/)
 * [Criteria for Reviewing Scholarly Digital Editions -  Institut für Dokumentologie und Editorik](http://www.i-d-e.de/publikationen/weitereschriften/criteria-version-1-1/)
