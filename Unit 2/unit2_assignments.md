@@ -57,7 +57,7 @@ Now that you have some experience creating a usable data set - what can you do w
 Specs:
 * Due Tuesday 11/8 by 8am.
 * Embed/publish on your website. 
-* Include 100-200 words on why you selected this visualization. 
+* Include 150-200 words on why you selected this visualization. 
   * What did you learn about your data from this visualization, if anything?
   * What about the methodology worked or didn't work?
   * Are there issues with the data that the visualization illuminates or disguises?
@@ -75,7 +75,7 @@ Because we are short on time, you're not being expected to design and implement 
 Specs:
 * Due Tuesday 11/8 by 8am.
 * Embed/publish on your website OR submit via your Box folder. 
-* 250-300 words. 
+* 150-300 words. 
 * Introduce the data set and provide context. Save the technical details for the project documentation assignment.
 * Identify your disciplinary angle. Are you approaching this project as a historian, a literature person, someone else entirely? Who is your audience?
 * Include three potential research questions. 
