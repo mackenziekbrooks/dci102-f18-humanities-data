@@ -42,16 +42,17 @@ Resources on evaluating digital projects:
 At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends. 
 
 Specs: 
-* Due Tuesday 11/8 by 8am.
+* Due Tuesday 11/8/16 by 8am.
 * Submit in a zipped folder via Box.
 * Include a text file titled "data-assessment-%DATE.txt" with the results of our in-class activity. 
-* Include a text file titled "data-cleanup-%DATE.txt" with a list of the modifications you made to your data set. Those modifications should include:
+* Include a text file titled "data-cleanup-%DATE.txt" with a list of the modifications you made to your data set. Those modifications could include:
   * All fields should be standardized to the most appropriate data type (Date, String, etc.)
-  * Reconcile names to an external authority if possible (Shenandoah data set).   
+  * Reconcile names to an external authority if possible (Shenandoah data set).
+  * Separation into multiple csv files for more specific analysis.
   
 
 ### Project visualization
-Now that you have some experience creating a usable data set - what can you do with it? From the tools we have experimented with in class, select your favorite and/or most meaningful visualization. This can be a graph, a word cloud, a topic model etc. Use "[Using Data Visualization to Find Insights in Data](http://datajournalismhandbook.org/1.0/en/understanding_data_7.html)" to guide your writing.
+Now that you have some experience creating a usable data set - what can you do with it? From the tools we have experimented with in class, select your favorite and/or most meaningful visualization. For this unit, your visualizaiton should be some kind of network graph. Use "[Using Data Visualization to Find Insights in Data](http://datajournalismhandbook.org/1.0/en/understanding_data_7.html)" to guide your writing.
 
 Specs:
 * Due Tuesday 11/8 by 8am.
@@ -63,7 +64,7 @@ Specs:
   * Does this method of visualization require you to 
 * Indicate which tool/method you used to produce this visualization. 
 
-Mor resources on visualization:
+More resources on visualization:
 * [Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2014/05/DataVizChecklist_May2014.pdf)
 * "[Making an Effective Visualization](http://www.themacroscope.org/?page_id=882)" and "[Principles of Visualization](http://www.themacroscope.org/?page_id=469)" - The Historian's Macroscope
 
