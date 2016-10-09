@@ -19,9 +19,12 @@ A network is, as Scott Weingart [says](http://journalofdigitalhumanities.org/1-1
 
 
 ## Tools
+### Palladio
+http://hdlab.stanford.edu/palladio/
 
+### Gephi
 
-
+https://gephi.org/
 
 ### Neo4j
 [Neo4j](https://neo4j.com/) is a "graph database." The "community edition" is easy to install and runs locally in your browser. Neo4j is well-documented and has a great training tutorial. Having experience with query languages like SQL will help with the learning curve. 
