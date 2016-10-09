@@ -1,10 +1,12 @@
   # Unit 2 / Network / Methodology
-Networks are everywhere. Once you start, it's hard to stop seeing them. 
+Networks are everywhere. Once you start, it's hard to stop seeing them. The internet is a network, Facebook is a network, [Kevin Bacon is the central node](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) in the Hollywood network. 
+
+As we saw in Unit 1, computers are great at *computing*, but humans are still required for intepretation. 
 
  
 ## Defining methods
 ### Networks, nodes, and edges
-A network is, as Scott Weingart [says](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), "stuff and relationships." One piece of "stuff" is a node" and the relationship/connection between two pieces of "stuff" is an "edge." Nodes are also called points, vertices, or agents. Edges are also called 
+A network is, as Scott Weingart [says](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), "stuff and relationships." One piece of "stuff" is a "node" and the relationship/connection between two pieces of "stuff" is an "edge." Nodes are also called points, vertices, or agents. 
 
 ### Network analysis
 
