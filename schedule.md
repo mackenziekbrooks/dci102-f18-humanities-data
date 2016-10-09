@@ -125,13 +125,15 @@ No class, reading days
 * Data set introduction
 
 **Read for Thursday:**
-
 * linked data??
 
 ### Thursday, 10/20/16
 *Data reconciliation*
 *Lecture: linked data
 *Lab: Open Refine 
+
+** Read for Tuesday:**
+* [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
 
 ### Tuesday, 10/25/16
 *Data cleanup cont*
