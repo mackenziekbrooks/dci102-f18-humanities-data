@@ -20,12 +20,13 @@ If you want to learn more, Prof. Jon Eastwood in Sociology teaches a course on s
 As Franco Moretti points out in "Network Theory, Plot Analysis," the visualization of networks can be more useful to the humanities scholar than formal network analysis. Even if one does not calculate node centrality, visualizing your data as a network can affect the way you interpret that data.
 
 ### Graph database
+Usually when we talk about databases, we're talking about relational databases. Tables of data are linked by primary/foreign keys. For example, Wordpress creates separate tables (think spreadsheets) for your user info, your posts, and your comments. Relationships are formed by the columns that live in a row together. 
 
-
+Graph databases privilege the relationships between units of information. Attributes can be given to the nodes and edges to provide more details.
 
 ## Tools
 ### Palladio
-http://hdlab.stanford.edu/palladio/
+[Palladio](http://hdlab.stanford.edu/palladio/) is a data visualization tool created by Standford's Humanities + Design Research Lab. It's a browser-based tool that accepts structured data and creates network, geospatial, and gallery visualizations.
 
 ### Gephi
 
