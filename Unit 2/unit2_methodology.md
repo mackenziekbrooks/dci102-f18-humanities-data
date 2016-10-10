@@ -42,3 +42,4 @@ Graph databases privilege the relationships between units of information. Attrib
 ### Other
 * [Creating a Network Graph with Gephi - Miriam Posner](http://miriamposner.com/dh101f14/?p=1389)
 * [Two-mode Netorks - Tore Opsahl](https://toreopsahl.com/tnet/two-mode-networks/)
+* [GEPHI – Introduction to Network Analysis and Visualization](http://www.martingrandjean.ch/gephi-introduction/)
