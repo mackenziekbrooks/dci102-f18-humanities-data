@@ -17,11 +17,10 @@ Social network analysis, or SNA, is used by social scientists to study groups of
 If you want to learn more, Prof. Jon Eastwood in Sociology teaches a course on social network analysis. 
 
 ### Network visualization
-
-
-
+As Franco Moretti points out in "Network Theory, Plot Analysis," the visualization of networks can be more useful to the humanities scholar than formal network analysis. Even if one does not calculate node centrality, visualizing your data as a network can affect the way you interpret that data.
 
 ### Graph database
+
 
 
 ## Tools
