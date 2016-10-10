@@ -16,4 +16,5 @@
 * Unit 2/Network
    * [Assignments](Unit 2/unit2_assignments.md)
    * [Data](Unit 2/unit2_data.md)
+   * Methodology
 
