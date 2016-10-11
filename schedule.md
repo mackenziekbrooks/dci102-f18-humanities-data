@@ -132,6 +132,7 @@ No class, reading days
 
 ### Thursday, 10/20/16
 *Data reconciliation*
+
 *Lecture: linked data
 *Lab: Open Refine 
 
