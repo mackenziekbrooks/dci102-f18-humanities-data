@@ -137,7 +137,9 @@ No class, reading days
 *Lab: Open Refine 
 
 ** Read for Tuesday:**
+* [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
 * [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
+
 
 ### Tuesday, 10/25/16
 *Data cleanup cont*
