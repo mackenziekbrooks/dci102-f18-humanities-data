@@ -114,8 +114,6 @@
   * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
   * [Databases for people who don't know a whole lot about them](https://medium.com/@rwilliams_bv/intro-to-databases-for-people-who-dont-know-a-whole-lot-about-them-a64ae9af712#.tmk6ooisu)
 
-**Methodology review due Tuesday the 18th**
-
 ### X Thursday, 10/13/16
 No class, reading days
 
@@ -132,7 +130,6 @@ No class, reading days
 
 ### Thursday, 10/20/16
 *Data reconciliation*
-
 *Lecture: linked data
 *Lab: Open Refine 
 
