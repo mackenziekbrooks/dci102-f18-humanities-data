@@ -38,6 +38,9 @@ Graph databases privilege the relationships between units of information. Attrib
 http://www.cytoscape.org/
 [Tutorial by Miriam Posner](https://github.com/miriamposner/cytoscape_tutorials)
 
+### igraph
+[igraph](http://igraph.org/redirect.html) is a network analysis package for use with R, Python, and C++
+
 ## Resources
 ### Programming Historian lessons
 * [Reshaping JSON with jq](http://programminghistorian.org/lessons/json-and-jq)
