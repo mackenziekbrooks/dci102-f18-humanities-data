@@ -34,6 +34,10 @@ Graph databases privilege the relationships between units of information. Attrib
 ### Neo4j
 [Neo4j](https://neo4j.com/) is a "graph database." The "community edition" is easy to install and runs locally in your browser. Neo4j is well-documented and has a great training tutorial. Having experience with query languages like SQL will help with the learning curve. 
 
+### Cytoscape
+http://www.cytoscape.org/
+[Tutorial by Miriam Posner](https://github.com/miriamposner/cytoscape_tutorials)
+
 ## Resources
 ### Programming Historian lessons
 * [Reshaping JSON with jq](http://programminghistorian.org/lessons/json-and-jq)
