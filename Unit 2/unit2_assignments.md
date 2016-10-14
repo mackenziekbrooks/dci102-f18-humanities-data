@@ -118,6 +118,7 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 * What networks would you like to look at in or outside of your own field of study? Why? 
 * What interests you about the data set you have chosen to work with? What other local history topics could use network analysis/visualization?
 * Respond/reflect on our reading on Critical DH.
+* Watch one of the movies mentioned by Jeff Barry in his intro to networks talk.
 
 Specs:
 * 2 blog posts due Tuesday 11/8 by 8am. (I recommend spacing them out!)
