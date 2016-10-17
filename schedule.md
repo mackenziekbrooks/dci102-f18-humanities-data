@@ -129,9 +129,9 @@ No class, reading days
 * Review this Programming Historian Lesson: "[Using SPARQL to access Linked Open Data](http://programminghistorian.org/lessons/graph-databases-and-SPARQL)"
 
 ### Thursday, 10/20/16
-*Data reconciliation*
-*Lecture: linked data
-*Lab: Open Refine 
+* *Data reconciliation*
+* Lecture: linked data
+* Lab: Open Refine 
 
 ** Read for Tuesday:**
 * [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
