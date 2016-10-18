@@ -123,6 +123,7 @@ No class, reading days
 * Discussion: readings
 * Lecture: How to structure data 
 * Data set introduction
+* [Slides](http://slides.com/mackenziekbrooks/dh102-f16-unit2day2)
 
 **For Thursday:**
 * Watch ["What is Linked Data?"](https://www.youtube.com/watch?v=4x_xzT5eF5Q) by Manu Sporny
