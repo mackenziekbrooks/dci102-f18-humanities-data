@@ -124,12 +124,13 @@ No class, reading days
 * Lecture: How to structure data 
 * Data set introduction
 
-**Read for Thursday:**
+**For Thursday:**
 * Watch ["What is Linked Data?"](https://www.youtube.com/watch?v=4x_xzT5eF5Q) by Manu Sporny
 * Review this Programming Historian Lesson: "[Using SPARQL to access Linked Open Data](http://programminghistorian.org/lessons/graph-databases-and-SPARQL)"
+* Install [Open Refine](http://openrefine.org/)
 
 ### Thursday, 10/20/16
-* *Data reconciliation*
+* *Data cleanup + reconciliation*
 * Lecture: linked data
 * Lab: Open Refine 
 
