@@ -126,7 +126,7 @@ No class, reading days
 
 **For Thursday:**
 * Watch ["What is Linked Data?"](https://www.youtube.com/watch?v=4x_xzT5eF5Q) by Manu Sporny
-* Review this Programming Historian Lesson: "[Using SPARQL to access Linked Open Data](http://programminghistorian.org/lessons/graph-databases-and-SPARQL)"
+* Review this Programming Historian Lesson: "[Using SPARQL to access Linked Open Data](http://programminghistorian.org/lessons/graph-databases-and-SPARQL)" and "[Cleaning Data with Open Refine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)"
 * Install [Open Refine](http://openrefine.org/)
 
 ### Thursday, 10/20/16
