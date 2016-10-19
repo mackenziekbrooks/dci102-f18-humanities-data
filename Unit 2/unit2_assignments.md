@@ -29,6 +29,7 @@ Projects:
 * [Prosop](http://prosop.org/) (in development)
 * [Social Networks and Archival Context (SNAC)](http://socialarchive.iath.virginia.edu/)
 * [Digital Mitford](http://digitalmitford.org/visual.html)
+* [Linked Jazz](https://linkedjazz.org/)
 
 Resources on evaluating digital projects:
 * [Short Guide To Evaluation Of Digital Work by Geoffrey Rockwell](http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/)
