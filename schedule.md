@@ -141,7 +141,10 @@ No class, reading days
 
 
 ### Tuesday, 10/25/16
-*Data cleanup cont*
+*Network analysis tools*
+* Reading discussion
+* Network analysis tool workshop
+
 
 ### Thursday, 10/27/16
 *Project work* 
