@@ -17,5 +17,5 @@
    * [Assignments](Unit 2/unit2_assignments.md)
    * [Data](Unit 2/unit2_data.md)
    * [Methodology](Unit 2/unit2_methodology.md)
-   * Activities
+   * [Activities](Unit 2/unit2_activities.md)
 
