@@ -134,6 +134,7 @@ No class, reading days
 * *Data cleanup*
 * Lecture: linked data
 * Lab: Open Refine 
+* [Slides](https://slides.com/mackenziekbrooks/dh190-f16-linkeddata)
 
 ** Read for Tuesday:**
 * [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
