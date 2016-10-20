@@ -131,7 +131,7 @@ No class, reading days
 * Install [Open Refine](http://openrefine.org/)
 
 ### Thursday, 10/20/16
-* *Data cleanup + reconciliation*
+* *Data cleanup*
 * Lecture: linked data
 * Lab: Open Refine 
 
