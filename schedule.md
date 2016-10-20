@@ -139,7 +139,6 @@ No class, reading days
 * [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
 * [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
 * [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
-* 
 
 
 ### Tuesday, 10/25/16
