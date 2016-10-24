@@ -35,7 +35,8 @@ Graph databases privilege the relationships between units of information. Attrib
 [Neo4j](https://neo4j.com/) is a "graph database." The "community edition" is easy to install and runs locally in your browser. Neo4j is well-documented and has a great training tutorial. Having experience with query languages like SQL will help with the learning curve. 
 
 ### Cytoscape
-http://www.cytoscape.org/
+[Cytoscape](http://www.cytoscape.org/) was designed for the sciences, but is now being used for more general network analysis and visualization purposes. 
+
 [Tutorial by Miriam Posner](https://github.com/miriamposner/cytoscape_tutorials)
 
 ### igraph
