@@ -43,7 +43,6 @@ http://www.cytoscape.org/
 
 ## Resources
 ### Programming Historian lessons
-* [Reshaping JSON with jq](http://programminghistorian.org/lessons/json-and-jq)
 * [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
 
 ### Other
