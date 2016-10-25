@@ -52,3 +52,4 @@ Graph databases privilege the relationships between units of information. Attrib
 * [GEPHI – Introduction to Network Analysis and Visualization](http://www.martingrandjean.ch/gephi-introduction/)
 * [Intro to Network Analysis (Gephi)](http://thomaspadilla.org/na2014/)
 * [Using Open Refine to Update, Clean up, and Link Your Metadata to the Wider World](https://www.youtube.com/watch?v=E-NbMR3_MRw) 
+* [The Complete n00b’s Guide to Gephi](http://www.briansarnacki.com/gephi-tutorial/)
