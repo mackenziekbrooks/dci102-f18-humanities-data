@@ -145,7 +145,9 @@ No class, reading days
 ### Tuesday, 10/25/16
 *Network analysis tools*
 * Reading discussion
-* Network analysis tool workshop
+* Network analysis tools workshop/sandbox
+* [Slides](https://slides.com/mackenziekbrooks/dh102-f16-unit2readings/)
+* [Data generation survey](https://goo.gl/forms/2ZddsFSk5TrcH1i52)
 
 
 ### Thursday, 10/27/16
