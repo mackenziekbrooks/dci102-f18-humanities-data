@@ -16,3 +16,12 @@ Using Open Refine, explore your data set. In a text file to be turned in with Un
 3. What columns would be best served by the "cluster and edit" feature? Why?
 4. Which columns need to be modified for consistency? (hint: any date field)
 5. Is there research you need to conduct to learn about the people in your data? How will you go about it? 
+
+## Activity 3: Data Generation
+
+## Activity 4: Set Your Intentions
+* What is my research question or topic?
+* What are the biggest problems I have found with the data? What are realistic solutions?
+* What methods/tools am I interested in using?
+* What resources do I need?
+* What are my next steps? Break them down!
