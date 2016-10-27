@@ -18,6 +18,11 @@ Using Open Refine, explore your data set. In a text file to be turned in with Un
 5. Is there research you need to conduct to learn about the people in your data? How will you go about it? 
 
 ## Activity 3: Data Generation
+* Fill this out [data generation survey](https://docs.google.com/forms/d/e/1FAIpQLSeSBKxh-rv1W8z8vPLdeurrtrN6QAt3QkhXY8plkB4lzAMHOw/viewform?c=0&w=1) to create a simple data set for testing network analysis tools. 
+* Follow Miriam Posner's [tutorial](http://miriamposner.com/blog/a-fun-way-to-introduce-dh-students-to-dataviz/) to convert data to two columns. 
+* Data is available as .csv on Box. 
+* Load data into your chosen app for testing.
+
 
 ## Activity 4: Set Your Intentions
 * What is my research question or topic?
