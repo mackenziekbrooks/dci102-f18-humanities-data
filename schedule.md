@@ -153,6 +153,9 @@ No class, reading days
 ### Thursday, 10/27/16
 *Project work* 
 
+**Read for Tuesday**
+* [Data + Design](https://infoactive.co/data-design/titlepage01.html), chapters on data cleaning and visualization (and more!)
+
 ### Tuesday, 11/1/16
 *Project work* 
 
