@@ -50,6 +50,7 @@ Specs:
   * Reconcile names to an external authority if possible.
   * Separation into multiple csv files for more specific analysis.
   * Any approaches for standardizing the content of the fields (LastName, FirstName or First, Last; separating or combining fields)
+  * List of cleanup steps taken in OpenRefine or Excel
   
 
 ### Project visualization
@@ -97,6 +98,7 @@ Specs:
   * What did you do to your data? How did you do it?
   * What tools did you use to clean and visualize your data? How did you use them? What steps did you follow? 
 * Include screenshots when appropriate.
+* Be specific!
 
 ### Project reflection
 The final assignment for this unit a piece of reflective writing. Talk about your feelings. What have you learned? What has been challenging? How has your relationship with technology changed? What would you have done differently? What new strategies will you try in the next unit?
@@ -119,7 +121,7 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 * How do you see networks functioning in your own life? 
 * What networks would you like to look at in or outside of your own field of study? Why? 
 * What interests you about the data set you have chosen to work with? What other local history topics could use network analysis/visualization?
-* Respond/reflect on our reading on Critical DH.
+* Respond/reflect on our reading on Critical DH. See ["Missed Connections: What Search Engines Say About Women"](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf) or ["An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?"](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 * Watch one of the movies mentioned by Jeff Barry in his intro to networks talk.
 
 Specs:
