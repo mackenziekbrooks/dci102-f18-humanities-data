@@ -158,11 +158,12 @@ No class, reading days
 
 ### Tuesday, 11/1/16
 *Project work* 
-* Complete Unit 2/Activity 
+* Activity 5
+* 
 
 ### Thursday, 11/3/16
 *Project work + Documentation*
-
+* Peer review of documentation, visualizations
 
 **All Unit 2 assignments due Tuesday 11/8 by 8am.**
 
