@@ -30,3 +30,16 @@ Using Open Refine, explore your data set. In a text file to be turned in with Un
 * What methods/tools am I interested in using?
 * What resources do I need?
 * What are my next steps? Break them down!
+
+## Activity 5: Documentation 
+What makes good documentation? As *Data + Design* [reminds](https://infoactive.co/data-design/ch08.html) us: 
+> "Regardless of how you choose to do it, good documentation of your cleaning procedures ensures that you can always justify why certain data points were removed and others weren’t and that others are able to verify that the data were cleaned competently and correctly."
+
+### Part 1
+* At your table, brainstorm a list of the qualities of good documentation.
+* For each quality, find an example from the projects and tutorials we've used so far in the course. 
+* Share your results with the group. 
+
+### Part 2
+* Using your new list of principles, document one of your methods from this term. It can be something you learned to do in Excel or OpenRefine or one of the visualization tools.
+* Post this documentation to your website by Thursday's class. We will do peer review of documentation in class.
