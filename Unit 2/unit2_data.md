@@ -11,6 +11,8 @@ The W&L Library has been pursuing a [DH project](http://literarynetworks.org/) b
 
 This is not a literary history course, but there is a lot to learn about the mid-century Southern literary scene by studying the connections between these authors.
 
+To see what others have done with this type of material, check out the [Modernist Journals Projects Labs](http://cds.library.brown.edu/projects/mjplab/Masses/index.html).
+
 
 ## Stonewall Jackson Cemetery
 If you haven't noticed, Lexington is a major tourist destination for Civil War History. Places like Lee Chapel and the Stonewall Jackson Cemetery attract tens of thousands of visitors a year. Both sites have generated DH projects of one form or another. In 2013, Leyburn Library launched an online database of those buried in the Stonewall Jackson Cemetery. Carol Karsch (Data and Statistical Support Specialist) collaborated with Lexington resident Tom Kastner to create the database. Emily Crawford '15 assisted with the work of cleaning up the data and the accompanying photos. 
