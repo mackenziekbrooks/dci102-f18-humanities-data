@@ -178,7 +178,8 @@ No class, reading days
 * Guest speakers: Paul Youngman and Ulemj Enkhbold '17 on *Mapping the Literary Railway*
 
 **Read for Thursday:**
-
+* [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id)
+* [Visualizing the Railway Space in Fontane’s Effi Briest](http://transit.berkeley.edu/2016/youngman-et-al/)
 
 ### Thursday, 11/10/16
 
