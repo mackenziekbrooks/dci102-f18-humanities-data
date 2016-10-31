@@ -42,4 +42,7 @@ What makes good documentation? As *Data + Design* [reminds](https://infoactive.c
 
 ### Part 2
 * Using your new list of principles, document one of your methods from this term. It can be something you learned to do in Excel or OpenRefine or one of the visualization tools.
-* Post this documentation to your website by Thursday's class. We will do peer review of documentation in class.
+* Post this documentation to your website by Thursday's class. 
+
+### Part 3
+
