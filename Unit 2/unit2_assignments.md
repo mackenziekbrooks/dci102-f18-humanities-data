@@ -97,7 +97,7 @@ Specs:
   * What is your data set? Where did it come from? Who owns it? 
   * What did you do to your data? How did you do it?
   * What tools did you use to clean and visualize your data? How did you use them? What steps did you follow? 
-* Include screenshots when appropriate.
+* Include screenshots and links when appropriate.
 * Be specific!
 
 ### Project reflection
