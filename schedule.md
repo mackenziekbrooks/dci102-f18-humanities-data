@@ -165,6 +165,7 @@ No class, reading days
 ### Thursday, 11/3/16
 *Project work + Documentation*
 * Peer review of documentation, visualizations
+* Install Omeka + Neatline > Unit 3/Activity 1
 
 **All Unit 2 assignments due Tuesday 11/8 by 8am.**
 
