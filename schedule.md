@@ -176,6 +176,8 @@ No class, reading days
 * Prof. Brooks away at conference
 * Guest speakers: Paul Youngman and Ulemj Enkhbold '17 on *Mapping the Literary Railway*
 
+**Read for Thursday:**
+
 
 ### Thursday, 11/10/16
 
