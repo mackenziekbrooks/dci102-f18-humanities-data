@@ -158,6 +158,7 @@ No class, reading days
 
 ### Tuesday, 11/1/16
 *Project work* 
+* Complete Unit 2/Activity 
 
 ### Thursday, 11/3/16
 *Project work + Documentation*
