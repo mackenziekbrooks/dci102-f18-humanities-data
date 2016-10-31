@@ -159,7 +159,8 @@ No class, reading days
 ### Tuesday, 11/1/16
 *Project work* 
 * Activity 5
-* 
+
+**Prepare 1-2 network visualizations and 1 piece of documentation for peer review on Thursday**
 
 ### Thursday, 11/3/16
 *Project work + Documentation*
