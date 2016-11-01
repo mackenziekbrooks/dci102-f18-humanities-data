@@ -70,7 +70,7 @@ What makes good documentation? As *Data + Design* [reminds](https://infoactive.c
 * Filter and sort.
   * Check "expand selection" to sort all the rows in your spreadsheet.
   * Use the filter option to show or hide certain data in your columns.
-* 
+* To format dates according to ISO standard, change column type to "Custom," then add in yyyy-mm-dd to the "type field."
 
 ## Activity 7: Peer Review
 ### Documentation
