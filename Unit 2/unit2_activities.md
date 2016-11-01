@@ -62,7 +62,9 @@ What makes good documentation? As *Data + Design* [reminds](https://infoactive.c
 * Post this documentation to your website by Thursday's class. 
 
 ## Activity 6: Excel tips
-* 
+* To open CSV file > Get External Data > From Text > Choose your delimiter
+* To combine cells > =(A2&" "&B2)
+* To fill in whole column, drag down the bottom right corner of the first cell.
 
 ## Activity 7: Peer Review
 ### Documentation
