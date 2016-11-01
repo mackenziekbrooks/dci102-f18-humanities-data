@@ -66,6 +66,10 @@ What makes good documentation? As *Data + Design* [reminds](https://infoactive.c
 * To combine cells > =(A2&" "&B2)
 * To fill in whole column, drag down the bottom right corner of the first cell.
 * Copy columns with formulas and paste special as "value" to preserve actual data.
+* Keyboard shortcuts! Alt + __ to save time on commands.
+* Filter and sort.
+  * Check "expand selection" to sort all the rows in your spreadsheet.
+  * Use the filter option to show or hide certain data in your columns.
 * 
 
 ## Activity 7: Peer Review
