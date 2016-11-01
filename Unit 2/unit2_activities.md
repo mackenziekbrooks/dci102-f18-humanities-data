@@ -65,6 +65,8 @@ What makes good documentation? As *Data + Design* [reminds](https://infoactive.c
 * To open CSV file > Get External Data > From Text > Choose your delimiter
 * To combine cells > =(A2&" "&B2)
 * To fill in whole column, drag down the bottom right corner of the first cell.
+* Copy columns with formulas and paste special as "value" to preserve actual data.
+* 
 
 ## Activity 7: Peer Review
 ### Documentation
