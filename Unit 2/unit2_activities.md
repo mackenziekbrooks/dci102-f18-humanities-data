@@ -61,8 +61,10 @@ What makes good documentation? As *Data + Design* [reminds](https://infoactive.c
 * Using your new list of principles, document one of your methods from this unit. It can be something you learned to do in Excel or Open Refine or one of the visualization tools.
 * Post this documentation to your website by Thursday's class. 
 
+## Activity 6: Excel tips
+* 
 
-## Activity 6: Peer Review
+## Activity 7: Peer Review
 ### Documentation
 * You will receive the link to another classmate's documentation page. Follow their documentation to produce the same result.
 * Take notes on what worked and what didn't work. 
@@ -72,3 +74,4 @@ What makes good documentation? As *Data + Design* [reminds](https://infoactive.c
 * Spend some time on [HelpMeViz](http://helpmeviz.com) and [Part 4 of Data + Design](https://infoactive.co/data-design/part04.html). Take note of the problems and solutions that both sites present. 
 * Review your classmate's visualization. 
 * Share 1 positive + 1 needs improvement.
+
