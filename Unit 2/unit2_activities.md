@@ -40,6 +40,20 @@ What makes good documentation? As *Data + Design* [reminds](https://infoactive.c
 * For each quality, find an example from the projects and tutorials we've used so far in the course. 
 * Share your results with the group. 
 
+### Qualities
+* Don't assume previous knowledge of the subject. 
+* Clarity
+* Thorough - detailed, easy to understand, don't skip steps
+* Simple, easy to follow, step by step
+  * Bullet points rather than paragraphs
+* Cover all methods for your project 
+* Document as you go along, rather than at the end
+* Keep track of what doesn't work - helpful to you and others
+* Visual aesthetic (not WebAdvisor)
+* Troubleshooting section - problems encountered
+* ```Show your code``` 
+* Plain text when possible 
+
 ### Part 2
 * Using your new list of principles, document one of your methods from this unit. It can be something you learned to do in Excel or Open Refine or one of the visualization tools.
 * Post this documentation to your website by Thursday's class. 
