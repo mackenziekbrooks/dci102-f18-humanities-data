@@ -77,9 +77,11 @@ What makes good documentation? As *Data + Design* [reminds](https://infoactive.c
 * You will receive the link to another classmate's documentation page. Follow their documentation to produce the same result.
 * Take notes on what worked and what didn't work. 
 * Share 1 positive aspect + 1 needs improvement aspect with your partner. 
+* Reference the comments from your peer reviewer in the Documentation assignment for Unit 2.
 
 ### Visualization
 * Spend some time on [HelpMeViz](http://helpmeviz.com) and [Part 4 of Data + Design](https://infoactive.co/data-design/part04.html). Take note of the problems and solutions that both sites present. 
 * Review your classmate's visualization. 
 * Share 1 positive + 1 needs improvement.
+* Reference the comments from your peer reviewer in the Documentation assignment for Unit 2.
 
