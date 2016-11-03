@@ -193,9 +193,11 @@ No class, reading days
 ### Tuesday, 11/15/16
 *Methodology review*
 * Methodology review presentations
-* Mapping tools demo/sandbox time
+* Readings discussion
 
 ### Thursday, 11/17/16
+*Tool selection*
+* Mapping tools 
 
 ### Thanksgiving break
 
