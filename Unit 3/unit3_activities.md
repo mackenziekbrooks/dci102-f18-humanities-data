@@ -20,4 +20,3 @@ For Prof. Youngman and Lenny's talk, you will need to have an instance of Omeka 
 * [Neatline docs](http://docs.neatline.org)
 * [Link to map for 11/8 workshop](http://literaryrailway.omeka.wlu.edu/files/original/a1623cb0f5191c29b7e8c5d33606929f.jpg)
 
-# 
