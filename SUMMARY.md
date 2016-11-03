@@ -19,7 +19,8 @@
    * [Data](Unit 2/unit2_data.md)
    * [Methodology](Unit 2/unit2_methodology.md)
 * Unit 3/Space
-  * [Activities](Unit 3/unit3_activities.md)
-  * Assignments
-  * Data
-  * Methodology
+   * [Activities](Unit 3/unit3_activities.md)
+   * Assignments
+   * Data
+   * [Methodology](Unit 3/unit3_methodology.md)
+
