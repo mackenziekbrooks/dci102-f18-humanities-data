@@ -183,13 +183,17 @@ No class, reading days
 
 ### Thursday, 11/10/16
 *Methodology review*
-
+* Unit 2 presentations
+* Unit 3 planning session
 
 **Read for Tuesday:**
 * [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
 * [The Geographic Imagination of Civil War-Era American Fiction](http://muse.jhu.edu/article/527788)
 
 ### Tuesday, 11/15/16
+*Methodology review*
+* Methodology review presentations
+* 
 
 ### Thursday, 11/17/16
 
