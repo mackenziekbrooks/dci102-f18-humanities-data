@@ -6,7 +6,7 @@
 To familiarize yourself with the various methodologies in the DH world, please conduct a review of one DH project. You may select from the list below or find a project of your choosing (subject to professor approval), as long as it uses textual data as its source. 
 
 Specs:
-* Due Tuesday, 11/5 by 8am. 
+* Due Tuesday, 11/10 by 8am. 
 * 300-500 words. 
 * Submit via your Box folder. 
 * Be prepared to share your review in class. 
