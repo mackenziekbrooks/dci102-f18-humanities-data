@@ -65,6 +65,7 @@ Specs:
   * Are there issues with the data that the visualization illuminates or disguises?
   * Does this method of visualization require you to 
 * Indicate which tool/method you used to produce this visualization. 
+* Reference the comments from your peer reviewer from Activity 7 on 11/3/16.
 
 More resources on visualization:
 * [Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2014/05/DataVizChecklist_May2014.pdf)
@@ -99,6 +100,7 @@ Specs:
   * What tools did you use to clean and visualize your data? How did you use them? What steps did you follow? 
 * Include screenshots and links when appropriate.
 * Be specific!
+* Reference the comments from your peer reviewer from Activity 7 on 11/3/16.
 
 ### Project reflection
 The final assignment for this unit a piece of reflective writing. Talk about your feelings. What have you learned? What has been challenging? How has your relationship with technology changed? What would you have done differently? What new strategies will you try in the next unit?
