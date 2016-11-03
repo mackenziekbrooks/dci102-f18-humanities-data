@@ -1,4 +1,6 @@
-# Activity 1 // Omeka installation
+# Unit 3 / Activities
+
+## Activity 1: Omeka installation
 For Prof. Youngman and Lenny's talk, you will need to have an instance of Omeka installed on your domain. This is a digital exhibit application with plugins for specific functions. We will be using a plugin called Neatline, which adds spatial and timeline functionality to Omeka. 
 1. Log into your domain's CPanel. ```http://www.yourdomain.com/cpanel```
 2. Navigate to Applications > All Applications. 
