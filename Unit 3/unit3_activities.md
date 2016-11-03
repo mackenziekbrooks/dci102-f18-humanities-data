@@ -11,7 +11,7 @@ For Prof. Youngman and Lenny's talk, you will need to have an instance of Omeka 
 7. You can log into the backend of Omeka by going to ```http://www.yourdomain.com/omeka/admin```. 
 8. You will need to install the Neatline plugin. Download the [plugin from the Omeka website](http://omeka.org/add-ons/plugins/neatline/).
 9. Do not unzip the file on your computer. Rather, in the File Manager section of CPanel, navigate to ```public_html/omeka/plugins``` and upload the zip file. 
-10. From this folder, you should be able to "uncompress" the zip file. 
+10. From this folder, you should be able to "Extract" the zip file. 
 11. Return to the Omeka admin site, then navigate to the Plugins link in the top menu. You should see Neatline and other plugins listed. 
 12. Install and activate the new plugins.
 ****
