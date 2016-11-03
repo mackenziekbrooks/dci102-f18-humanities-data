@@ -182,6 +182,12 @@ No class, reading days
 * [Visualizing the Railway Space in Fontane’s Effi Briest](http://transit.berkeley.edu/2016/youngman-et-al/)
 
 ### Thursday, 11/10/16
+*Methodology review*
+
+
+**Read for Tuesday:**
+* [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
+* [The Geographic Imagination of Civil War-Era American Fiction](http://muse.jhu.edu/article/527788)
 
 ### Tuesday, 11/15/16
 
