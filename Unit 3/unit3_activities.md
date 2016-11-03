@@ -12,10 +12,10 @@ For Prof. Youngman and Lenny's talk, you will need to have an instance of Omeka 
 10. From this folder, you should be able to "uncompress" the zip file. 
 11. Return to the Omeka admin site, then navigate to the Plugins link in the top menu. You should see Neatline and other plugins listed. 
 12. Install and activate the new plugins.
-
-[Omeka + Reclaim tutorial](https://community.reclaimhosting.com/t/working-with-omeka/194)
-[Omeka docs](http://omeka.org/codex/Documentation)
-[Neatline docs](http://docs.neatline.org)
-[Link to map for 11/8 workshop](http://literaryrailway.omeka.wlu.edu/files/original/a1623cb0f5191c29b7e8c5d33606929f.jpg)
+****
+* [Omeka + Reclaim tutorial](https://community.reclaimhosting.com/t/working-with-omeka/194)
+* [Omeka docs](http://omeka.org/codex/Documentation)
+* [Neatline docs](http://docs.neatline.org)
+* [Link to map for 11/8 workshop](http://literaryrailway.omeka.wlu.edu/files/original/a1623cb0f5191c29b7e8c5d33606929f.jpg)
 
 # 
