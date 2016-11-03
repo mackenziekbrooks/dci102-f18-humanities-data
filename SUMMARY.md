@@ -20,7 +20,7 @@
    * [Methodology](Unit 2/unit2_methodology.md)
 * Unit 3/Space
    * [Activities](Unit 3/unit3_activities.md)
-   * Assignments
+   * [Assignments](Unit 3/unit3_assignments.md)
    * Data
    * [Methodology](Unit 3/unit3_methodology.md)
 
