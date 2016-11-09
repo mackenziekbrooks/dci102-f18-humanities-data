@@ -198,12 +198,13 @@ No class, reading days
 ### Thursday, 11/17/16
 *Tool selection*
 * Mapping tools workshop
+* Finding and publishing open data 
 
 ### Thanksgiving break
 
 ### Tuesday, 11/29/16
 * Data set approval
-
+* Data modification
 
 ### Thursday, 12/1/16
 *project work*
