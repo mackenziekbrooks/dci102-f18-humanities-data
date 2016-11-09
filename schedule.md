@@ -197,7 +197,7 @@ No class, reading days
 
 ### Thursday, 11/17/16
 *Tool selection*
-* Mapping tools 
+* Mapping tools workshop
 
 ### Thanksgiving break
 
