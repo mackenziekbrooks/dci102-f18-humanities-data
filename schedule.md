@@ -208,6 +208,8 @@ No class, reading days
 ### Tuesday, 12/6/16
 
 ### Thursday, 12/8/16
+*wrap up*
+* Unit 3 presentations 
 
 ### Finals week
 
