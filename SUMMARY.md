@@ -21,6 +21,6 @@
 * Unit 3/Space
    * [Activities](Unit 3/unit3_activities.md)
    * [Assignments](Unit 3/unit3_assignments.md)
-   * Data
+   * [Data](Unit 3/unit3_data.md)
    * [Methodology](Unit 3/unit3_methodology.md)
 
