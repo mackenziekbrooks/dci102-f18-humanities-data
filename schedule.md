@@ -202,10 +202,14 @@ No class, reading days
 ### Thanksgiving break
 
 ### Tuesday, 11/29/16
+* Data set approval
+
 
 ### Thursday, 12/1/16
+*project work*
 
 ### Tuesday, 12/6/16
+*project work*
 
 ### Thursday, 12/8/16
 *wrap up*
