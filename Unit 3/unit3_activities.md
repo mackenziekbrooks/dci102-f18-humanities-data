@@ -22,3 +22,8 @@ For Prof. Youngman and Lenny's talk, you will need to have an instance of Omeka 
 
 
 ## Activity 2: Unit 3 planning
+Now that we have worked through two units, students will be construct this unit and 
+
+* What are the phases of a project? How should we divide them up over the remaining weeks?
+* What data will we/you use?
+* What methodologies and tools do we need?
