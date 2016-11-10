@@ -190,6 +190,9 @@ No class, reading days
 * [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
 * [The Geographic Imagination of Civil War-Era American Fiction](http://muse.jhu.edu/article/527788)
 
+
+**Unit 3 Methodology review due Tuesday, 11/15**
+
 ### Tuesday, 11/15/16
 *Methodology review*
 * Methodology review presentations
