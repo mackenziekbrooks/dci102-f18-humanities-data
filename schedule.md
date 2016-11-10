@@ -191,7 +191,7 @@ No class, reading days
 * [The Geographic Imagination of Civil War-Era American Fiction](http://muse.jhu.edu/article/527788)
 
 
-**Unit 3 Methodology review due Tuesday, 11/15**
+**Unit 3 Methodology Review due Tuesday, 11/15**
 
 ### Tuesday, 11/15/16
 *Methodology review*
