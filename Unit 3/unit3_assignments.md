@@ -103,7 +103,7 @@ Specs:
 You are free to choose the topic of your blog posts, as long as there is a connection to what we're covering in the course. You are encouraged to link to articles or embed relevant images (with citations!). If you need inspiration, here are few ideas:
 
 * Respond to the [Dear Data project](http://www.dear-data.com/). There are videos to watch! 
-* 
+* What novel/movie/or other piece of media would you like to see mapped? 
 
 Specs:
 * 2 blog posts due Thursday 12/8/16 by 2:30pm. (I recommend spacing them out!)
