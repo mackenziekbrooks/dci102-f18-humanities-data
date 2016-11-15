@@ -102,11 +102,8 @@ Specs:
 ## Blog posts
 You are free to choose the topic of your blog posts, as long as there is a connection to what we're covering in the course. You are encouraged to link to articles or embed relevant images (with citations!). If you need inspiration, here are few ideas:
 
-* How do you see networks functioning in your own life? 
-* What networks would you like to look at in or outside of your own field of study? Why? 
-* What interests you about the data set you have chosen to work with? What other local history topics could use network analysis/visualization?
-* Respond/reflect on our reading on Critical DH. See ["Missed Connections: What Search Engines Say About Women"](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf) or ["An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?"](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
-* Watch one of the movies mentioned by Jeff Barry in his intro to networks talk.
+* Respond to the [Dear Data project](http://www.dear-data.com/). There are videos to watch! 
+* 
 
 Specs:
 * 2 blog posts due Thursday 12/8/16 by 2:30pm. (I recommend spacing them out!)
