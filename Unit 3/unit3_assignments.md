@@ -37,3 +37,17 @@ Specs:
 * Submit your data in a zipped folder via Box.
 * Include a text file titled "data-assessment-DATE.txt" with the results of our in-class activity. 
 * Include a text file titled "data-cleanup-DATE.txt" with a list of the modifications you made to your data set. Those modifications could include:
+
+
+### Project visualization
+Now that you have some experience creating a usable data set - what can you do with it? From the tools we have experimented with in class, select your favorite and/or most meaningful visualization. For this unit, your visualization should be some kind of network graph. Use "[Using Data Visualization to Find Insights in Data](http://datajournalismhandbook.org/1.0/en/understanding_data_7.html)" to guide your writing.
+
+Specs:
+* Due Tuesday 12/8 by 2:30pm.
+* Embed/publish on your website. 
+* Include 150-200 words on why you selected this visualization. 
+  * What did you learn about your data from this visualization, if anything?
+  * What about the methodology worked or didn't work?
+  * Are there issues with the data that the visualization illuminates or disguises?
+  * Does this method of visualization require you to 
+* Indicate which tool/method you used to produce this visualization.
