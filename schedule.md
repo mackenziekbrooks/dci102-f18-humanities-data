@@ -195,6 +195,7 @@ No class, reading days
 
 ### Tuesday, 11/15/16
 *Methodology review*
+* [Slides](http://slides.com/mackenziekbrooks/dh102-unit3-spatial-humanities#/)
 * Methodology review presentations
 * Readings discussion
 
