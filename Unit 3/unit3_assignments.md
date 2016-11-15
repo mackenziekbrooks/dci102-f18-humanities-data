@@ -29,4 +29,11 @@ Projects:
 * [Textual Geographies](http://txtgeo.net/)
 
 
-### 
+### Project data 
+At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends. 
+
+Specs: 
+* Due Tuesday 12/8/16 by 2:30pm.
+* Submit your data in a zipped folder via Box.
+* Include a text file titled "data-assessment-DATE.txt" with the results of our in-class activity. 
+* Include a text file titled "data-cleanup-DATE.txt" with a list of the modifications you made to your data set. Those modifications could include:
