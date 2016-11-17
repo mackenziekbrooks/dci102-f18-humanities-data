@@ -33,7 +33,7 @@ Contribute to a collaborative research [document](https://wlu.box.com/s/jzu8q74h
 
 * Scour our readings + project websites
 * Check out DH aggregators like:
-  * DH+lib
+  * [DH+lib](http://acrl.ala.org/dh/)
   * Digital Humanities Now
   * DH journals
   * DH centers (Scholars' Lab, Stanford, etc
