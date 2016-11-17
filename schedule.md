@@ -221,7 +221,7 @@ No class, reading days
 *wrap up*
 * Unit 3 presentations 
 
-**Unit 3 assignments due 12/8 at 2:30pm** 
+**Unit 3 assignments due 12/8/16 at 2:30pm** 
 
 ### Finals week
 
