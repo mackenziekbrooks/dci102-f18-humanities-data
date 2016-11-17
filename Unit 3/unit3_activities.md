@@ -49,7 +49,7 @@ Address the following:
 * Readings
 
 ## Activity 4: Mapping tools 
-
+At your tables, explore some mapping tools (Neatline, Google Maps, qGIS, Story Maps, StoryMapJS) and address the following questions:
 
 * What can I do?
 * What data does it accept?
