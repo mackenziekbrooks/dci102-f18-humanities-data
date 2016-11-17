@@ -36,7 +36,7 @@ Contribute to a collaborative research [document](https://wlu.box.com/s/jzu8q74h
   * [DH+lib](http://acrl.ala.org/dh/)
   * Digital Humanities Now
   * DH journals
-  * DH centers (Scholars' Lab, Stanford, etc
+  * DH centers (Scholars' Lab, Stanford, etc.)
 * Informed Googling
 * Ask your network
 
