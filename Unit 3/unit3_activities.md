@@ -27,3 +27,25 @@ Now that we have worked through two units, students will be construct this unit 
 * What are the phases of a project? How should we divide them up over the remaining weeks?
 * What data will we/you use?
 * What methodologies and tools do we need?
+
+## Activity 3: Collaborative research
+Contribute to a collaborative research [document](https://wlu.box.com/s/jzu8q74haga7495n6tdp33tc5eurvku2) on Box.
+
+* Scour our readings + project websites
+* Check out DH aggregators like:
+  * DH+lib
+  * Digital Humanities Now
+  * DH journals
+  * DH centers (Scholars' Lab, Stanford, etc
+* Informed Googling
+* Ask your network
+
+Address the following:
+* Projects
+* Tools
+* Tutorials
+* Places to go for data
+* Places to go for maps
+* Readings
+
+## Activity 4: Mapping tools 
