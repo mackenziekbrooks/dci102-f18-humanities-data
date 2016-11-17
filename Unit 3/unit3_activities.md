@@ -49,3 +49,11 @@ Address the following:
 * Readings
 
 ## Activity 4: Mapping tools 
+
+
+* What can I do?
+* What data does it accept?
+* Can I add a historical map?
+* How do I add vector layers?
+* Where is the map coming from?
+* Who created this tool?
