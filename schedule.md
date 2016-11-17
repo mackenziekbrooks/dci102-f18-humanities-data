@@ -203,6 +203,7 @@ No class, reading days
 *Tool selection*
 * Mapping tools workshop
 * Finding and publishing open data 
+* [Slides](http://slides.com/mackenziekbrooks/dh102-f16-opendata)
 
 ### Thanksgiving break
 
