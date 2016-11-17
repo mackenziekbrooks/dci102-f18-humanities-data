@@ -57,3 +57,6 @@ At your tables, explore some mapping tools (Neatline, Google Maps, qGIS, Story M
 * How do I add vector layers?
 * Where is the map coming from?
 * Who created this tool?
+
+## Activity 5: Data assessment 
+* 
