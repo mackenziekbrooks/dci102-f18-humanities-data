@@ -29,11 +29,12 @@ Students will have the option of working with existing data sets from this cours
 ## Map sources
 * [David Rumsey Map Collection](http://www.davidrumsey.com/)
 * [Digital Public Library of America](http://dp.la)
+* [Map Warper](http://mapwarper.net/)
 
 ## Platforms 
-* Neatline
-* Google Maps
-* qGIS
-* Story Maps (Esri)
-* StoryMapJS
+* [Neatline](http://www.neatline.org)
+* [Google Maps](https://www.google.com/maps)
+* [qGIS](http://www.qgis.org/en/site/)
+* [Story Maps (Esri)](https://storymaps.arcgis.com/en/)
+* [StoryMapJS](https://storymap.knightlab.com/)
 
