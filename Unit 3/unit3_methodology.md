@@ -21,6 +21,7 @@ Students will have the option of working with existing data sets from this cours
 * https://datahub.io/
 * https://aws.amazon.com/public-datasets/
 * http://dataportals.org
+* http://geocommons.com/search.html 
 
 ## Data licensing
 * [Open Data Commons](http://opendatacommons.org/)
@@ -37,4 +38,8 @@ Students will have the option of working with existing data sets from this cours
 * [qGIS](http://www.qgis.org/en/site/)
 * [Story Maps (Esri)](https://storymaps.arcgis.com/en/)
 * [StoryMapJS](https://storymap.knightlab.com/)
-
+* [Carto](https://carto.com/)
+* [MapBox](https://www.mapbox.com/)
+* [LeafletJS](http://leafletjs.com)
+* [MapWarper](http://mapwarper.net/)
+* [Open Street Map](http://www.openstreetmap.org/)
