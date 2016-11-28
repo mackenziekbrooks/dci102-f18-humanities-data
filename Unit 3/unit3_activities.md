@@ -59,4 +59,9 @@ At your tables, explore some mapping tools (Neatline, Google Maps, qGIS, Story M
 * Who created this tool?
 
 ## Activity 5: Data assessment 
-* 
+* What makes this a "humanities" data set?
+* What is the source of your data? Do you have the correct permissions/rights to use it?
+* What is the spatial component to your data set?
+* What format is your data in?
+* What about your data might need to be cleaned or adjusted for visualization?
+* Do you have a mapping/visualization tool in mind?
