@@ -34,9 +34,19 @@ At the beginning of each unit, you will be handed a messy data set. It is a rare
 
 Specs: 
 * Due Thursday 12/8/16 by 2:30pm.
-* Submit your data in a zipped folder via Box.
-* Include a text file titled "data-assessment-DATE.txt" with the results of our in-class activity. 
+* Submit your data set in a zipped folder via Box.
+* Include a text file titled "data-assessment-DATE.txt" that addresses the following:
+  * What makes this a "humanities" data set? 
+  * What is the source of your data? Do you have the correct permissions/rights to use it? 
+  * What is the spatial component to your data set? 
+  * What format is your data in? 
+  * What about your data might need to be cleaned or adjusted for visualization?
 * Include a text file titled "data-cleanup-DATE.txt" with a list of the modifications you made to your data set. Those modifications could include:
+  * Adding/deleting data to alter the visualization/map.
+  * Correcting erroneous data.
+  * Separating or combining columns of data. 
+  * Any external research you may have conducted to find a historical map or add information to your data set. 
+  * Any adjustments you made to the mapping platform (ex: changing the base map in Neatline).
 
 
 ### Project visualization
