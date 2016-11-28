@@ -29,3 +29,11 @@ Students will have the option of working with existing data sets from this cours
 ## Map sources
 * [David Rumsey Map Collection](http://www.davidrumsey.com/)
 * [Digital Public Library of America](http://dp.la)
+
+## Platforms 
+* Neatline
+* Google Maps
+* qGIS
+* Story Maps (Esri)
+* StoryMapJS
+
