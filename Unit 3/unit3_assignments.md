@@ -91,12 +91,13 @@ Specs:
   * What is your data set? Where did it come from? Who owns it? 
   * What did you do to your data? How did you do it?
   * What tools did you use to clean and visualize your data? How did you use them? What steps did you follow? 
+  * How did you add the data to your map?
 * Include screenshots and links when appropriate.
 * Be specific!
-* Reference the comments from your peer reviewer from Activity 7 on 11/3/16.
+
 
 ### Project reflection
-The final assignment for this unit a piece of reflective writing. Talk about your feelings. What have you learned? What has been challenging? How has your relationship with technology changed? What would you have done differently? What new strategies will you try in the next unit?
+The final assignment for this unit a piece of reflective writing. Talk about your feelings. What have you learned? What has been challenging? How has your relationship with technology changed? What would you have done differently? Reflect on Unit 3 and the course as a whole. 
 
 Specs:
 * Due Thursday 12/8/16 by 2:30pm. 
@@ -107,7 +108,7 @@ Specs:
   * What has been challenging? 
   * How has your relationship with technology changed? What about your conception of data?
   * What would you have done differently? 
-  * What new strategies will you try in the next unit?
+
 
 
 ## Blog posts
