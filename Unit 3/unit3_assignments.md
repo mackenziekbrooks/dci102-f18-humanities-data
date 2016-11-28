@@ -50,7 +50,7 @@ Specs:
 
 
 ### Project visualization
-For this unit, your visualization should feature some kind of map. You can use a modern or historical map. Your map can be created from data, or you can add a data layer to the map. Your data must contain some kind of spatial element.
+For this unit, your visualization should feature some kind of map. You can use a modern or historical map. Your map can be created from existing data, or you can create a data layer to the map. Your data must contain some kind of spatial element.
 
 Specs:
 * Due Thursday 12/8 by 2:30pm.
