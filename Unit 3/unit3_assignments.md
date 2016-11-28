@@ -50,7 +50,7 @@ Specs:
 
 
 ### Project visualization
-For this unit, your visualization should be include some kind of map. You can use a modern or historical map. 
+For this unit, your visualization should feature some kind of map. You can use a modern or historical map. Your map can be created from data, or you can add a data layer to the map. Your data must contain some kind of spatial element.
 
 Specs:
 * Due Thursday 12/8 by 2:30pm.
@@ -59,7 +59,7 @@ Specs:
   * What did you learn about your data from this visualization, if anything?
   * What about the methodology worked or didn't work?
   * Are there issues with the data that the visualization illuminates or disguises?
-  * Does this method of visualization require you to 
+  * Does this method of visualization require you to modify your data in a particular way?
 * Indicate which tool/method you used to produce this visualization.
 
 
