@@ -10,6 +10,17 @@ Students may also choose to gather/collect or find their own data set. This opti
 * What about your data might need to be cleaned or adjusted for visualization?
 * Do you have a mapping/visualization tool in mind? 
 
+## Spatial data basics
+* Raster data = layers historical maps or photographs
+  * http://mapwarper.net/
+  * .TIFF or .JPG
+* Vector data = layers points, lines, or polygons
+  * KML (Keyhole Markup Language)
+  * SVG (form of XML)
+  * Shapefiles (.shp, .shx, .dbf) mostly open standard by ESRI (Environmental Systems Research Institute)
+  * GeoJSON = shapes + geocoordinates
+
+
 ## Open data aggregators
 * GitHub > https://github.com/caesar0301/awesome-public-datasets
 * http://www.re3data.org/
