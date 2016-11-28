@@ -25,3 +25,7 @@ Students will have the option of working with existing data sets from this cours
 ## Data licensing
 * [Open Data Commons](http://opendatacommons.org/)
 * [Creative Commons](https://creativecommons.org/)
+
+## Map sources
+* [David Rumsey Map Collection](http://www.davidrumsey.com/)
+* [Digital Public Library of America](http://dp.la)
