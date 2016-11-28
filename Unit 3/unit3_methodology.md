@@ -43,3 +43,11 @@ Students will have the option of working with existing data sets from this cours
 * [LeafletJS](http://leafletjs.com)
 * [MapWarper](http://mapwarper.net/)
 * [Open Street Map](http://www.openstreetmap.org/)
+
+## Tutorials
+* http://www.pbcgis.com/data_basics/ --helpful picture showing you how to plan out project 
+* http://programminghistorian.org/lessons/googlemaps-googleearth - Intro to Google Maps (Programming Historian)
+* http://dh101.humanities.ucla.edu/?page_id=244 GIS and Digital Mapping tutorials (UCLA)
+* http://hcl.harvard.edu/libraries/maps/gis/tutorials.html
+* https://www.lib.vt.edu/find/gis-maps/services/tutorials.html
+* http://neatline.org/2012/08/29/using-neatline-with-historical-maps-part-3-geoserver/ --step by step telling you what to do using neatline 
