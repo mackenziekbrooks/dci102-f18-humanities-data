@@ -17,3 +17,6 @@ Students may also choose to gather/collect or find their own data set. This opti
 * https://aws.amazon.com/public-datasets/
 * http://dataportals.org
 
+## Data licensing
+* [Open Data Commons](http://opendatacommons.org/)
+* [Creative Commons](https://creativecommons.org/)
