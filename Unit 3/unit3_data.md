@@ -9,3 +9,11 @@ Students may also choose to gather/collect or find their own data set. This opti
 * What format is your data in? 
 * What about your data might need to be cleaned or adjusted for visualization?
 * Do you have a mapping/visualization tool in mind? 
+
+## Open data aggregators
+* GitHub > https://github.com/caesar0301/awesome-public-datasets
+* http://www.re3data.org/
+* https://datahub.io/
+* https://aws.amazon.com/public-datasets/
+* http://dataportals.org
+
