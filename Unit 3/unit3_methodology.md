@@ -43,6 +43,7 @@ Students will have the option of working with existing data sets from this cours
 * [LeafletJS](http://leafletjs.com)
 * [MapWarper](http://mapwarper.net/)
 * [Open Street Map](http://www.openstreetmap.org/)
+* [Mapshaper](http://mapshaper.org/)
 
 ## Tutorials
 * http://www.pbcgis.com/data_basics/ --helpful picture showing you how to plan out project 
