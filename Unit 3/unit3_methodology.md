@@ -51,3 +51,4 @@ Students will have the option of working with existing data sets from this cours
 * http://hcl.harvard.edu/libraries/maps/gis/tutorials.html
 * https://www.lib.vt.edu/find/gis-maps/services/tutorials.html
 * http://neatline.org/2012/08/29/using-neatline-with-historical-maps-part-3-geoserver/ --step by step telling you what to do using neatline 
+* https://github.com/wludh/tutorials/blob/master/timemapper/timemapper.md
