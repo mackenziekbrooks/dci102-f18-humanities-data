@@ -65,3 +65,19 @@ At your tables, explore some mapping tools (Neatline, Google Maps, qGIS, Story M
 * What format is your data in?
 * What about your data might need to be cleaned or adjusted for visualization?
 * Do you have a mapping/visualization tool in mind?
+
+## Activity 6: Share your challenge
+Seating arrangements:
+* Table 1: Anna Kate, Nao, Abby, JT     
+* Table 2: Charlotte, Chris, Jack
+* Table 3: Anna, Sam, Alexander, Annie
+* Table 4: Gigi, Kassie, Will
+
+***
+
+* Spend 5 minutes brainstorming your biggest challenge for your mapping project. The challenge should be an unsolved question about your technical strategy or intellectual direction, not just the usual time/effort constraints.
+* Share your challenge with the table. Your classmates are charged with helping you brainstorm possible solutions. 
+  * Practice your troubleshooting skills. What can you find on the course site? Google? 
+  * What can you advise based on your own experience so far? 
+  * Are there similar projects they should look at? Suggestions for maps, images, or other media?
+* Brainstorm/share for 10 minutes before moving onto the next person. 
