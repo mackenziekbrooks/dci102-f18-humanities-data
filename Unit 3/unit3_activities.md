@@ -66,7 +66,7 @@ At your tables, explore some mapping tools (Neatline, Google Maps, qGIS, Story M
 * What about your data might need to be cleaned or adjusted for visualization?
 * Do you have a mapping/visualization tool in mind?
 
-## Activity 6: Share your challenge
+## Activity 6: Challenge peer review
 Seating arrangements:
 * Table 1: Anna Kate, Nao, Abby, JT     
 * Table 2: Charlotte, Chris, Jack
