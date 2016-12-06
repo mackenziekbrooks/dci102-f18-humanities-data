@@ -216,6 +216,7 @@ No class, reading days
 
 ### Tuesday, 12/6/16
 *project work*
+* [Slides](https://slides.com/mackenziekbrooks/dh102-f16-wrapping-up)
 
 ### Thursday, 12/8/16
 *wrap up*
