@@ -35,6 +35,7 @@ At the beginning of each unit, you will be handed a messy data set. It is a rare
 Specs: 
 * Due Thursday 12/8/16 by 2:30pm.
 * Submit your data set in a zipped folder via Box.
+* If possible, make your data available to download on your website. You could provide a link to Box, or upload a zip file via file manager. 
 * Include a text file titled "data-assessment-DATE.txt" that addresses the following:
   * What makes this a "humanities" data set? 
   * What is the source of your data? Do you have the correct permissions/rights to use it? 
