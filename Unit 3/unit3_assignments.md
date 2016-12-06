@@ -108,8 +108,10 @@ Specs:
 * Address the following: 
   * What have you learned?
   * What has been challenging? 
-  * How has your relationship with technology changed? What about your conception of data?
+  * How has your relationship with technology changed? What about your conception of data? Mapping?
   * What would you have done differently? 
+  * What was your biggest achievement in this course?
+  * What lesson have you learned from this course that you can apply in the future?
 
 
 
