@@ -55,3 +55,4 @@ Students will have the option of working with existing data sets from this cours
 * https://github.com/wludh/tutorials/blob/master/timemapper/timemapper.md
 * http://lincolnmullen.com/blog/how-to-use-neatline-with-map-warper-instead-of-geoserver/
 *  http://flowingdata.com/2009/11/12/how-to-make-a-us-county-thematic-map-using-free-tools/
+*  https://github.com/wludh/tutorials/blob/master/timemapper/timemapper.md

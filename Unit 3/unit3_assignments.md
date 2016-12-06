@@ -49,7 +49,7 @@ Specs:
   * Any external research you may have conducted to find a historical map or add information to your data set. 
   * Any adjustments you made to the mapping platform (ex: changing the base map in Neatline).
 * Include a text file title "data-license-DATE.txt" that includes the following:
-  * Use Open Data Commons to help you select an appropriate license for your data set. 
+  * Use [Open Data Commons](opendatacommons.org) to help you select an appropriate license for your data set. 
 
 ### Project visualization
 For this unit, your visualization should feature some kind of map. You can use a modern or historical map. Your map can be created from existing data, or you can create a new set of data to layer on to a map. Your data must contain some kind of spatial element.
