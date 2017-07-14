@@ -1,0 +1,1 @@
+slides='pandoc -t revealjs -s -o'

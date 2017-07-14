@@ -1,13 +1,23 @@
 ---
 author: Mackenzie Brooks
 title: Open Maps, Open Data
-date: June 21, 2017
+date: July 14, 2017 // Week 3
 ---
 # What is Open Data?
-“Open means anyone can freely *access*, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).”
+> "Open means anyone can freely *access*, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).”
 
-http://opendatahandbook.org/guide/en/what-is-open-data/
+
+<sub>[http://opendatahandbook.org/guide/en/what-is-open-data/](http://opendatahandbook.org/guide/en/what-is-open-data/)</sub>
 
 # Bar
-* test
-* test
+![Alt text](cover.jpg)
+
+# More
+* List
+* List
+* List
+
+## more
+``` 
+code 
+```
