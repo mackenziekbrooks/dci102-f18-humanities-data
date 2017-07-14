@@ -10,7 +10,7 @@
 * Lab: [environment](Unit 0/environment.md) setup
 * Lab: domain registration with [Reclaim Hosting](Unit 0/reclaimmd.md)
 * [Slides](http://slides.com/mackenziekbrooks/dh102-f16-day1)
-* \[Slides1\[\([slides/slides1.html](/slides/slides1.html)\)
+* [Slides1](/slides/slides1.html)
 
 **Read for Tuesday:**
 
