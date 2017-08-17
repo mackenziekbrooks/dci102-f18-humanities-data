@@ -2,11 +2,11 @@
 
 [Course website](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities)
 
-Fall 2016 // TR 2:30-4:30 // Leyburn M47
+Fall 2017 // TR 2:30-4:30 // Leyburn M47
 
 Mackenzie Brooks, Assistant Professor & Digital Humanities Librarian
 
-brooksm@wlu.edu // 540-458-8659 // Leyburn M37/218
+brooksm@wlu.edu // 540-458-8659 // Leyburn 218
 
 # Course Description
 This course introduces students to the creation and visualization of data in humanities research. The course is predicated on the fact that the digital turn of the last several decades has drastically changed the nature of knowledge production and distribution. The community and set of practices that is Digital Humanities (DH) encourages fluency in media beyond the printed word such as text mining, digital curation, data visualization, and spatial analysis. Readings and discussions of theory will complement hands-on application of digital methods and computational thinking. While the objects of our study will primarily come from the humanities, the methods of analysis are widely applicable to the social and natural sciences. Three unit-long collaborative projects will explore the creation, structure, and visualization of “humanities data.” This course meets in two-hour blocks to accommodate a lab component. 
