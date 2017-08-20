@@ -214,7 +214,6 @@ _Project work + Documentation_
 _Methodology review_
 
 * Vote! 
-* Prof. Brooks away at conference
 * Guest speakers: Paul Youngman and Ulemj Enkhbold '17 on _Mapping the Literary Railway_
 
 **Read for Thursday:**
