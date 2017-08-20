@@ -2,7 +2,7 @@
 
 ## Unit 1 / Text
 
-### Thursday, 9/8/16
+### Thursday, 9/7/17
 
 * Intros, course overview, 
 * Getting to know you [survey](https://docs.google.com/forms/d/e/1FAIpQLSdf_G84ock01cJdtt4a5_JN8poqC_aWRiVtG_arVXnEsRBzbQ/viewform)
@@ -19,7 +19,7 @@
 * [What is Data?](http://schoolofdata.org/handbook/courses/what-is-data/)
 * [Defining Data for Humanists: Text, Artifact, Information or Evidence?](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
 
-### Tuesday, 9/13/16
+### Tuesday, 9/12/17
 
 * Discussion: readings
 * Lecture: How the web works
@@ -31,15 +31,12 @@
 * [We Can All Be Technical With the Right Teacher](https://recompilermag.com/issues/issue-0/we-can-all-be-technical-with-the-right-teacher/)
 * [Some things to think about before you exhort everyone to code](http://miriamposner.com/blog/some-things-to-think-about-before-you-exhort-everyone-to-code/)
 * [Introduction to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash) \(we will review in class\)
-* [Selection of articles](https://dl.dropboxusercontent.com/u/24448504/LS-StudentReadingPacket.pdf) by _Geolocation_ artists: focus on "Brave New World of Digital Intimacy,” “Myth of the Disconnected Life," and  “How Companies Learn Your Secrets."
-* **Write down three questions related to these articles and the exhibit. We will use these in discussion with the artists on Thursday.**
 
-### Thursday, 9/15/16
+### Thursday, 9/14/17
 
 _Methodology review_
 
 * Text analysis introduction
-* Guest speakers: _Geolocation_ artists &gt; Meet in Staniar Gallery at 2:30. 
 * Lab: command line
 * [Slides](http://slides.com/mackenziekbrooks/dh102-f16-day3)
 
@@ -48,7 +45,7 @@ _Methodology review_
 * Take a look at the [Intro to Text Analysis workbook](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/) by Prof. Brandon Walsh
 * [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet) \(concentrate on the first couple sections\)
 
-### Tuesday, 9/20/16
+### Tuesday, 9/19/17
 
 _Methodology review_
 
@@ -64,7 +61,7 @@ _Methodology review_
 
 * Unit 1 Methodology Review
 
-### Thursday, 9/22/16
+### Thursday, 9/21/17
 
 _Data introduction_
 
@@ -78,7 +75,7 @@ _Data introduction_
 * [Beginning with Regular Expressions](https://recompilermag.com/issues/issue-0/beginning-with-regular-expressions/)
 * [Cleaning OCR'd text with regular expressions](http://programminghistorian.org/lessons/cleaning-ocrd-text-with-regular-expressions)
 
-### Tuesday, 9/27/16
+### Tuesday, 9/26/17
 
 _Data cleanup_
 
@@ -95,7 +92,7 @@ _Data cleanup_
 * Review the Assignments page for Unit 1. Bring questions. 
 * Optional: [watch/listen to the Ed Ayers lecture on Civil War History and Digital Humanities](http://livestream.com/wlu/edward-ayers). If you're short on time, skip to minute 56. Good material for a blog post! 
 
-### Thursday, 9/29/16
+### Thursday, 9/28/17
 
 _Data clean up + project work_
 
@@ -106,7 +103,7 @@ _Data clean up + project work_
 
 * [The Historian's Macroscope](http://www.themacroscope.org/?page_id=837), "Making Your Data Legible" through "Making an Effective Visualization." \(Don't worry about implementing all these suggestions, we will continue to work with visualizations in the next two units.\)
 
-### Tuesday, 10/4/16
+### Tuesday, 10/3/17
 
 _Project work_
 
@@ -116,7 +113,7 @@ _Project work_
 
 * [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 
-### Thursday, 10/6/16
+### Thursday, 10/5/16
 
 _Project work + documentation_
 
@@ -124,28 +121,28 @@ _Project work + documentation_
 * Lab: documentation
 * [Slides](https://slides.com/mackenziekbrooks/dh190-f16-docswp)
 
-**All Unit 1 assignments due 10/11/16 by 8am**
+**All Unit 1 assignments due 10/10/17 by 8am**
 
 ## Unit 2 Network
 
-### Tuesday, 10/11/16
+### Tuesday, 10/10/17
 
 _Methodology review_
 
 * Unit 1 project debrief. Be prepared to share your results for Unit 1. 
 * Guest speaker: Jeff Barry, Associate University Librarian 
 
-**Read for Tuesday the 18th:**
+**Read for Tuesday the 17th:**
 
 * [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
 * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
 * [Databases for people who don't know a whole lot about them](https://medium.com/@rwilliams_bv/intro-to-databases-for-people-who-dont-know-a-whole-lot-about-them-a64ae9af712#.tmk6ooisu)
 
-### X Thursday, 10/13/16
+### X Thursday, 10/12/17
 
 No class, reading days
 
-### Tuesday, 10/18/16
+### Tuesday, 10/17/17
 
 _Data structures_
 
@@ -161,7 +158,7 @@ _Data structures_
 * Review this Programming Historian Lesson: "[Using SPARQL to access Linked Open Data](http://programminghistorian.org/lessons/graph-databases-and-SPARQL)" and "[Cleaning Data with Open Refine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)"
 * Install [Open Refine](http://openrefine.org/)
 
-### Thursday, 10/20/16
+### Thursday, 10/19/17
 
 * _Data cleanup_
 * Lecture: linked data
@@ -174,7 +171,9 @@ _Data structures_
 * [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
 * [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 
-### Tuesday, 10/25/16
+### Tuesday, 10/24/17
+
+**Prof. Brooks away at conference **
 
 _Network analysis tools_
 
@@ -183,7 +182,7 @@ _Network analysis tools_
 * [Slides](https://slides.com/mackenziekbrooks/dh102-f16-unit2readings/)
 * [Data generation survey](https://goo.gl/forms/2ZddsFSk5TrcH1i52)
 
-### Thursday, 10/27/16
+### Thursday, 10/26/17
 
 _Project work_
 
@@ -191,7 +190,7 @@ _Project work_
 
 * [Data + Design](https://infoactive.co/data-design/titlepage01.html), chapters on data cleaning and visualization \(and more!\)
 
-### Tuesday, 11/1/16
+### Tuesday, 10/31/17
 
 _Project work_
 
@@ -199,18 +198,18 @@ _Project work_
 
 **Prepare 1-2 network visualizations and 1 piece of documentation for peer review on Thursday**
 
-### Thursday, 11/3/16
+### Thursday, 11/2/16
 
 _Project work + Documentation_
 
 * Peer review of documentation, visualizations
 * Install Omeka + Neatline &gt; Unit 3/Activity 1
 
-**All Unit 2 assignments due Tuesday 11/8 by 8am.**
+**All Unit 2 assignments due Tuesday 11/7 by 8am.**
 
 ## Unit 3 Space
 
-### Tuesday, 11/8/16
+### Tuesday, 11/7/17
 
 _Methodology review_
 
@@ -223,7 +222,7 @@ _Methodology review_
 * [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id)
 * [Visualizing the Railway Space in Fontane’s Effi Briest](http://transit.berkeley.edu/2016/youngman-et-al/)
 
-### Thursday, 11/10/16
+### Thursday, 11/9/17
 
 _Methodology review_
 
@@ -235,9 +234,9 @@ _Methodology review_
 * [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
 * [The Geographic Imagination of Civil War-Era American Fiction](http://muse.jhu.edu/article/527788)
 
-**Unit 3 Methodology Review due Tuesday, 11/15**
+**Unit 3 Methodology Review due Tuesday, 11/14**
 
-### Tuesday, 11/15/16
+### Tuesday, 11/14/17
 
 _Methodology review_
 
@@ -245,7 +244,7 @@ _Methodology review_
 * Readings discussion
 * [Slides](http://slides.com/mackenziekbrooks/dh102-unit3-spatial-humanities#/)
 
-### Thursday, 11/17/16
+### Thursday, 11/16/17
 
 _Tool selection_
 
@@ -255,28 +254,28 @@ _Tool selection_
 
 ### Thanksgiving break
 
-### Tuesday, 11/29/16
+### Tuesday, 11/28/17
 
 * Data set approval
 * Data modification
 
-### Thursday, 12/1/16
+### Thursday, 11/30/17
 
 _project work_
 
-### Tuesday, 12/6/16
+### Tuesday, 12/5/17
 
 _project work_
 
 * [Slides](https://slides.com/mackenziekbrooks/dh102-f16-wrapping-up)
 
-### Thursday, 12/8/16
+### Thursday, 12/7/17
 
 _wrap up_
 
 * Unit 3 presentations 
 
-**Unit 3 assignments due 12/8/16 at 2:30pm**
+**Unit 3 assignments due 12/8/17 at 2:30pm**
 
 ### Finals week
 
