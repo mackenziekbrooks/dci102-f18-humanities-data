@@ -49,7 +49,7 @@ _Methodology review_
 
 _Methodology review_
 
-* Guest speaker: 
+* Guest speaker: Sarah McEleney \(UVa graduate student\)
 * Lab: text analysis tools
 
 **Read for Thursday:**
@@ -88,8 +88,9 @@ _Data cleanup_
   * Even if the project seems too big for execution now, what type of text analysis methods would you like to pursue?
   * What would make the RTP easier to work with? 
   * Specifically, what can you do to the text files to make them easier to work with? 
-* Review the Assignments page for Unit 1. Bring questions. 
+* Review the Assignments page for Unit 1. Bring questions.
 * Optional: [watch/listen to the Ed Ayers lecture on Civil War History and Digital Humanities](http://livestream.com/wlu/edward-ayers). If you're short on time, skip to minute 56. Good material for a blog post! 
+* Read: [Argument Clinic](http://scottbot.net/argument-clinic/)
 
 ### Thursday, 9/28/17
 
@@ -129,7 +130,7 @@ _Project work + documentation_
 _Methodology review_
 
 * Unit 1 project debrief. Be prepared to share your results for Unit 1. 
-* Guest speaker: Jeff Barry, Associate University Librarian 
+* Guest speaker: Alex Farley '19
 
 **Read for Tuesday the 17th:**
 
