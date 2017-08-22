@@ -49,7 +49,7 @@ _Methodology review_
 
 _Methodology review_
 
-* Guest speaker: Prof. Brandon Walsh, "How to Read a Text," [slides etc](https://github.com/bmw9t/waystoread).
+* Guest speaker: 
 * Lab: text analysis tools
 
 **Read for Thursday:**
@@ -67,7 +67,6 @@ _Data introduction_
 
 * Assignment: Methodology review due to your Box folder by 8am. Be prepared to share. 
 * Data set introduction
-* Guest speaker: Alston Cobourn, Digital Scholarship Librarian
 * Lab: OCR, [slides](https://docs.google.com/presentation/d/1OdbJqTAGEpIAEWfL_kE9mOJZKl4eMjXL_DEm2-IDcPk/edit?usp=sharing)
 
 **Read for Tuesday:**
