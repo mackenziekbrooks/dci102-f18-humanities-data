@@ -5,12 +5,11 @@
 ### Thursday, 9/7/17
 
 * Intros, course overview, 
-* Getting to know you [survey](https://docs.google.com/forms/d/e/1FAIpQLSdf_G84ock01cJdtt4a5_JN8poqC_aWRiVtG_arVXnEsRBzbQ/viewform)
+* Getting to know you [survey](https://goo.gl/forms/QtYLXmZntTnaGV6I3)
 * Lecture: What and why is DH? What about data? 
 * Lab: [environment](Unit 0/environment.md) setup
 * Lab: domain registration with [Reclaim Hosting](Unit 0/reclaimmd.md)
-* [Slides](http://slides.com/mackenziekbrooks/dh102-f16-day1)
-* [Slides1](/slides/slides1.html)
+* [Slides](/slides/slides1.html)
 
 **Read for Tuesday:**
 
