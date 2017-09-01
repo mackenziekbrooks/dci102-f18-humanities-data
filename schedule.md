@@ -202,7 +202,6 @@ _Project work_
 _Project work + Documentation_
 
 * Peer review of documentation, visualizations
-* Install Omeka + Neatline &gt; Unit 3/Activity 1
 
 **All Unit 2 assignments due Tuesday 11/7 by 8am.**
 
@@ -213,7 +212,7 @@ _Project work + Documentation_
 _Methodology review_
 
 * Vote! 
-* Guest speakers: Paul Youngman and Ulemj Enkhbold '17 on _Mapping the Literary Railway_
+* Guest speakers: =
 
 **Read for Thursday:**
 
