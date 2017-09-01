@@ -211,8 +211,9 @@ _Project work + Documentation_
 
 _Methodology review_
 
+* Unit 2 presentations
 * Vote! 
-* Guest speakers: =
+* Guest speakers:
 
 **Read for Thursday:**
 
@@ -223,9 +224,8 @@ _Methodology review_
 
 _Methodology review_
 
-* Unit 2 presentations
 * Unit 3 planning session
-
+* 
 **Read for Tuesday:**
 
 * [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
