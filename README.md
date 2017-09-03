@@ -1,18 +1,20 @@
 # DH 102: Data in the Humanities
 
-[Course website](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities)
-
 Fall 2017 // TR 2:30-4:30 // CGL 114
+
+[The course website](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities) is a living document. It will change regularly to reflect the needs of the course. 
+
+# Contact
 
 Mackenzie Brooks, Assistant Professor & Digital Humanities Librarian
 
 brooksm@wlu.edu // 540-458-8659 // Leyburn 218
 
-Office hours: by appointment, Mondays and Fridays are best. 
+Office hours: by appointment, Mondays and Fridays are best.
 
 Will Tucker '19, Undergraduate Mellon DH Fellow will be serving as a peer mentor. He took DH 102 in 2016 and will be assisting in class and available for appointment.
 
-# Course Description
+# Course description
 
 This course introduces students to the creation and visualization of data in humanities research. The course is predicated on the fact that the digital turn of the last several decades has drastically changed the nature of knowledge production and distribution. The community and set of practices that is Digital Humanities \(DH\) encourages fluency in media beyond the printed word such as text mining, digital curation, data visualization, and spatial analysis. Readings and discussions of theory will complement hands-on application of digital methods and computational thinking. While the objects of our study will primarily come from the humanities, the methods of analysis are widely applicable to the social and natural sciences. Three unit-long collaborative projects will explore the creation, structure, and visualization of “humanities data.” This course meets in two-hour blocks to accommodate a lab component.
 
@@ -25,12 +27,13 @@ This course introduces students to the creation and visualization of data in hum
 * Ability to assess information and information technologies critically.
 * Ability to work collaboratively.
 
-# Disclaimers
+# Course protocols
 
-* If you have ever labeled yourself as “bad at technology,” you are welcome in this course. There is no assumed technical skill. See also: [https://xkcd.com/1053/](https://xkcd.com/1053/)
-* That being said, your laptop will be a major player in this course. Please make sure it is good working order by updating software and visiting the IT help desk as necessary. 
-* This course will mix theory and hands-on work. Be prepared to think critically about technology AND to get your hands dirty in a little bit of code. 
-* The DH community values experimentation and productive failure, often in public. We will learn from how and why things don’t work. We are not just going to talk about what we’re learning but how we’re learning it.
+* If you have ever labeled yourself as “bad at technology,” you are welcome in this course. There is no assumed technical skill. 
+* "Technology" is a lot of things. Chances are you will know something about it that your classmates do not. Be generous about teaching and learning from each other. See also: [https://xkcd.com/1053/](https://xkcd.com/1053/)
+* Your laptop will be a major player in this course. Please make sure it is good working order by updating software \(operating system, browers, etc\) and visiting the IT help desk as necessary. Learn how to disable notifications since you will have to share your screen in class.
+* This course will mix theory and hands-on work. Be prepared to think critically about technology AND to get your hands dirty in a little bit of code.
+* The DH community values experimentation and productive failure, often in public. We will learn from how and why things don’t work. We are not just going to talk about what we’re learning but how we’re learning it. Give yourself a break from perfectionism!
 
 # Required texts
 
@@ -41,7 +44,7 @@ We will rely heavily on the following texts:
 * [The Historian's Macroscope](http://www.themacroscope.org/?page_id=584)
 * [Programming Historian](http://programminghistorian.org/)
 
-You will be required to purchase your own domain from [Reclaim Hosting](https://reclaimhosting.com/) at the rate of $25/year.
+You will be required to purchase your own domain from [Reclaim Hosting](https://reclaimhosting.com/) at the rate of $30/year.
 
 # Course structure
 

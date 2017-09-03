@@ -4,7 +4,7 @@
 
 ### Thursday, 9/7/17
 
-* Intros, course overview, 
+* Introductions and course overview
 * Getting to know you [survey](https://goo.gl/forms/QtYLXmZntTnaGV6I3)
 * Lecture: What and why is DH? What about data? 
 * Lab: [environment](Unit 0/environment.md) setup
