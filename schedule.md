@@ -225,10 +225,10 @@ _Methodology review_
 _Methodology review_
 
 * Unit 3 planning session
-* 
-**Read for Tuesday:**
+* **Read for Tuesday:**
 
 * [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
+
 * [The Geographic Imagination of Civil War-Era American Fiction](http://muse.jhu.edu/article/527788)
 
 **Unit 3 Methodology Review due Tuesday, 11/14**
