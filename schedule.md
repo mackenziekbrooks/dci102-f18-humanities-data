@@ -213,7 +213,7 @@ _Methodology review_
 
 * Unit 2 presentations
 * Vote! 
-* Guest speakers:
+* Guest speaker: Ben Gorham from University of Virginia 
 
 **Read for Thursday:**
 
