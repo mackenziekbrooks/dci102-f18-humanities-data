@@ -20,22 +20,25 @@
 
 6. Fill out the payment details to complete registration.
 
-7. **Important!** Be sure to save the confirmation email as it will contain your username and password to access the backend of your site. You will definitely need this in the future. 
+7. **Important!** Be sure to save the confirmation email as it will contain your username and password to access the backend of your site. You will definitely need this in the future.
+
+8. Add your URL to the Box note in our shared data folder in Box.
 
 ## Activity 2: Install Wordpress
 
 1. Login to the Cpanel for your domain by adding `/cpanel` to the end of your URL. Use the username and password sent to you by Reclaim Hosting. 
 2. You should see a Wordpress icon near the top of the page. Click on it to begin installing Wordpress.
 3. Find the "install this application" button. 
-4. Work through the installation. You can leave the default settings except for the following:
+4. Work through the installation. You can leave the default settings except for the following:  
    1. Directory \(optional\) - if you want your course website to live in subdirectory, such as `http://www.mackenziekbrooks.com/dh102` then type in the name of the subdirectory in the second box. I recommend using a subdirectory if you want to use your site for other purposes.
 
-   2. Change the administrator username and password to something you are likely to remember. 
+   1. Change the administrator username and password to something you are likely to remember.
 
-   3. Customize the website title and tagline. 
-5. Press install to finish up. 
+   2. Customize the website title and tagline.
 
-6. You should now be able to access your wordpress admin interface by prepending `/wp-login` to your domain. 
+5. Press install to finish up.
+
+6. You should now be able to access your wordpress admin interface by prepending `/wp-login` to your domain.
 
 
 
