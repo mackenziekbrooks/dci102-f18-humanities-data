@@ -9,7 +9,7 @@
 * Lecture: What and why is DH? What about data? 
 * Lab: [environment](Unit 0/environment.md) setup
 * Lab: domain registration with [Reclaim Hosting](Unit 0/reclaimmd.md)
-* [Slides](/slides/slides1.html)
+* Slides
 
 **Read for Tuesday:**
 
