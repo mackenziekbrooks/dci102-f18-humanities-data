@@ -2,7 +2,7 @@
 
 Fall 2017 // TR 2:30-4:30 // CGL 114
 
-[The course website](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities) is a living document. It will change regularly to reflect the needs of the course. 
+[The course website](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities) is a living document. It will change regularly to reflect the needs of the course.
 
 # Contact
 
@@ -74,7 +74,7 @@ Students will select data from a previous unit or have the option to create or f
 
 ## Accommodations
 
-Washington and Lee University makes reasonable academic accommodations for qualified students with disabilities. All undergraduate accommodations must be approved through the Office of the Dean of the College. Students requesting accommodations for this course should present an official accommodation letter within the first two weeks of the term and schedule a meeting outside of class time to discuss accommodations. It is the student’s responsibility to present this paperwork in a timely fashion and to follow up about accommodation arrangements. Accommodations for test-taking must be arranged with the professor at least a week before the date of the test or exam, including finals.
+Washington and Lee University makes reasonable academic accommodations for qualified students with disabilities. All undergraduate accommodations must be approved through the Title IX Coordinator and Director of Disability Resources, Elrod Commons 212, 458-4055. Students requesting accommodations for this course should present an official accommodation letter within the first two weeks of the termand schedule a meeting outside of class time to discuss accommodations. It is the student’s responsibility to present this paperwork in a timely fashion and to follow up about accommodation arrangements. Accommodations for test-taking must be arranged with the professor at least a week before the date of the test or exam, including finals.
 
 ## Plagiarism
 
