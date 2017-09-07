@@ -6,7 +6,7 @@
 
 * Introductions and course overview
 * Getting to know you [survey](https://goo.gl/forms/QtYLXmZntTnaGV6I3)
-* Lecture: What and why is DH? What about data? 
+* Lecture: what is data in the humanities?
 * Lab: [environment](Unit 0/environment.md) setup
 * Lab: domain registration with [Reclaim Hosting](Unit 0/reclaimmd.md)
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day1.html)
@@ -23,7 +23,6 @@
 * Discussion: readings
 * Lecture: How the web works
 * Lab: HTML + CSS
-* [Slides](https://slides.com/mackenziekbrooks/dh102-f16-day2)
 
 **Read for Thursday:**
 
@@ -37,7 +36,6 @@ _Methodology review_
 
 * Text analysis introduction
 * Lab: command line
-* [Slides](http://slides.com/mackenziekbrooks/dh102-f16-day3)
 
 **Read for Tuesday:**
 
@@ -66,7 +64,7 @@ _Data introduction_
 
 * Assignment: Methodology review due to your Box folder by 8am. Be prepared to share. 
 * Data set introduction
-* Lab: OCR, [slides](https://docs.google.com/presentation/d/1OdbJqTAGEpIAEWfL_kE9mOJZKl4eMjXL_DEm2-IDcPk/edit?usp=sharing)
+* Lab: OCR
 
 **Read for Tuesday:**
 
@@ -118,7 +116,6 @@ _Project work + documentation_
 
 * Lab: website setup
 * Lab: documentation
-* [Slides](https://slides.com/mackenziekbrooks/dh190-f16-docswp)
 
 **All Unit 1 assignments due 10/10/17 by 8am**
 
