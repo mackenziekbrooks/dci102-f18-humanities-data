@@ -40,5 +40,16 @@
 
 6. You should now be able to access your wordpress admin interface by prepending `/wp-login` to your domain.
 
+## Activity 3: HTML
+
+* Open your favorite text editor and using the W3 Schools as a guide, write your own HTML document.
+* Save the file as `index.html` in your Box folder in a separate folder titled: `activity_2016-09-13`.
+* To view your page in the browswer, open `index.html` in your browser, usually with the key commands `Ctrl + o`
+* You should include the basic set of tags: `<html> <head> <title> <body>`
+* Add five additional types of tags to the body of your HTML document, including a table.
+* Add an additional HTML page and link the two pages.
+
+## Activity 4: CSS
+
 
 
