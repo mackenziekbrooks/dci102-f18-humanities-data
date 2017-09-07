@@ -51,5 +51,22 @@
 
 ## Activity 4: CSS
 
+Create a separate CSS document and save it as `style.css` in the same folder you created for Activity 1. 
+
+* Link the `style.css` file to your HTML document. Consult the W3 Schools to figure out how to do this.
+* Add a background color.
+* Change the border on your table. 
+* Add style to your links when you hover over them. 
+
+## Activity 5: Publish your website
+
+When you opened your HTML files in your browser, you were viewing your files locally. Only you could see them on your computer. Now it's time to upload them to your domain so other people can view them.
+
+* In CPanel, open up the File Manager.
+* Navigate to the `public_html` folder. 
+* Create a new folder titled `activities` or something similar. 
+* Upload all your HTML and CSS files. 
+* Navigate to your equivalent of `www.yourdomain.com/activities`. What do you see?  
+
 
 

@@ -23,8 +23,6 @@ In fact, you can see the HTML for any page on the web by right clicking anywhere
 
 HTML documents are just plain text documents. You can write and read HTML in a text editor like Notepad++ or Sublime. The magic happens when you open an HTML document in the browser.
 
-
-
 ## CSS
 
 Our next building block of the web is CSS, or Cascading Style Sheets. HTML structures your webpage, but you need something else to add the pretty colors and images.
@@ -35,23 +33,9 @@ See some basic CSS at the [W3 Schools CSS tutorial](http://www.w3schools.com/css
 
 The beauty of CSS is that you can keep all your styles in one stylesheet which you link to all your HTML pages.
 
-## Activity 2
 
-* Create a separate CSS document and save it as `style.css` in the same folder you created for Activity 1. 
-* Link the `style.css` file to your HTML document. Consult the W3 Schools to figure out how to do this.
-* Add a background color.
-* Change the border on your table. 
-* Add style to your links when you hover over them. 
 
-## Activity 3
 
-When you opened your HTML files in your browser, you were viewing your files locally. Only you could see them on your computer. Now it's time to upload them to your domain so other people can view them.
-
-* In CPanel, open up the File Manager.
-* Navigate to the `public_html` folder. 
-* Create a new folder titled `activities` or something similar. 
-* Upload all your HTML and CSS files. 
-* Navigate to your equivalent of `www.yourdomain.com/activities`. What do you see?  
 
 
 
