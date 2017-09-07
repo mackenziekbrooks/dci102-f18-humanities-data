@@ -28,7 +28,8 @@
 
 * [We Can All Be Technical With the Right Teacher](https://recompilermag.com/issues/issue-0/we-can-all-be-technical-with-the-right-teacher/)
 * [Some things to think about before you exhort everyone to code](http://miriamposner.com/blog/some-things-to-think-about-before-you-exhort-everyone-to-code/)
-* [Introduction to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash) \(we will review in class\)
+* [Introduction to Windows Command Line with Powershell](https://programminghistorian.org/lessons/intro-to-powershell)
+* [Introduction to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash) \(Mac\)
 
 ### Thursday, 9/14/17
 
@@ -256,8 +257,6 @@ _project work_
 ### Tuesday, 12/5/17
 
 _project work_
-
-
 
 ### Thursday, 12/7/17
 
