@@ -146,7 +146,6 @@ _Data structures_
 * Discussion: readings
 * Lecture: How to structure data 
 * Data set introduction
-* [Slides](http://slides.com/mackenziekbrooks/dh102-f16-unit2day2)
 
 **For Thursday:**
 
@@ -159,7 +158,6 @@ _Data structures_
 * _Data cleanup_
 * Lecture: linked data
 * Lab: Open Refine 
-* [Slides](https://slides.com/mackenziekbrooks/dh190-f16-linkeddata)
 
 ** Read for Tuesday:**
 
@@ -175,7 +173,7 @@ _Network analysis tools_
 
 * Reading discussion
 * Network analysis tools workshop/sandbox
-* [Slides](https://slides.com/mackenziekbrooks/dh102-f16-unit2readings/)
+
 * [Data generation survey](https://goo.gl/forms/2ZddsFSk5TrcH1i52)
 
 ### Thursday, 10/26/17
@@ -236,7 +234,6 @@ _Methodology review_
 
 * Methodology review presentations
 * Readings discussion
-* [Slides](http://slides.com/mackenziekbrooks/dh102-unit3-spatial-humanities#/)
 
 ### Thursday, 11/16/17
 
@@ -244,7 +241,6 @@ _Tool selection_
 
 * Mapping tools workshop
 * Finding and publishing open data 
-* [Slides](http://slides.com/mackenziekbrooks/dh102-f16-opendata)
 
 ### Thanksgiving break
 
@@ -261,7 +257,7 @@ _project work_
 
 _project work_
 
-* [Slides](https://slides.com/mackenziekbrooks/dh102-f16-wrapping-up)
+
 
 ### Thursday, 12/7/17
 
