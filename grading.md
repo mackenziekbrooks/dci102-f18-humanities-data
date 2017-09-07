@@ -4,11 +4,13 @@ This course will use an alternative grading model known as "Specifications Gradi
 
 ## Features of this system:
 
-* All assignments will be graded on a pass/fail basis. There will be no credit for partial work.
-* You will be given clear and descriptive "specs" on each assignment so you know exactly what makes a passing assignment. 
-* Projects will be bundled in a way that clearly delineates A, B, and C-level work. 
-* You will receive three "free passes" to use for revisions, late assignments, or absences. You must declare your free pass as the time of the deadline, not after. 
-* All the requirements must be met in full to receive the corresponding grade. 
+* All assignments will be graded on a pass/not pass basis. There will be no credit for partial work.
+* You will be given clear and descriptive "specs" on each assignment so you know exactly what makes a passing assignment.
+* All the requirements must be met in full to receive the corresponding grade.
+* You will receive three  "free passes" to use for revisions, late assignments, or absences. For absences or late assignments, you must declare your free pass as the time of the deadline, not after. For revisions, you must respond to your assignment feedback from me with a notice that you want to use a free pass, then submit your revision within 48 hours.
+* I will reserve the plus/minus part of your grade to recognize exceptional or disappointing participation and engagement in class. I'll give you feedback on your participation with each unit's feedback. 
+
+
 
 ## A-level requirements
 
@@ -34,17 +36,20 @@ This course will use an alternative grading model known as "Specifications Gradi
 ---
 
 ### Blog posts
-* 2 blog posts due each unit to your own domain 
+
+* 2 blog posts due each unit to your own domain.
 * Posts can be on a topic of your choosing, though I can provide prompts.
 * 300-500 words.
-* Include links and images (with citation) when appropriate.  
+* Include links and images \(with citation\) when appropriate.  
 
 ### Core Assignments
+
 * Project/Methodology Review
 * Project Data
 * Project Visualization
 
 ### Advanced Assignments
+
 * Project Narrative
 * Project Documentation 
 * Project Reflection 
@@ -52,3 +57,4 @@ This course will use an alternative grading model known as "Specifications Gradi
 #### Bibliography
 
 Nilson, Linda B. _Specifications Grading: Restoring Rigor, Motivating Students, and Saving Faculty Time._ Sterling: Stylus Publishing, 2014. Print.
+
