@@ -199,7 +199,7 @@ _Project work + Documentation_
 
 * Peer review of documentation, visualizations
 
-**All Unit 2 assignments due Tuesday 11/7 by 8am.**
+**All Unit 2 assignments due Tuesday 11/7 by 2:30pm.**
 
 ## Unit 3 Space
 
