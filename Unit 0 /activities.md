@@ -43,7 +43,7 @@
 ## Activity 3: HTML
 
 * Open your favorite text editor and using the W3 Schools as a guide, write your own HTML document.
-* Save the file as `index.html` in your Box folder in a separate folder titled: `activity_2016-09-13`.
+* Save the file as `index.html` in your Box folder in a separate folder titled: `activity_2016-09-13`. I'm not grading this, but it will help me troubleshoot if necessary.
 * To view your page in the browswer, open `index.html` in your browser, usually with the key commands `Ctrl + o`
 * You should include the basic set of tags: `<html> <head> <title> <body>`
 * Add five additional types of tags to the body of your HTML document, including a table.
@@ -51,7 +51,7 @@
 
 ## Activity 4: CSS
 
-Create a separate CSS document and save it as `style.css` in the same folder you created for Activity 1. 
+Create a separate CSS document and save it as `style.css` in the same folder you created for Activity 1.
 
 * Link the `style.css` file to your HTML document. Consult the W3 Schools to figure out how to do this.
 * Add a background color.
