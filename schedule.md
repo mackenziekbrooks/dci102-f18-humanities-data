@@ -21,7 +21,8 @@
 ### Tuesday, 9/12/17
 
 * Discussion: readings
-* Lecture: How the web works
+* Lecture: How the internet works
+* Lab: CPanel
 * Lab: HTML + CSS
 
 **Read for Thursday:**
@@ -36,7 +37,6 @@
 _Methodology review_
 
 * Lab: command line \([Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)\)
-* Lab: Cpanel
 
 **Read for Tuesday:**
 
