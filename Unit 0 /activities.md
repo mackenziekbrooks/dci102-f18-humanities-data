@@ -67,6 +67,7 @@ When you opened your HTML files in your browser, you were viewing your files loc
 * Create a new folder titled `activities` or something similar. 
 * Upload all your HTML and CSS files. 
 * Navigate to your equivalent of `www.yourdomain.com/activities`. What do you see?  
+* Add a link to this URL to our shared Box folder. 
 
 
 
