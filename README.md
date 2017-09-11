@@ -12,7 +12,7 @@ brooksm@wlu.edu // 540-458-8659 // Leyburn 218
 
 Office hours: by appointment, Mondays and Fridays are best.
 
-Will Tucker '19, Undergraduate Mellon DH Fellow will be serving as a peer mentor. He took DH 102 in 2016 and will be assisting in class and available for appointment.
+Will Tucker '19, Undergraduate Mellon DH Fellow will be serving as a peer mentor. He took DH 102 in 2016 and will be assisting in class and available on TR 4:40-5:45 on LL2 in Leyburn for office hours.
 
 # Course description
 
