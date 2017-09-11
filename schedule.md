@@ -34,8 +34,7 @@
 
 ### Thursday, 9/14/17
 
-_Methodology review_
-
+* Readings discussion
 * Lab: command line \([Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)\)
 
 **Read for Tuesday:**
