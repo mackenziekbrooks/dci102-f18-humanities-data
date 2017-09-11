@@ -29,8 +29,9 @@
 
 * [We Can All Be Technical With the Right Teacher](https://recompilermag.com/issues/issue-0/we-can-all-be-technical-with-the-right-teacher/)
 * [Some things to think about before you exhort everyone to code](http://miriamposner.com/blog/some-things-to-think-about-before-you-exhort-everyone-to-code/) \(including the comments\)
-* [Introduction to Windows Command Line with Powershell](https://programminghistorian.org/lessons/intro-to-powershell) \(Windows people\)
-* [Introduction to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash) \(Mac people\)
+* [How Computers Work](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-1&toc.depth=1&toc.id=ss1-3-1&brand=default)
+* Review [Introduction to Windows Command Line with Powershell](https://programminghistorian.org/lessons/intro-to-powershell) \(Windows people\)
+* Review [Introduction to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash) \(Mac people\)
 
 ### Thursday, 9/14/17
 
