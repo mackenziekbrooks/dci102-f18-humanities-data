@@ -24,6 +24,7 @@
 * Lecture: How the internet works
 * Lab: CPanel
 * Lab: HTML + CSS
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day2.html)
 
 **Read for Thursday:**
 
