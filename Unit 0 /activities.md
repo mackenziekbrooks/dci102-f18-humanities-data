@@ -38,7 +38,7 @@
 
 5. Press install to finish up.
 
-6. You should now be able to access your wordpress admin interface by prepending `/wp-login` to your domain.
+6. You should now be able to access your wordpress admin interface by appending `/wp-login` to your domain.
 
 ## Activity 3: HTML
 
