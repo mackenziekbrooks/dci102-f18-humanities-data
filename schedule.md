@@ -41,7 +41,8 @@
 
 **Read for Tuesday:**
 
-* Take a look at the [Intro to Text Analysis workbook](http://walshbr.com/textanalysiscoursebook/) by Profs. Brandon Walsh and Sarah Horowitz
+* [Intro to Text Analysis workbook](http://walshbr.com/textanalysiscoursebook/) by Profs. Brandon Walsh and Sarah Horowitz
+  * read the Intro, Issues in Text Analysis, and Close Reading.
 * [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet) \(concentrate on the first couple sections\)
 
 ### Tuesday, 9/19/17
