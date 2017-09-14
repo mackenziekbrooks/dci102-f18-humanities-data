@@ -29,9 +29,10 @@ Projects:
 * [DPLA App Library](https://dp.la/apps)
 
 * [Quantifying Kissinger](http://blog.quantifyingkissinger.com/)
+
 * [Viral Texts](http://viraltexts.org/)
 * [Serendip](http://vep.cs.wisc.edu/serendip/)
-
+* 
 Resources on evaluating digital projects:
 
 * [Short Guide To Evaluation Of Digital Work by Geoffrey Rockwell](http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/)
