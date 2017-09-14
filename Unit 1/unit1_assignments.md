@@ -31,11 +31,12 @@ Projects:
 * [Quantifying Kissinger](http://blog.quantifyingkissinger.com/)
 
 * [Viral Texts](http://viraltexts.org/)
+
 * [Serendip](http://vep.cs.wisc.edu/serendip/)
-* 
-Resources on evaluating digital projects:
+* Resources on evaluating digital projects:
 
 * [Short Guide To Evaluation Of Digital Work by Geoffrey Rockwell](http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/)
+
 * [Criteria for Reviewing Scholarly Digital Editions -  Institut für Dokumentologie und Editorik](http://www.i-d-e.de/publikationen/weitereschriften/criteria-version-1-1/)
 * [Evaluating Digital Humanities Work: Guidelines for Librarians by Zach Coble](http://journalofdigitalhumanities.org/1-4/evaluating-digital-humanities-work-guidelines-for-librarians-by-zach-coble/)
 * [LAIRAH Digital Humanities checklist](http://www.ucl.ac.uk/infostudies/research/circah/lairah/features/)
@@ -133,6 +134,7 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 * What interesting stuff have you found in _Ring-tum Phi_? Anything that would make a cool research project? Is there a period of W&L's history that you'd like to learn more about? How would you compare that period to today? 
 * Respond to "[What Screens Want](http://www.frankchimero.com/writing/what-screens-want/)" by Frank Chimero
 * Respond to the \(controversial\) article "[Neoliberal Tools \(and Archives\): A Political History of Digital Humanities.](https://via.hypothes.is/https://lareviewofbooks.org/article/neoliberal-tools-archives-political-history-digital-humanities/)" This link opens the Hypothes.is sidebar containing public annotations of this article. How would you respond to the article itself? What do you make of the discourse occurring in the sidebar? 
+* Check out [The Pudding](https://pudding.cool/). What is it trying to do? Is it working? How does it compare to the more scholarly projects we've looked at? 
 
 Specs:
 
