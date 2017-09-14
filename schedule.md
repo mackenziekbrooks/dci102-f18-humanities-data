@@ -37,14 +37,15 @@
 ### Thursday, 9/14/17
 
 * Readings discussion
+* Lab: HTML/CSS cont.
 * Lab: command line \([Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)\)
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day3.html)
 
 **Read for Tuesday:**
 
 * [Intro to Text Analysis workbook](http://walshbr.com/textanalysiscoursebook/) by Profs. Brandon Walsh and Sarah Horowitz
   * read the Intro, Issues in Text Analysis, and Close Reading.
-* 
-### Tuesday, 9/19/17
+* ### Tuesday, 9/19/17
 
 _Methodology review_
 
