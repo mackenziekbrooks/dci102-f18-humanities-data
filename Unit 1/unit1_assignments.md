@@ -33,11 +33,13 @@ Projects:
 * [Viral Texts](http://viraltexts.org/)
 
 * [Serendip](http://vep.cs.wisc.edu/serendip/)
-* Resources on evaluating digital projects:
+
+Resources on evaluating digital projects:
 
 * [Short Guide To Evaluation Of Digital Work by Geoffrey Rockwell](http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/)
 
 * [Criteria for Reviewing Scholarly Digital Editions -  Institut für Dokumentologie und Editorik](http://www.i-d-e.de/publikationen/weitereschriften/criteria-version-1-1/)
+
 * [Evaluating Digital Humanities Work: Guidelines for Librarians by Zach Coble](http://journalofdigitalhumanities.org/1-4/evaluating-digital-humanities-work-guidelines-for-librarians-by-zach-coble/)
 * [LAIRAH Digital Humanities checklist](http://www.ucl.ac.uk/infostudies/research/circah/lairah/features/)
 * [DH Commons Review Guidelines](http://dhcommons.org/journal/review-guidelines)
