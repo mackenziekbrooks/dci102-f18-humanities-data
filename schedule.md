@@ -52,7 +52,8 @@
 _Methodology review_
 
 * Guest speaker: Sarah McEleney \(UVa graduate student\)
-* Lab: text analysis tools
+* Lab: text analysis with python
+* [Workshop materials](https://github.com/sarahrahrah/WandLTextAnalysisWorkshop)
 
 **Read for Thursday:**
 
