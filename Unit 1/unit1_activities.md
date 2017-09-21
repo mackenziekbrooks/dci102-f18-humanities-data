@@ -27,7 +27,7 @@ Compare and contrast the output of several OCR tools:
 * Submit the same TIFF file to each of these tools. 
   * Adobe Pro
   * Google Drive 
-  * [Tesseract](https://github.com/tesseract-ocr/tesseract/wiki)
+  * [Tesseract](https://github.com/tesseract-ocr/tesseract/wiki). Easy installation on Mac: `brew install tesseract` in the command line.
 * Which tool does a better job? Which is easier to install? To use? Which tool is more efficient for the task at hand? What if you had to OCR 100 years of the RTP?
 
 ### Activity 3
@@ -73,10 +73,10 @@ Using the skills you have picked up during the last few class sessions, assess t
 
 ## Project planning
 
-On paper or on your computer, answer the following questions:   
-1. What is my research question or topic?   
+On paper or on your computer, answer the following questions:  
+1. What is my research question or topic?  
 2. What are the biggest problems I have found with the data? What are realistic solutions?  
-3. What methods/tools am I interested in using?   
+3. What methods/tools am I interested in using?  
 4. What resources do I need?  
 5. What are my next steps? Break them down!
 
