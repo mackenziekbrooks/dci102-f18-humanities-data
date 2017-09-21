@@ -22,7 +22,9 @@ Running a document through a scanner does result in a perfect copy and paste-abl
 
 The process by which computer turns that image into _characters_ that can be manipulated is called **optical character recognition**. There are a [variety of OCR tools available](https://github.com/kba/awesome-ocr), however their quality can vary widely.
 
+The RTP was digitized by an external company \(not W&L staff\) in several batches.
+
 ## Data set
 
-A zip file of the RTP data set is available in our course Box folder. It consists of text files from each issue of the RTP. Or does it? 
+A zip file of the RTP data set is available in our course Box folder. It consists of text files from each issue of the RTP. Or does it?
 
