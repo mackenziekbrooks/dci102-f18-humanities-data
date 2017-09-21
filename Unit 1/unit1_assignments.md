@@ -45,6 +45,7 @@ Resources on evaluating digital projects:
 * [Evaluating Digital Humanities Work: Guidelines for Librarians by Zach Coble](http://journalofdigitalhumanities.org/1-4/evaluating-digital-humanities-work-guidelines-for-librarians-by-zach-coble/)
 
 * [LAIRAH Digital Humanities checklist](http://www.ucl.ac.uk/infostudies/research/circah/lairah/features/)
+
 * [DH Commons Review Guidelines](http://dhcommons.org/journal/review-guidelines)
 
 ### Project data
