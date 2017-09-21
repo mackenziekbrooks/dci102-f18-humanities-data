@@ -25,8 +25,8 @@ Compare and contrast the output of several OCR tools:
 
 * Use the TIFF files in the `Unit1_Text` in Box.
 * Submit the same TIFF file to each of these tools. 
-  * Adobe Pro
-  * Google Drive 
+  * Adobe Pro. Available on [myvi.wlu.edu ](http://myvi.wlu.edu/)
+
   * [Tesseract](https://github.com/tesseract-ocr/tesseract/wiki). Easy installation on Mac: `brew install tesseract` in the command line.
 * Which tool does a better job? Which is easier to install? To use? Which tool is more efficient for the task at hand? What if you had to OCR 100 years of the RTP?
 
