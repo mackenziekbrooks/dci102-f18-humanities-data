@@ -24,9 +24,5 @@ The process by which computer turns that image into _characters_ that can be man
 
 ## Data set
 
-A zip file of the RTP data set is available in our course Box folder. It consists of text files from each issue of the RTP. Or does it?
-
-
-
-
+A zip file of the RTP data set is available in our course Box folder. It consists of text files from each issue of the RTP. Or does it? 
 
