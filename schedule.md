@@ -71,6 +71,8 @@ _Data introduction_
 * Assignment: Methodology review due to your Box folder by 2:30pm. Be prepared to share. 
 * Data set introduction
 * Lab: OCR
+* Lab: command line practice
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day5.html)
 
 **Read for Tuesday:**
 
