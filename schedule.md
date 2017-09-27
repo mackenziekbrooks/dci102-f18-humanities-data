@@ -83,8 +83,8 @@ _Data introduction_
 
 _Data cleanup_
 
-* Guest speaker: Jason Mickel, [slides](https://docs.google.com/presentation/d/1dGwQHX8DNuRXgw80nKvBInTY7kJ7DjQKFC6RugSS3So/edit?usp=sharing)
-* Lab: regular expressions
+* Guest speaker: Prof. Jason Mickel, [slides](https://docs.google.com/presentation/d/1dGwQHX8DNuRXgw80nKvBInTY7kJ7DjQKFC6RugSS3So/edit?usp=sharing)
+* Lab: regular expressions, [answer key](https://docs.google.com/document/d/1AzhUusEp5PM4sQbnWGODe7B6IezkVoe6HBaLjm8hrAg/edit?usp=sharing)
 
 **For Thursday:**
 
