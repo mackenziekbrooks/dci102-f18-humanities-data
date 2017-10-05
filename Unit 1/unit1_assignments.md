@@ -109,11 +109,14 @@ Specs:
 
 * Due Tuesday 10/10 by 2:30pm. 
 * Publish to your website.
-* Address the following:
-  * What is your data set? Where did it come from? Who owns it? 
-  * What did you do to your data? How did you do it?
-  * What tools did you use to clean and visualize your data? How did you use them? What steps did you follow? 
-* Include screenshots when appropriate.
+* Document the process of one of the following activities: 
+  * Cleaning up the data with regular expressions and a text editor.
+  * Restructuring the data for text analysis.
+  * Importing and visualizing your data with a text analysis tool.
+* List 5+ individual steps and reference specific options in the software.
+* Include links and screenshots when appropriate.
+
+
 
 ### Project reflection
 
