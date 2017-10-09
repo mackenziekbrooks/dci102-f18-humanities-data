@@ -145,7 +145,8 @@ _Methodology review_
 
 * [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
 * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
-* [Databases for people who don't know a whole lot about them](https://medium.com/@rwilliams_bv/intro-to-databases-for-people-who-dont-know-a-whole-lot-about-them-a64ae9af712#.tmk6ooisu)
+* [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
+
 
 ### X Thursday, 10/12/17
 
@@ -153,23 +154,27 @@ No class, reading days
 
 ### Tuesday, 10/17/17
 
-_Data structures_
+_Methodology review_
 
-* Assignment: project review due by 8am. Be prepared to share.
+
+* Assignment: project review due by 2:30pm. Be prepared to share.
 * Discussion: readings
-* Lecture: How to structure data 
 * Data set introduction
 
 **For Thursday:**
 
+* [Databases for people who don't know a whole lot about them](https://medium.com/@rwilliams_bv/intro-to-databases-for-people-who-dont-know-a-whole-lot-about-them-a64ae9af712#.tmk6ooisu)
+* Install [Open Refine](http://openrefine.org/)
 * Watch ["What is Linked Data?"](https://www.youtube.com/watch?v=4x_xzT5eF5Q) by Manu Sporny
 * Review this Programming Historian Lesson: "[Using SPARQL to access Linked Open Data](http://programminghistorian.org/lessons/graph-databases-and-SPARQL)" and "[Cleaning Data with Open Refine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)"
-* Install [Open Refine](http://openrefine.org/)
+
 
 ### Thursday, 10/19/17
+_Data structures_
+_Data cleanup_
 
-* _Data cleanup_
 * Lecture: linked data
+* Lecture: How to structure data 
 * Lab: Open Refine 
 
 ** Read for Thursday:**
