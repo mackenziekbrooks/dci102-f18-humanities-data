@@ -172,11 +172,13 @@ _Data structures_
 * Lecture: linked data
 * Lab: Open Refine 
 
-** Read for Tuesday:**
+** Read for Thursday:**
 
 * [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
 * [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
 * [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
+* [Putting the Human Back into the Digital Humanities: Feminism, Generosity, and Mess](http://dhdebates.gc.cuny.edu/debates/text/61)
+* [Missed Connections: What Search Engines Say About Women](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf)
 
 ### Tuesday, 10/24/17
 
@@ -187,8 +189,6 @@ _Network analysis tools_
 * Reading discussion
 * Network analysis tools workshop/sandbox
 
-* [Data generation survey](https://goo.gl/forms/2ZddsFSk5TrcH1i52)
-
 ### Thursday, 10/26/17
 
 _Project work_
@@ -196,6 +196,7 @@ _Project work_
 **Read for Tuesday**
 
 * [Data + Design](https://infoactive.co/data-design/titlepage01.html), chapters on data cleaning and visualization \(and more!\)
+* [When the Designer Shows up in the Design](https://www.propublica.org/article/when-the-designer-shows-up-in-the-design)
 
 ### Tuesday, 10/31/17
 
