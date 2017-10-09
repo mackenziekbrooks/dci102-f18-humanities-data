@@ -156,7 +156,6 @@ No class, reading days
 
 _Methodology review_
 
-
 * Assignment: project review due by 2:30pm. Be prepared to share.
 * Discussion: readings
 * Data set introduction
@@ -189,14 +188,15 @@ _Data cleanup_
 
 **Prof. Brooks away at conference **
 
+
+### Thursday, 10/26/17
+
+_Critical DH discussion_
 _Network analysis tools_
 
 * Reading discussion
 * Network analysis tools workshop/sandbox
 
-### Thursday, 10/26/17
-
-_Project work_
 
 **Read for Tuesday**
 
