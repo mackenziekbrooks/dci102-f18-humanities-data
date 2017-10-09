@@ -49,7 +49,7 @@ At the beginning of each unit, you will be handed a messy data set. It is a rare
 
 Specs:
 
-* Due Tuesday 11/8/16 by 8am.
+* Due Tuesday 11/7 by 2:30pm.
 * Submit in a zipped folder via Box.
 * Include a text file titled "data-assessment-DATE.txt" with the results of our in-class activity. 
 * Include a text file titled "data-cleanup-DATE.txt" with a list of the modifications you made to your data set. Those modifications could include:
@@ -65,7 +65,7 @@ Now that you have some experience creating a usable data set - what can you do w
 
 Specs:
 
-* Due Tuesday 11/8 by 8am.
+* Due Tuesday 11/7 by 2:30pm.
 * Embed/publish on your website. 
 * Include 150-200 words on why you selected this visualization. 
   * What did you learn about your data from this visualization, if anything?
@@ -88,7 +88,7 @@ Because we are short on time, you're not being expected to design and implement 
 
 Specs:
 
-* Due Tuesday 11/8 by 8am.
+* Due Tuesday 11/7 by 2:30pm.
 * Embed/publish on your website OR submit via your Box folder. 
 * 150-300 words. 
 * Introduce the data set and provide context. Save the technical details for the project documentation assignment.
@@ -105,7 +105,7 @@ Check out [A Beginner's Guide to Writing Documentation](http://www.writethedocs.
 
 Specs:
 
-* Due Tuesday 11/8 by 8am.
+* Due Tuesday 11/7 by 2:30pm
 * Publish to your website.
 * Address the following:
   * What is your data set? Where did it come from? Who owns it? 
@@ -121,7 +121,7 @@ The final assignment for this unit a piece of reflective writing. Talk about you
 
 Specs:
 
-* Due Tuesday 11/8 by 8am. 
+* Due Tuesday 11/7 by 2:30pm.
 * Submit via your Box folder. You are welcome, but not required to post to your website.
 * 300-500 words.
 * Address the following: 
@@ -138,12 +138,11 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 * How do you see networks functioning in your own life? 
 * What networks would you like to look at in or outside of your own field of study? Why? 
 * What interests you about the data set you have chosen to work with? What other local history topics could use network analysis/visualization?
-* Respond/reflect on our reading on Critical DH. See ["Missed Connections: What Search Engines Say About Women"](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf) or ["An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?"](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
-* Watch one of the movies mentioned by Jeff Barry in his intro to networks talk.
+* Respond/reflect on our reading on Critical DH. See "[Missed Connections: What Search Engines Say About Women](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf)" or ["An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 
 Specs:
 
-* 2 blog posts due Tuesday 11/8 by 8am. \(I recommend spacing them out!\)
+* 2 blog posts due Tuesday 11/7 by 8am. \(I recommend spacing them out!\)
 * Publish to your own domain. 
 * 300-500 words per post.
 * Link to outside articles and embed images \(with citations!\), if relevant.
