@@ -156,7 +156,7 @@ No class, reading days
 
 _Methodology review_
 
-* Assignment: project review due by 2:30pm. Be prepared to share.
+* **Assignment: project review due by 2:30pm. Be prepared to share.**
 * Discussion: readings
 * Data set introduction
 
