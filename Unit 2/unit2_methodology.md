@@ -42,6 +42,9 @@ Graph databases privilege the relationships between units of information. Attrib
 ### igraph
 [igraph](http://igraph.org/redirect.html) is a network analysis package for use with R, Python, and C++
 
+### UCINET
+[UCINET](https://sites.google.com/site/ucinetsoftware/home) is available on Windows only. It is proprietary software, but 90 day trials are available. [Tutorials](https://sites.google.com/site/analyzingsocialnetworks/analyses) are available on the UCINET site. 
+
 ## Resources
 ### Programming Historian lessons
 * [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
