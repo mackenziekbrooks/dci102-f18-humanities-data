@@ -13,9 +13,13 @@ This is not a literary history course, but there is a lot to learn about the mid
 
 To see what others have done with this type of material, check out the [Modernist Journals Projects Labs](http://cds.library.brown.edu/projects/mjplab/Masses/index.html).
 
+## Thomas Carter Personal Library
+This summer, Laurel Myers completed an inventory of the personal library of a 1950s W&L Student, Thomas Carter. She created this inventory as the first step in a project about the reading habits of a young literary scholar. You can learn more about this project in the WLUDH [GitHub repo](https://github.com/wludh/carter-library). There's a biographical sketch of Carter in a 1980 _Shenandoah_ article available in Box.
+
+What can we learn about Carter and his reading or book buying habits through network visualizations? What were popular authors or topics? How did his taste change over time? What genres are represented? 
 
 ## Stonewall Jackson Cemetery
-If you haven't noticed, Lexington is a major tourist destination for Civil War History. Places like Lee Chapel and the Stonewall Jackson Cemetery attract tens of thousands of visitors a year. Both sites have generated DH projects of one form or another. In 2013, Leyburn Library launched an online database of those buried in the Stonewall Jackson Cemetery. Carol Karsch (Data and Statistical Support Specialist) collaborated with Lexington resident Tom Kastner to create the database. Emily Crawford '15 assisted with the work of cleaning up the data and the accompanying photos. 
+If you haven't noticed, Lexington is a major tourist destination for Civil War History. Places like Lee Chapel and the Stonewall Jackson Cemetery attract tens of thousands of visitors a year. In 2013, Leyburn Library launched an online database of those buried in the Stonewall Jackson Cemetery. Carol Karsch (Data and Statistical Support Specialist) collaborated with Lexington resident Tom Kastner to create the database. Emily Crawford '15 assisted with the work of cleaning up the data and the accompanying photos. 
 
 [Press release](http://news.blogs.wlu.edu/2013/02/11/wl-creates-website-for-stonewall-jackson-cemetery-census/)
 
@@ -24,3 +28,14 @@ If you haven't noticed, Lexington is a major tourist destination for Civil War H
 This database is a boon to family history and local history researchers. In addition to Jackson, there are a number of other historical figures buried in the cemetery. The [Wikipedia page](https://en.wikipedia.org/wiki/Stonewall_Jackson_Memorial_Cemetery) lists a few. You might recognize names like Preston or Paxton from the streets of Lexington. As you scroll through the database, you will notice that generations of family members are buried in the cemetery. Many of these families intermarried and some still reside in Lexington today. In some cases, the parent-child relationship has been noted in the data. The database has some additional information: veteran status, occupation, and birth/death dates.
 
 Obviously, having this information available online is a tremendous resource, but what else can we learn about connections between the former residents of Lexington if this data was visualized as a network? How could we enhance the biographical information of these people? 
+
+## Evergreen Cemetery
+Did you know Lexington has an African-American cemetery? Do you know where it is? African-American cemeteries are rarely given the same attention and care as primarily white cemeteries. In Lexington's case, they're even [subject to property development and removed from their original neighborhood](http://www.washingtontimes.com/news/2007/sep/29/black-cemetery-doubt-remains/).   
+
+Fortunately, there is some data available on [findagrave.com](https://secure.findagrave.com/cgi-bin/fg.cgi?page=gsr&GScid=50176). But it is not as easily browseable as the Stonewall Jackson Cemetery website and there is no metadata beyond birth date and death year. 
+
+What can you do with this data? Do you think it's complete? Pay a visit to the cemetery to find out. 
+ 
+  
+   
+     
