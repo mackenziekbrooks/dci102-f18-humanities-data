@@ -43,7 +43,7 @@ Graph databases privilege the relationships between units of information. Attrib
 [igraph](http://igraph.org/redirect.html) is a network analysis package for use with R, Python, and C++
 
 ### UCINET
-[UCINET](https://sites.google.com/site/ucinetsoftware/home) is available on Windows only. It is proprietary software, but 90 day trials are available. [Tutorials](https://sites.google.com/site/analyzingsocialnetworks/analyses) are available on the UCINET site. 
+[UCINET](https://sites.google.com/site/ucinetsoftware/home) is available on Windows only. It is proprietary software, but 90 day trials are available. [Tutorials](https://sites.google.com/site/analyzingsocialnetworks/analyses) are available on the UCINET site. Hanneman and Riddle created this [textbook](http://www.faculty.ucr.edu/~hanneman/nettext/) for use with UCINET.
 
 ## Resources
 ### Programming Historian lessons
