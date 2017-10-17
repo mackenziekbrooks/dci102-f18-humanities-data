@@ -180,7 +180,7 @@ _Data cleanup_
 
 ** Read for Thursday:**
 
-* [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
+* [Networks Analysis Fundamentals](http://www.themacroscope.org/?page_id=892)
 * [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
 * [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 * [Putting the Human Back into the Digital Humanities: Feminism, Generosity, and Mess](http://dhdebates.gc.cuny.edu/debates/text/61)
