@@ -1,6 +1,13 @@
 # Unit 2 / Activities
 
-## Activity 1: Open Graph protocol
+## Activity 1: Design a network!
+In order to practice using the terminology and methods of network analysis, let's design a network from scratch.
+1. At your table, select a topic for your network. It should be approachable for all members of your group. Game of Thrones? W&L students? Sports? A novel or TV show? 
+2. List all the nodes in your network. Do they have types? Do they have attributes? Is this a biomodal or multimodal network?
+3. Start making connections or edges in your network. What type of edges do you need? Do the edges have a weight? 
+4. Think about centrality. Do you have an ego network? How might you start calculating centrality? 
+
+## Activity 2: Open Graph protocol
 In this activity, you will semantically enrich your website using Facebook's [Open Graph Protocol](http://ogp.me/). As the site says, Open Graph Protocol "enables any web page to become a rich object in a social graph." When you paste a link into Facebook or Twitter and an image and title show up nicely formatted, this is why.
 1. Create a new HTML page or find one of your HTML pages from the first week in class. 
 2. Create a new directory called "Unit2" in your domain. (Hint, go to File Manager).
@@ -9,7 +16,7 @@ In this activity, you will semantically enrich your website using Facebook's [Op
 5. So let's add some metadata! Visit [http://ogp.me/](http://ogp.me/) and add the basic metadata fields as listed to your HTML file. 
 6. Upload this file to your website, then paste the URL into the Debugger again. What do you see now?
 
-## Activity 2: Data Assessment
+## Activity 3: Data Assessment
 Using Open Refine, explore your data set. In a text file to be turned in with Unit 2 Data, answer the following:
 1. What do the "Text Facet" or "Numeric Facet" features reveal about your data? Are there outliers that need investigation?
 2. Are there columns that should be split or joined? How would you do this in Open Refine (or Excel?) 
@@ -17,21 +24,21 @@ Using Open Refine, explore your data set. In a text file to be turned in with Un
 4. Which columns need to be modified for consistency? (hint: any date field)
 5. Is there research you need to conduct to learn about the people in your data? How will you go about it? 
 
-## Activity 3: Data Generation
+## Activity 4: Data Generation
 * Fill this out [data generation survey](https://docs.google.com/forms/d/e/1FAIpQLSeSBKxh-rv1W8z8vPLdeurrtrN6QAt3QkhXY8plkB4lzAMHOw/viewform?c=0&w=1) to create a simple data set for testing network analysis tools. 
 * Follow Miriam Posner's [tutorial](http://miriamposner.com/blog/a-fun-way-to-introduce-dh-students-to-dataviz/) to convert data to two columns. 
 * Data is available as .csv on Box. 
 * Load data into your chosen app for testing.
 
 
-## Activity 4: Set Your Intentions
+## Activity 5: Set Your Intentions
 * What is my research question or topic?
 * What are the biggest problems I have found with the data? What are realistic solutions?
 * What methods/tools am I interested in using?
 * What resources do I need?
 * What are my next steps? Break them down!
 
-## Activity 5: Documentation 
+## Activity 6: Documentation 
 What makes good documentation? As *Data + Design* [reminds](https://infoactive.co/data-design/ch08.html) us: 
 > "Regardless of how you choose to do it, good documentation of your cleaning procedures ensures that you can always justify why certain data points were removed and others weren’t and that others are able to verify that the data were cleaned competently and correctly."
 
@@ -61,7 +68,7 @@ What makes good documentation? As *Data + Design* [reminds](https://infoactive.c
 * Using your new list of principles, document one of your methods from this unit. It can be something you learned to do in Excel or Open Refine or one of the visualization tools.
 * Post this documentation to your website by Thursday's class. 
 
-## Activity 6: Excel tips
+## Activity 7: Excel tips
 * To open CSV file > Get External Data > From Text > Choose your delimiter
 * To combine cells > =(A2&" "&B2)
 * To fill in whole column, drag down the bottom right corner of the first cell.
@@ -72,7 +79,7 @@ What makes good documentation? As *Data + Design* [reminds](https://infoactive.c
   * Use the filter option to show or hide certain data in your columns.
 * To format dates according to ISO standard, change column type to "Custom," then add in yyyy-mm-dd to the "type field."
 
-## Activity 7: Peer Review
+## Activity 8: Peer Review
 ### Documentation
 * You will receive the link to another classmate's documentation page. Follow their documentation to produce the same result.
 * Take notes on what worked and what didn't work. 
