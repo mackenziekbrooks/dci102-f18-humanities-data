@@ -210,6 +210,19 @@ body {
 .reveal small * {
   vertical-align: top; }
 
+  
+#citation {
+  display: block;
+  position: relative;
+  width: 70%;
+  margin: 20px auto;
+  padding: 5px;
+  font-size:.5em;
+  background: rgba(255, 255, 255, 0.05);
+  border-top: 3px solid black;
+
+}
+
 /*********************************************
  * LINKS
  *********************************************/
