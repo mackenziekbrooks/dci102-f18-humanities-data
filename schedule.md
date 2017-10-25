@@ -159,6 +159,8 @@ _Methodology review_
 * **Assignment: project review due by 2:30pm. Be prepared to share.**
 * Discussion: readings
 * Data set introduction
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day10.html)
+
 
 **For Thursday:**
 
@@ -178,7 +180,6 @@ _Data cleanup_
 
 ** Read for Thursday:**
 
-* [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
 * [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
 * [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 * [Putting the Human Back into the Digital Humanities: Feminism, Generosity, and Mess](http://dhdebates.gc.cuny.edu/debates/text/61)
