@@ -78,7 +78,7 @@ What makes good documentation? As _Data + Design_ [reminds](https://infoactive.c
 * You will receive the link to another classmate's documentation page. Follow their documentation to produce the same result.
 * Take notes on what worked and what didn't work. 
 * Share 1 positive aspect + 1 needs improvement aspect with your partner. 
-* Reference the comments from your peer reviewer in the Documentation assignment for Unit 2.
+
 
 ### Visualization
 
