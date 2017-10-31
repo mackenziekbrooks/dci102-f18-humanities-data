@@ -85,7 +85,7 @@ What makes good documentation? As _Data + Design_ [reminds](https://infoactive.c
 * Spend some time on [HelpMeViz](http://helpmeviz.com) and [Part 4 of Data + Design](https://infoactive.co/data-design/part04.html). Take note of the problems and solutions that both sites present. 
 * Review your classmate's visualization. 
 * Share 1 positive + 1 needs improvement.
-* Reference the comments from your peer reviewer in the Documentation assignment for Unit 2.
+
 
 
 
