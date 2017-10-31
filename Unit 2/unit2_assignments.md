@@ -50,14 +50,15 @@ At the beginning of each unit, you will be handed a messy data set. It is a rare
 Specs:
 
 * Due Tuesday 11/7 by 2:30pm.
-* Submit in a zipped folder via Box.
+* Submit your data set in a zipped folder via Box.
+* Include the data you modified in .csv or .xlsx form.
 * Include a text file titled "data-assessment-DATE.txt" with the results of our in-class activity. 
 * Include a text file titled "data-cleanup-DATE.txt" with a list of the modifications you made to your data set. Those modifications could include:
   * All fields should be standardized to the most appropriate data type \(Date, String, etc.\)
   * Reconcile names to an external authority if possible.
   * Separation into multiple csv files for more specific analysis.
-  * Any approaches for standardizing the content of the fields \(LastName, FirstName or First, Last; separating or combining fields\)
-  * List of cleanup steps taken in OpenRefine or Excel
+  * Any approaches for standardizing the content of the fields \(LastName, FirstName or First, Last; separating or combining fields\).
+  * List of cleanup steps taken in OpenRefine or Excel.
 
 ### Project visualization
 
@@ -67,13 +68,13 @@ Specs:
 
 * Due Tuesday 11/7 by 2:30pm.
 * Embed/publish on your website. 
-* Include 150-200 words on why you selected this visualization. 
+* Include 150-300 words on why you selected this visualization. 
   * What did you learn about your data from this visualization, if anything?
   * What about the methodology worked or didn't work?
   * Are there issues with the data that the visualization illuminates or disguises?
   * Does this method of visualization require you to 
 * Indicate which tool/method you used to produce this visualization. 
-* Reference the comments from your peer reviewer from Activity 7 on 11/3/16.
+* Reference the comments from your peer reviewer.
 
 More resources on visualization:
 
@@ -113,7 +114,6 @@ Specs:
   * What tools did you use to clean and visualize your data? How did you use them? What steps did you follow? 
 * Include screenshots and links when appropriate.
 * Be specific!
-* Reference the comments from your peer reviewer from Activity 7 on 11/3/16.
 
 ### Project reflection
 
