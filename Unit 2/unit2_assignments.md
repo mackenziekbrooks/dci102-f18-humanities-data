@@ -52,7 +52,7 @@ Specs:
 * Due Tuesday 11/7 by 2:30pm.
 * Submit your data set in a zipped folder via Box.
 * Include the data you modified in .csv or .xlsx form.
-* Include a text file titled "data-assessment-DATE.txt" with the results of our in-class activity. 
+* Include a text file titled "data-assessment-DATE.txt" with the results of our in-class activity \(Unit 2 / Activity 3\). 
 * Include a text file titled "data-cleanup-DATE.txt" with a list of the modifications you made to your data set. Those modifications could include:
 
   * All fields should be standardized to the most appropriate data type \(Date, String, etc.\)
@@ -60,6 +60,7 @@ Specs:
   * Separation into multiple csv files for more specific analysis.
 
   * Any approaches for standardizing the content of the fields \(LastName, FirstName or First, Last; separating or combining fields\).
+
   * List of cleanup steps taken in OpenRefine or Excel.
 
 ### Project visualization
@@ -110,9 +111,10 @@ Specs:
 * Due Tuesday 11/7 by 2:30pm
 * Publish to your website.
 * Document a specfic task required to cleanup or visualize your data. 
-* Include 5 or more steps. 
+* Include 5 or more steps.
 
 * Include screenshots and links when appropriate.
+
 * Be specific!
 
 ### Project reflection
