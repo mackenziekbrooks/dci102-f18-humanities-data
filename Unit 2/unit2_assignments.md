@@ -55,7 +55,7 @@ Specs:
 * Include a text file titled "data-assessment-DATE.txt" with the results of our in-class activity. 
 * Include a text file titled "data-cleanup-DATE.txt" with a list of the modifications you made to your data set. Those modifications could include:
   * All fields should be standardized to the most appropriate data type \(Date, String, etc.\)
-  * Reconcile names to an external authority if possible.
+
   * Separation into multiple csv files for more specific analysis.
   * Any approaches for standardizing the content of the fields \(LastName, FirstName or First, Last; separating or combining fields\).
   * List of cleanup steps taken in OpenRefine or Excel.
@@ -67,12 +67,11 @@ Now that you have some experience creating a usable data set - what can you do w
 Specs:
 
 * Due Tuesday 11/7 by 2:30pm.
-* Embed/publish on your website. 
+* Embed/publish 1+ visualization your website. 
 * Include 150-300 words on why you selected this visualization. 
   * What did you learn about your data from this visualization, if anything?
-  * What about the methodology worked or didn't work?
-  * Are there issues with the data that the visualization illuminates or disguises?
-  * Does this method of visualization require you to 
+  * What about the methodology worked or didn't work? 
+  * Are there issues with the data that the visualization illuminates or disguises? 
 * Indicate which tool/method you used to produce this visualization. 
 * Reference the comments from your peer reviewer.
 
