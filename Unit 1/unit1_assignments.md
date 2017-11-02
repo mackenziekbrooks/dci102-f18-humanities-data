@@ -116,8 +116,6 @@ Specs:
 * List 5+ individual steps and reference specific options in the software.
 * Include links and screenshots when appropriate.
 
-
-
 ### Project reflection
 
 The final assignment for this unit a piece of reflective writing. Talk about your feelings. What have you learned? What has been challenging? How has your relationship with technology changed? What would you have done differently? What new strategies will you try in the next unit?
