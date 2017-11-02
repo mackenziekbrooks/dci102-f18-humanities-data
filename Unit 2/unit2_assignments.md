@@ -115,6 +115,8 @@ Specs:
 
 * Include screenshots and links when appropriate.
 
+* Incorporate feedback from your peer reviewer. 
+
 * Be specific!
 
 ### Project reflection
