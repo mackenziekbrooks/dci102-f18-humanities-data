@@ -216,13 +216,15 @@ _Project work_
 _Project work + Documentation_
 
 * Peer review of documentation, visualizations
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day13.html)
+* [Boxnote link](https://wlu.app.box.com/notes/243612555790)
 
 **All Unit 2 assignments due Tuesday 11/7 by 2:30pm.**
 
 ## Unit 3 Space
 
 ### Tuesday, 11/7/17
- 
+
 MEET IN IQ CENTER!
 
 _Methodology review_
@@ -244,6 +246,7 @@ _Methodology review_
 * **Read for Tuesday:**
 
 * [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
+
 * [The Geographic Imagination of Civil War-Era American Fiction](http://muse.jhu.edu/article/527788)
 
 **Unit 3 Methodology Review due Tuesday, 11/14**
