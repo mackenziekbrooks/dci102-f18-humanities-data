@@ -115,7 +115,7 @@ Specs:
 
 * Include screenshots and links when appropriate.
 
-* Incorporate feedback from your peer reviewer. 
+* Incorporate feedback from your peer reviewer.
 
 * Be specific!
 
@@ -146,7 +146,7 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 
 Specs:
 
-* 2 blog posts due Tuesday 11/7 by 8am. \(I recommend spacing them out!\)
+* 2 blog posts due Tuesday 11/7 by 2:30pm. \(I recommend spacing them out!\)
 * Publish to your own domain. 
 * 300-500 words per post.
 * Link to outside articles and embed images \(with citations!\), if relevant.
