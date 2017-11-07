@@ -128,6 +128,7 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 
 * Respond to the [Dear Data project](http://www.dear-data.com/). There are videos to watch! 
 * What novel/movie/or other piece of media would you like to see mapped? Example: [The Map of Middle Earth](http://lotrproject.com/map/#zoom=3&lat=-1315.5&lon=1500&layers=B)
+* How does web mapping affect your chosen discipline? What uses do you see in other classes or your future career? 
 
 Specs:
 
