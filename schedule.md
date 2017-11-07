@@ -243,6 +243,7 @@ _Methodology review_
 _Methodology review_
 
 * Unit 3 planning session
+* Activities 2 & 3 
 * **Read for Tuesday:**
 
 * [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
@@ -255,14 +256,14 @@ _Methodology review_
 
 _Methodology review_
 
-* Methodology review presentations
+* Methodology review discussion
 * Readings discussion
+* Mapping tools sandbox
 
 ### Thursday, 11/16/17
 
-_Tool selection_
+_Data_
 
-* Mapping tools workshop
 * Finding and publishing open data 
 
 ### Thanksgiving break
