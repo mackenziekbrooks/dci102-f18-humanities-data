@@ -265,12 +265,16 @@ _Methodology review_
 _Data_
 
 * Finding and publishing open data 
+* Activity 5
+* Project brainstorming
 
 ### Thanksgiving break
 
 ### Tuesday, 11/28/17
 
-* Data set approval
+_Data_
+
+* Data set/project approval and consults 
 * Data modification
 
 ### Thursday, 11/30/17
@@ -279,7 +283,9 @@ _project work_
 
 ### Tuesday, 12/5/17
 
-_project work_
+_project work + peer review_
+
+* Activity 6
 
 ### Thursday, 12/7/17
 
