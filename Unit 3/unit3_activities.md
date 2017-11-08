@@ -2,6 +2,10 @@
 
 ## Activity 1: Collaborative research
 
+1. In Box, open the Boxnote in ```DH102-f17-data/Unit3_Spatial``` with your table number.
+2. Work as a group to add resources to every category listed below. 
+3. 
+
 Contribute to a collaborative research document on Box.
 
 * Scour our readings + project websites
