@@ -18,10 +18,10 @@ Address the following:
 * Projects
 * Tools
 * Tutorials
-* Places to go for data
-* Places to go for maps
-* Glossary
+* Data sources
+* Map sources
 * Readings
+* Glossary
 
 ## Activity 2: Data assessment
 
