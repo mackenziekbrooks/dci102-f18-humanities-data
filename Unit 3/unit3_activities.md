@@ -7,7 +7,7 @@ Contribute to a collaborative research document on Box. The final document will 
 1. In Box, open the Boxnote in ```DH102-f17-data/Unit3_Spatial``` with your table number.
 2. Phase 1: Gathering. Work as a group to add resources to every category listed below. Add anything you think looks useful. 
 3. Phase 2: Refining. Open the next table's Boxnote and review the findings of the group. If there's a resource that your group also found, copy it to the master document in Box. 
-4. Phase 3: Annotating. 
+4. Phase 3: Annotating. In the ```MasterMappingResearch```, claim 1 resource and 1 glossary term by putting your initials in front of it. Write 1-2 sentence annotation summarizing that resource and arguing for its presence on the list. For example: "This tutorial covers the process of geoprectifying a historical map. It was created as part of a workshop on digital history by a history professor." 
 
 *** 
 
