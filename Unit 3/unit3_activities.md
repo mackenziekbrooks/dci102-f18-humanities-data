@@ -1,12 +1,12 @@
 # Unit 3 / Activities
 
 ## Activity 1: Collaborative research
-Contribute to a collaborative research document on Box.
+Contribute to a collaborative research document on Box. The final document will be added to the course site as reference for completing the Unit 3 project. 
 
 
 1. In Box, open the Boxnote in ```DH102-f17-data/Unit3_Spatial``` with your table number.
 2. Phase 1: Gathering. Work as a group to add resources to every category listed below. Add anything you think looks useful. 
-3. Phase 2: Refining. Open the next table's Boxnote and review the findings of the group. If there's a resource that you also found, copy it to the master document in Box. 
+3. Phase 2: Refining. Open the next table's Boxnote and review the findings of the group. If there's a resource that your group also found, copy it to the master document in Box. 
 4. Phase 3: Annotating. 
 
 *** 
