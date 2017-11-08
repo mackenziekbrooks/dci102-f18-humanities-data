@@ -30,6 +30,7 @@ Projects:
 * [Negro Travelers’ Green Book](http://library.sc.edu/digital/collections/greenbookmap.html)
 * [Black Liberation 1969 Archive](http://blacklib1969.swarthmore.edu/neatline/show/sit-in-map)
 * [Textual Geographies](http://txtgeo.net/)
+* [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/)
 
 ### Project data
 
