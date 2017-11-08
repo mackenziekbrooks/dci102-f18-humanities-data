@@ -243,11 +243,11 @@ _Methodology review_
 _Methodology review_
 
 * Unit 3 planning session
+* Collaborative research
 * Activities 2 & 3 
 * **Read for Tuesday:**
 
 * [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
-
 * [The Geographic Imagination of Civil War-Era American Fiction](http://muse.jhu.edu/article/527788)
 
 **Unit 3 Methodology Review due Tuesday, 11/14**
@@ -257,16 +257,16 @@ _Methodology review_
 _Methodology review_
 
 * Methodology review discussion
-* Readings discussion
-* Mapping tools sandbox
+* Lecture: open data
+* Lab: data assessment  
 
 ### Thursday, 11/16/17
 
 _Data_
 
-* Finding and publishing open data 
+* Readings discussion
 * Activity 5
-* Project brainstorming
+* Mapping tools sandbox
 
 ### Thanksgiving break
 
