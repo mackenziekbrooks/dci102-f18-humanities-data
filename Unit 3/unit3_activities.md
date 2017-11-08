@@ -1,16 +1,6 @@
 # Unit 3 / Activities
 
-## Activity 1: Omeka installation
-
-## Activity 2: Unit 3 planning
-
-Now that we have worked through two units, students will be construct this unit and
-
-* What are the phases of a project? How should we divide them up over the remaining weeks?
-* What data will we/you use?
-* What methodologies and tools do we need?
-
-## Activity 3: Collaborative research
+## Activity 1: Collaborative research
 
 Contribute to a collaborative research document on Box.
 
