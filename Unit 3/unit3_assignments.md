@@ -70,6 +70,10 @@ Specs:
   * Are there issues with the data that the visualization illuminates or disguises?
   * Does this method of visualization require you to modify your data in a particular way?
 * Indicate which tool/method you used to produce this visualization.
+* Your map must contain at least one of the following: 
+  * Historic map layer
+  * 10-20 pins or features
+  * Shapefiles of some kind
 
 ## Advanced Assignments
 
@@ -98,13 +102,11 @@ Specs:
 
 * Due Thursday 12/8/16 by 2:30pm.
 * Publish to your website.
-* Address the following:
-  * What is your data set? Where did it come from? Who owns it? 
-  * What did you do to your data? How did you do it?
-  * What tools did you use to clean and visualize your data? How did you use them? What steps did you follow? 
-  * How did you add the data to your map?
+* Document a specfic task required to cleanup or visualize your data.
+* Include 5 or more steps.
 * Include screenshots and links when appropriate.
-* Be specific!
+* Incorporate feedback from your peer reviewer.
+* sBe specific!
 
 ### Project reflection
 
