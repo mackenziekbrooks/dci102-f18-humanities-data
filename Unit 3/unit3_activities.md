@@ -31,6 +31,13 @@ Categories:
 * Readings
 * Glossary
 
+*** 
+Evaluate:
+* When was it created? 
+* Who created it? Why should we trust them?
+* What tech is required? Mac or PC? Web app or desktop app? 
+* 
+
 ## Activity 2: Data assessment
 
 * What makes this a "humanities" data set?
