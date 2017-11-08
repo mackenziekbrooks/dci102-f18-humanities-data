@@ -19,7 +19,7 @@ Contribute to a collaborative research document on Box.
   * [DH+lib](http://acrl.ala.org/dh/)
   * Digital Humanities Now
   * DH journals
-  * DH centers \(Scholars' Lab, Stanford, etc.\)
+  * DH centers \(Scholars' Lab, Stanford, Richmond, etc.\)
 * Informed Googling
 * Ask your network
 
@@ -30,6 +30,7 @@ Address the following:
 * Tutorials
 * Places to go for data
 * Places to go for maps
+* Glossary
 * Readings
 
 ## Activity 4: Mapping tools
