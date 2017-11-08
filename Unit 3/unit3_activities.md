@@ -36,7 +36,8 @@ Evaluate:
 * When was it created? 
 * Who created it? Why should we trust them?
 * What tech is required? Mac or PC? Web app or desktop app? 
-* 
+* Designed for scholars or business? 
+* Size/scope. Is this a big data set? A long tutorial?
 
 ## Activity 2: Data assessment
 
