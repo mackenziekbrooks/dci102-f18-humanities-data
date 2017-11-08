@@ -59,7 +59,7 @@ Specs:
 
 ### Project visualization
 
-For this unit, your visualization should feature some kind of map. You can use a modern or historical map. Your map can be created from existing data, or you can create a new set of data to layer on to a map. Your data must contain some kind of spatial element.
+For this unit, your visualization should feature some kind of map. You can use a modern or historical map. Your map can be created from existing data, or you can create a new set of data to layer on to a map. Ideally, your map should be driven by or created from the data. However, if you create a data set from scratch, then you are free to make a narrative-driven map. 
 
 Specs:
 
