@@ -244,7 +244,7 @@ _Methodology review_
 
 * Unit 3 planning session
 * Collaborative research
-* Activities 2 & 3 
+* Activities # 
 
 **Read for Tuesday:**
 * [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
