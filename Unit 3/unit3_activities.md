@@ -23,7 +23,17 @@ Address the following:
 * Glossary
 * Readings
 
-## Activity 4: Mapping tools
+## Activity 2: Data assessment
+
+* What makes this a "humanities" data set?
+* What is the source of your data? Do you have the correct permissions/rights to use it?
+* What is the spatial component to your data set?
+* What format is your data in?
+* What about your data might need to be cleaned or adjusted for visualization?
+* Do you have a mapping/visualization tool in mind?
+
+
+## Activity 3: Mapping tools
 
 At your tables, explore some mapping tools (TBD) and address the following questions:
 
@@ -34,16 +44,8 @@ At your tables, explore some mapping tools (TBD) and address the following quest
 * Where is the map coming from?
 * Who created this tool?
 
-## Activity 5: Data assessment
 
-* What makes this a "humanities" data set?
-* What is the source of your data? Do you have the correct permissions/rights to use it?
-* What is the spatial component to your data set?
-* What format is your data in?
-* What about your data might need to be cleaned or adjusted for visualization?
-* Do you have a mapping/visualization tool in mind?
-
-## Activity 6: Challenge peer review
+## Activity 4: Challenge peer review
 
 * Spend 5 minutes brainstorming your biggest challenge for your mapping project. The challenge should be an unsolved question about your technical strategy or intellectual direction, not just the usual time/effort constraints.
 * Share your challenge with the table. Your classmates are charged with helping you brainstorm possible solutions. 
