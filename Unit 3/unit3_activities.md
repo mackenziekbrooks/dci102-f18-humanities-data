@@ -15,6 +15,7 @@ Contribute to a collaborative research document on Box.
   * DH journals
   * DH centers \(Scholars' Lab, Stanford, Richmond, etc.\)
 * Informed Googling
+* Use info from other courses/experiences
 * Ask your network
 
 Address the following:
