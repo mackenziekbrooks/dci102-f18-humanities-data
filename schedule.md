@@ -242,9 +242,10 @@ _Methodology review_
 
 _Methodology review_
 
-* Unit 3 planning session
+* Unit 3 planning/prep
 * Collaborative research
-* Activities # 
+* Activity 1 
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day14)
 
 **Read for Tuesday:**
 * [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
