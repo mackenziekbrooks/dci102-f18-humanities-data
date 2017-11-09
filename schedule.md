@@ -245,9 +245,10 @@ _Methodology review_
 * Unit 3 planning/prep
 * Collaborative research
 * Activity 1 
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day14)
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day14.html)
 
 **Read for Tuesday:**
+
 * [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
 * [The Geographic Imagination of Civil War-Era American Fiction](http://muse.jhu.edu/article/527788)
 
@@ -262,8 +263,6 @@ _Methodology review_
 * Lab: data assessment  
 
 **Read for Thursday:**
-
-
 
 ### Thursday, 11/16/17
 
