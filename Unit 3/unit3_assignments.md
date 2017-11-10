@@ -4,7 +4,7 @@
 
 ### Methodology Review
 
-To familiarize yourself with the various methodologies in the DH world, please conduct a review of one DH project. You may select from the list below or find a project of your choosing \(subject to professor approval\), as long as it uses textual data as its source.
+To familiarize yourself with the various methodologies in the DH world, please conduct a review of one DH project. You may select from the list below or find a project of your choosing \(subject to professor approval\), as long as it uses spatial data as its source.
 
 Specs:
 
