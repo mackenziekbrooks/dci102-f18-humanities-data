@@ -18,7 +18,7 @@ Specs:
   * Who are authors? What are their affiliations and roles? Have they received external funding? Are students involved? 
   * Tell me about the data. Where did it come from? How has it been cleaned, modified, or enhanced? 
   * What established standards \(technical or otherwise\) does the project data use? 
-  * What network analysis methods are at play? What tools are being used? Does the methodology seem appropriate to the data and goals?
+  * What mapping/GIS  methods are at play? What tools are being used? Does the methodology seem appropriate to the data and goals?
   * Consider the design of the project. What aspects of the project does the design privilege? How does the design affect your understanding of the material? 
   * How open is the project? Do they share their data? In what format? Is there public documentation?
 
@@ -59,7 +59,7 @@ Specs:
 
 ### Project visualization
 
-For this unit, your visualization should feature some kind of map. You can use a modern or historical map. Your map can be created from existing data, or you can create a new set of data to layer on to a map. Ideally, your map should be driven by or created from the data. However, if you create a data set from scratch, then you are free to make a narrative-driven map. 
+For this unit, your visualization should feature some kind of map. You can use a modern or historical map. Your map can be created from existing data, or you can create a new set of data to layer on to a map. Ideally, your map should be driven by or created from the data. However, if you create a data set from scratch, then you are free to make a narrative-driven map.
 
 Specs:
 
