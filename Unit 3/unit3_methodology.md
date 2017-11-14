@@ -37,7 +37,8 @@ Students will have the option of working with existing data sets from this cours
 ## Tools
 * CARTO: mapping events over time https://carto.com
 * QGIS: http://www.qgis.org/en/site/ (CG) - As Ben Gorham mentioned on Tuesday, qGIS is essentially the free version of arcGIS. It's an opensource download, and so it has lots of helpful tools that are constantly evolving. 
-* Neatline:     http://neatline.org/
+* [Neatline](http://neatline.org/)
+* [MapWarper](http://mapwarper.net/)
 
 ## Tutorials
 * [http://www.ttdatavis.onthinktanks.org/how-tos/how-toanimate-a-map-to-see-changes-over-time-using-cartodb](http://www.ttdatavis.onthinktanks.org/how-tos/how-toanimate-a-map-to-see-changes-over-time-using-cartodb)
