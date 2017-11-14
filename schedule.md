@@ -261,6 +261,7 @@ _Methodology review_
 * Methodology review discussion
 * Lecture: open data
 * Lab: data assessment  
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day15.html)
 
 **Read for Thursday:**
 
