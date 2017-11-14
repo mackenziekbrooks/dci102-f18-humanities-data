@@ -23,7 +23,7 @@ Students will have the option of working with existing data sets from this cours
 * https://dhsprogram.com/
 * [US census bureau](https://www.census.gov/programs-surveys/ahs/data/interactive/ahstablecreator.html#?s_areas=a19100&s_year=m2015&s_tableName=Table1&s_byGroup1=a5&s_byGroup2=a1&s_filterGroup1=t1&s_filterGroup2=g1) 
 * [EU Commission](http://ec.europa.eu/eurostat/tgm_comp/table.do?tab=table&plugin=1&language=en&pcode=comp_sa_01)
-*https://www.unicef.org/reports
+* https://www.unicef.org/reports
 
 
 ## Map sources
