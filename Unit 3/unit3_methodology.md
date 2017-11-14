@@ -44,12 +44,7 @@ Students will have the option of working with existing data sets from this cours
 ## Tutorials
 * [http://www.ttdatavis.onthinktanks.org/how-tos/how-toanimate-a-map-to-see-changes-over-time-using-cartodb](http://www.ttdatavis.onthinktanks.org/how-tos/how-toanimate-a-map-to-see-changes-over-time-using-cartodb)
 * [Big Data Mapping: Modern Tools for Geographic Analysis and Visualization](https://www.youtube.com/watch?v=IfZ6GINpQTo)
-
-    https://www.youtube.com/watch?v=Coj0mnhuCJE
-
-    https://www.youtube.com/watch?v=NMtUbiRMOXk
-
-    https://www.youtube.com/watch?v=cTL232RWDCY
+* [Mapping Barcelona with big data from Twitter](https://www.youtube.com/watch?v=cTL232RWDC)
 
 
 ## Projects
