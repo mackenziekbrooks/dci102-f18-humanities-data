@@ -60,6 +60,7 @@ Students will have the option of working with existing data sets from this cours
 * https://programminghistorian.org/lessons/georeferencing-qgis
 * http://miriamposner.com/dh101f15/index.php/tutorials-and-resources/mapping/
 * https://programminghistorian.org/lessons/geoparsing-text-with-edinburgh
+* https://geospatialhistorian.wordpress.com/lessons/
 
 ## Projects
 * [http://www.geocodedart.com/imgdetail.php?imgid=947&artistid=156](http://www.geocodedart.com/imgdetail.php?imgid=947&artistid=156)
