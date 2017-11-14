@@ -24,7 +24,13 @@ Students will have the option of working with existing data sets from this cours
 * [US census bureau](https://www.census.gov/programs-surveys/ahs/data/interactive/ahstablecreator.html#?s_areas=a19100&s_year=m2015&s_tableName=Table1&s_byGroup1=a5&s_byGroup2=a1&s_filterGroup1=t1&s_filterGroup2=g1) 
 * [EU Commission](http://ec.europa.eu/eurostat/tgm_comp/table.do?tab=table&plugin=1&language=en&pcode=comp_sa_01)
 * https://www.unicef.org/reports
-
+* http://open.canada.ca/en/search/inventory
+* http://dataportals.org
+* http://data.europa.eu/euodp/en/data/
+* https://www.unicef.org/reports
+* http://anterotesis.com/wordpress/mapping-resources/dh-gis-projects/
+* https://www.europeana.eu/portal/en
+* https://github.com/caesar0301/awesome-public-datasets
 
 ## Map sources
 * http://www.arcgis.com/home/index.html 
@@ -32,6 +38,8 @@ Students will have the option of working with existing data sets from this cours
 * https://public.tableau.com/s/download
 * http://diymaps.net/
 * https://mapme.com/
+* https://geodacenter.github.io/data-and-lab//
+* http://worldmap.harvard.edu/africamap/
 
 
 ## Tools
