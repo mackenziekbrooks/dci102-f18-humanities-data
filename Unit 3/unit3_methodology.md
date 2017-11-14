@@ -17,7 +17,14 @@ Students will have the option of working with existing data sets from this cours
 
 
 ## Data
-* https://geodacenter.github.io/data-and-lab// - List of different data sets that could be used to develop a project. It is kind of helpful, however, most of the data sets are more social science oriented. They are also very large data sets, but they are available for download. It's worth looking at.
+* https://geodacenter.github.io/data-and-lab// - List of different data sets that could be used to develop a project. It is kind of helpful, however, most of the data sets are more social science oriented. They are also very large data sets, but they are available for download. It's worth looking at. (LA)
+* https://www.data.gov/ - The home of the U.S. Government’s open data. Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more. (HC)
+* http://www.icpsr.umich.edu/icpsrweb/index.jsp
+* https://dhsprogram.com/
+* [US census bureau](https://www.census.gov/programs-surveys/ahs/data/interactive/ahstablecreator.html#?s_areas=a19100&s_year=m2015&s_tableName=Table1&s_byGroup1=a5&s_byGroup2=a1&s_filterGroup1=t1&s_filterGroup2=g1) 
+* [EU Commission](http://ec.europa.eu/eurostat/tgm_comp/table.do?tab=table&plugin=1&language=en&pcode=comp_sa_01)
+*https://www.unicef.org/reports
+
 
 ## Map sources
 
