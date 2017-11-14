@@ -51,7 +51,7 @@ Students will have the option of working with existing data sets from this cours
 
 ## Readings
 * https://sandbox.idre.ucla.edu/sandbox/basics-of-mapping-for-the-digital-humanities
-* 
+* [We Mapped It So You Don't Have To](http://crln.acrl.org/index.php/crlnews/article/view/16772/18314)
 
 ## Glossary
 * LiDAR (CG)
