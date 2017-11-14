@@ -17,7 +17,7 @@ Students will have the option of working with existing data sets from this cours
 
 
 ## Data
-* https://geodacenter.github.io/data-and-lab//
+* https://geodacenter.github.io/data-and-lab// - List of different data sets that could be used to develop a project. It is kind of helpful, however, most of the data sets are more social science oriented. They are also very large data sets, but they are available for download. It's worth looking at.
 
 ## Map sources
 
