@@ -107,7 +107,7 @@ Specs:
 * Include 5 or more steps.
 * Include screenshots and links when appropriate.
 * Incorporate feedback from your peer reviewer.
-* sBe specific!
+* Be specific!
 
 ### Project reflection
 
