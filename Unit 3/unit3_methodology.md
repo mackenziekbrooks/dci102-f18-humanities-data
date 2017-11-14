@@ -39,10 +39,17 @@ Students will have the option of working with existing data sets from this cours
 * QGIS: http://www.qgis.org/en/site/ (CG) - As Ben Gorham mentioned on Tuesday, qGIS is essentially the free version of arcGIS. It's an opensource download, and so it has lots of helpful tools that are constantly evolving. 
 * [Neatline](http://neatline.org/)
 * [MapWarper](http://mapwarper.net/)
+* [Whitebox Geospatial](https://whiteboxgeospatial.wordpress.com/download/) (needs Java)
 
 ## Tutorials
 * [http://www.ttdatavis.onthinktanks.org/how-tos/how-toanimate-a-map-to-see-changes-over-time-using-cartodb](http://www.ttdatavis.onthinktanks.org/how-tos/how-toanimate-a-map-to-see-changes-over-time-using-cartodb)
+* [Big Data Mapping: Modern Tools for Geographic Analysis and Visualization](https://www.youtube.com/watch?v=IfZ6GINpQTo)
 
+    https://www.youtube.com/watch?v=Coj0mnhuCJE
+
+    https://www.youtube.com/watch?v=NMtUbiRMOXk
+
+    https://www.youtube.com/watch?v=cTL232RWDCY
 
 
 ## Projects
