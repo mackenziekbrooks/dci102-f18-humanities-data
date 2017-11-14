@@ -272,8 +272,7 @@ _Methodology review + Data_
 _Methodology review + Data_
 
 * Readings discussion
-* Activity 5
-* Mapping tools sandbox
+* Activity 3: Mapping tools sandbox
 
 ### Thanksgiving break
 
