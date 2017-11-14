@@ -15,23 +15,25 @@ Students will have the option of working with existing data sets from this cours
   * Shapefiles \(.shp, .shx, .dbf\) mostly open standard by ESRI \(Environmental Systems Research Institute\)
   * GeoJSON = shapes + geocoordinates
 
+
+
 ## Open data aggregators
-
-
 
 ## Data licensing
 
-
-
 ## Map sources
 
-
-
-## Platforms
+## Tools
+* CARTO: mapping events over time https://carto.com
+* QGIS: http://www.qgis.org/en/site/ (CG) - As Ben Gorham mentioned on Tuesday, qGIS is essentially the free version of arcGIS. It's an opensource download, and so it has lots of helpful tools that are constantly evolving. 
 
 ## Tutorials
 
+## Projects
 
+* [http://www.geocodedart.com/imgdetail.php?imgid=947&artistid=156](http://www.geocodedart.com/imgdetail.php?imgid=947&artistid=156)
+* [http://www.brown.edu/Research/AAAH/map.htm](http://www.brown.edu/Research/AAAH/map.htm)
+* [https://booth.lse.ac.uk/map/14/-0.1174/51.5064/83/0](https://booth.lse.ac.uk/map/14/-0.1174/51.5064/83/0)
 
 
 
