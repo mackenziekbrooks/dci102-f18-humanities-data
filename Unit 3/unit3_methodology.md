@@ -35,7 +35,7 @@ Students will have the option of working with existing data sets from this cours
 
 ## Tutorials
 * [http://www.ttdatavis.onthinktanks.org/how-tos/how-toanimate-a-map-to-see-changes-over-time-using-cartodb](http://www.ttdatavis.onthinktanks.org/how-tos/how-toanimate-a-map-to-see-changes-over-time-using-cartodb)
-
+* https://geospatialhistorian.wordpress.com/lessons/
 
 
 ## Projects
