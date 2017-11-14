@@ -256,7 +256,7 @@ _Methodology review_
 
 ### Tuesday, 11/14/17
 
-_Methodology review_
+_Methodology review + Data_
 
 * Methodology review discussion
 * Lecture: open data
@@ -264,10 +264,12 @@ _Methodology review_
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day15.html)
 
 **Read for Thursday:**
+* [We Mapped It So You Don't Have To](http://crln.acrl.org/index.php/crlnews/article/view/16772/18314)
+
 
 ### Thursday, 11/16/17
 
-_Data_
+_Methodology review + Data_
 
 * Readings discussion
 * Activity 5
@@ -277,10 +279,10 @@ _Data_
 
 ### Tuesday, 11/28/17
 
-_Data_
+_Methodology review + Data_
 
 * Data set/project approval and consults 
-* Data modification
+
 
 ### Thursday, 11/30/17
 
