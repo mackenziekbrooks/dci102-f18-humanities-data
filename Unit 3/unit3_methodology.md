@@ -27,6 +27,12 @@ Students will have the option of working with existing data sets from this cours
 
 
 ## Map sources
+* http://www.arcgis.com/home/index.html 
+* http://gisgeography.com/best-free-gis-data-sources-raster-vector/
+* https://public.tableau.com/s/download
+* http://diymaps.net/
+* https://mapme.com/
+
 
 ## Tools
 * CARTO: mapping events over time https://carto.com
@@ -39,10 +45,33 @@ Students will have the option of working with existing data sets from this cours
 
 
 ## Projects
-
 * [http://www.geocodedart.com/imgdetail.php?imgid=947&artistid=156](http://www.geocodedart.com/imgdetail.php?imgid=947&artistid=156)
 * [http://www.brown.edu/Research/AAAH/map.htm](http://www.brown.edu/Research/AAAH/map.htm)
 * [https://booth.lse.ac.uk/map/14/-0.1174/51.5064/83/0](https://booth.lse.ac.uk/map/14/-0.1174/51.5064/83/0)
 
+## Readings
+* https://sandbox.idre.ucla.edu/sandbox/basics-of-mapping-for-the-digital-humanities
+* 
+
+## Glossary
+* LiDAR (CG)
+  * LiDAR stands for Light Detection and Ranging. According to the National Ocean Service webiste, LiDAR is " is a remote sensing method that uses light in the form of a pulsed laser to measure ranges (variable distances) to the Earth."
+
+* http://miriamposner.com/dh101f15/index.php/key-terms/
+* https://folgerpedia.folger.edu/Glossary_of_digital_humanities_terms
+* http://digitalhumanities.blogs.rice.edu/files/2013/03/GIS-DHWorkshop7Mar13.pdf
+
+* **Map tile**: separate images that together compose a web map
+* **Data layer**: the separation of map data into discrete layers (which can be turned off and on)
+* **GIS** : system designed to capture, store, manipulate, analyze, manage, and present all types of spacial or geographical data
+* **Spatial autocorrelation**: measure of the degree in which spatial features and their data values tend to be clustered together or dispersed
+
+    Geospatial Analysis: performing detailed analysis regarding the spatial relationships between datasets
+
+    Features: graphic spatial representation of real-world physical features LA
+
+    Real world features, such as trees and buildings, represented digitally
+
+    Attributes: non-spatial data describing the features
 
 
