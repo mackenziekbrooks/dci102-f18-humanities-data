@@ -8,7 +8,7 @@ To familiarize yourself with the various methodologies in the DH world, please c
 
 Specs:
 
-* Due Thursday 11/14/17 by 2:30pm.
+* Due Tuesday 11/14/17 by 2:30pm.
 * 300-500 words. 
 * Submit via your Box folder. 
 * Be prepared to share your review in class. 
