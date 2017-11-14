@@ -53,7 +53,13 @@ Students will have the option of working with existing data sets from this cours
 * [http://www.ttdatavis.onthinktanks.org/how-tos/how-toanimate-a-map-to-see-changes-over-time-using-cartodb](http://www.ttdatavis.onthinktanks.org/how-tos/how-toanimate-a-map-to-see-changes-over-time-using-cartodb)
 * [Big Data Mapping: Modern Tools for Geographic Analysis and Visualization](https://www.youtube.com/watch?v=IfZ6GINpQTo)
 * [Mapping Barcelona with big data from Twitter](https://www.youtube.com/watch?v=cTL232RWDC)
-
+* https://sandbox.idre.ucla.edu/sandbox/basics-of-mapping-for-the-digital-humanities
+* https://programminghistorian.org/lessons/geocoding-qgis
+* https://programminghistorian.org/lessons/qgis-layers
+* https://programminghistorian.org/lessons/vector-layers-qgis
+* https://programminghistorian.org/lessons/georeferencing-qgis
+* http://miriamposner.com/dh101f15/index.php/tutorials-and-resources/mapping/
+* https://programminghistorian.org/lessons/geoparsing-text-with-edinburgh
 
 ## Projects
 * [http://www.geocodedart.com/imgdetail.php?imgid=947&artistid=156](http://www.geocodedart.com/imgdetail.php?imgid=947&artistid=156)
