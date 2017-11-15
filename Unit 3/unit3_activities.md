@@ -51,14 +51,18 @@ Evaluate:
 
 ## Activity 3: Mapping tools
 
-At your tables, explore some mapping tools (TBD) and address the following questions:
+1. At your tables, explore some mapping tools (TBD) and address the following questions. 
+2. Add your responses to the shared Boxnote ```MasterMappingResearch```
 
-* What can I do?
-* What data does it accept?
-* Can I add a historical map?
-* How do I add vector layers?
-* Where is the map coming from?
-* Who created this tool?
+* Who created this tool? Is it open source?
+* How do I use it? Browser or download? OS preference?
+* How do I add data? What formats does it accept? 
+* How do I add layers? 
+* How do I add shapes or pins? 
+* Can I add a historical map? How? 
+* Where is the basemap from? (Google, OpenStreetMap, etc.)
+* What type of mapping project would suit this tool? 
+* Can you find the documentation? Other tutorials? 
 
 
 ## Activity 4: Challenge peer review
