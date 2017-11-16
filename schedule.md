@@ -273,6 +273,7 @@ _Methodology review + Data_
 
 * Readings discussion
 * Activity 3: Mapping tools sandbox
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day16.html)
 
 ### Thanksgiving break
 
