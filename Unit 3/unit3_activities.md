@@ -54,6 +54,7 @@ Evaluate:
 1. At your tables, explore some mapping tools (TBD) and address the following questions. 
 2. Add your responses to the shared Boxnote ```MasterMappingResearch```
 
+
 * Who created this tool? Is it open source?
 * How do I use it? Browser or download? OS preference?
 * How do I add data? What formats does it accept? 
