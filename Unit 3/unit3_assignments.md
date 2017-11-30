@@ -66,7 +66,7 @@ Specs:
 
 * Due Thursday 12/8 by 2:30pm.
 * Embed/publish on your website. 
-* Include 150-200 words on why you selected this visualization. 
+* Include 150-300 words on why you selected this visualization. 
   * What did you learn about your data from this visualization, if anything?
   * What about the methodology worked or didn't work?
   * Are there issues with the data that the visualization illuminates or disguises?
