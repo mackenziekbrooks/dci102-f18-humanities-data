@@ -56,6 +56,7 @@ Specs:
   * Any adjustments you made to the mapping platform \(ex: changing the base map in Neatline\).
 * Include a text file title "data-license-DATE.txt" that includes the following:
   * Use [Open Data Commons](opendatacommons.org) to help you select an appropriate license for your data set. 
+  * If using an existing data set, refer to their license.
 
 ### Project visualization
 
