@@ -264,8 +264,8 @@ _Methodology review + Data_
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day15.html)
 
 **Read for Thursday:**
-* [We Mapped It So You Don't Have To](http://crln.acrl.org/index.php/crlnews/article/view/16772/18314)
 
+* [We Mapped It So You Don't Have To](http://crln.acrl.org/index.php/crlnews/article/view/16772/18314)
 
 ### Thursday, 11/16/17
 
@@ -283,16 +283,17 @@ _Methodology review + Data_
 
 * Data set/project approval and consults 
 
-
 ### Thursday, 11/30/17
 
 _project work_
+
+**For Tuesday: Prepare for peer review by embedding your map onto your website and posting your project narrative.**
 
 ### Tuesday, 12/5/17
 
 _project work + peer review_
 
-* Activity 6
+* Activity 4
 
 ### Thursday, 12/7/17
 
