@@ -294,6 +294,7 @@ _project work_
 _project work + peer review_
 
 * Activity 4
+* course evals
 
 ### Thursday, 12/7/17
 
