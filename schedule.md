@@ -287,6 +287,8 @@ _Methodology review + Data_
 
 _project work_
 
+* [_Slides_](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day18.html)
+
 **For Tuesday: Prepare for peer review by embedding your map onto your website and posting your project narrative.**
 
 ### Tuesday, 12/5/17
