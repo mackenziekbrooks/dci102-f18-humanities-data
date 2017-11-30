@@ -107,7 +107,7 @@ Specs:
 * Document a specfic task required to cleanup or visualize your data.
 * Include 5 or more steps.
 * Include screenshots and links when appropriate.
-* Incorporate feedback from your peer reviewer.
+
 * Be specific!
 
 ### Project reflection
