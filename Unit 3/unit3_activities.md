@@ -75,5 +75,11 @@ Evaluate:
 * Table 3:
 * Table 4: 
 
-1. 
+1. This peer review activity is focused on your project narrative and corresponding map.
+2. Read your partner's project narrative and take time to explore their map. 
+3. Consider the following 
+  * Is the narrative well-articulated? Can you find the research questions? 
+  * Does the map work - both technically and conceptually? 
+  * If you've used that platform, do you have any tips? 
+4. Share your findings with your partner. 
 
