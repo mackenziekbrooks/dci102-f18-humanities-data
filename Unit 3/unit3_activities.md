@@ -70,7 +70,16 @@ Evaluate:
 ## Activity 4: Peer review
 
 **Seating**
-* 
+* Arlette + Madyson
+* Luke B. + Jonathan 
+* Teresa + Lourdes
+* Luke P. + Dani
+* Julia + Sam
+* Catherine + Ana
+* Colby + Hugh
+* Grey + Megan 
+* Gareth + Zainab
+
 
 1. This peer review activity is focused on your project narrative and corresponding map.
 2. Read your partner's project narrative and take time to explore their map. 
