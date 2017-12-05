@@ -70,16 +70,13 @@ Evaluate:
 ## Activity 4: Peer review
 
 **Seating**
-* Table 1: 
-* Table 2: 
-* Table 3:
-* Table 4: 
+* 
 
 1. This peer review activity is focused on your project narrative and corresponding map.
 2. Read your partner's project narrative and take time to explore their map. 
 3. Consider the following 
-  * Is the narrative well-articulated? Can you find the research questions? 
-  * Does the map work - both technically and conceptually? 
+  * Is the narrative well-articulated? Can you find the research questions? What discipline are they coming from?
+  * Does the map work - both technically and conceptually? Has your partner used their chosen platform to its full potential to answer their research questions?
   * If you've used that platform, do you have any tips? 
 4. Share your findings with your partner. 
 
