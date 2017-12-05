@@ -122,6 +122,7 @@ Specs:
 * Address the following: 
   * What have you learned?
   * What has been challenging? 
+  * What did you learn from the peer review activity \#4? 
   * How has your relationship with technology changed? What about your conception of data? Mapping?
   * What would you have done differently? 
   * What was your biggest achievement in this course?
