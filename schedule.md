@@ -1,4 +1,4 @@
-# Schedule
+# 8Schedule
 
 ## Unit 1 / Text
 
@@ -223,7 +223,7 @@ _Project work + Documentation_
 
 ## Unit 3 Space
 
-### Tuesday, 11/7/17
+### Tuesday, 11/6/18
 
 MEET IN IQ CENTER!
 
@@ -238,7 +238,7 @@ _Methodology review_
 * [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id)
 * [Visualizing the Railway Space in Fontane’s Effi Briest](http://transit.berkeley.edu/2016/youngman-et-al/)
 
-### Thursday, 11/9/17
+### Thursday, 11/8/183
 
 _Methodology review_
 
@@ -254,7 +254,7 @@ _Methodology review_
 
 **Unit 3 Methodology Review due Tuesday, 11/14**
 
-### Tuesday, 11/14/17
+### Tuesday, 11/13/18
 
 _Methodology review + Data_
 
@@ -267,7 +267,7 @@ _Methodology review + Data_
 
 * [We Mapped It So You Don't Have To](http://crln.acrl.org/index.php/crlnews/article/view/16772/18314)
 
-### Thursday, 11/16/17
+### Thursday, 11/15/18
 
 _Methodology review + Data_
 
@@ -277,13 +277,13 @@ _Methodology review + Data_
 
 ### Thanksgiving break
 
-### Tuesday, 11/28/17
+### Tuesday, 11/27/18
 
 _Methodology review + Data_
 
 * Data set/project approval and consults 
 
-### Thursday, 11/30/17
+### Thursday, 11/29/18
 
 _project work_
 
@@ -291,14 +291,14 @@ _project work_
 
 **For Tuesday: Prepare for peer review by embedding your map onto your website and posting your project narrative.**
 
-### Tuesday, 12/5/17
+### Tuesday, 12/4/18
 
 _project work + peer review_
 
 * Activity 4
 * course evals
 
-### Thursday, 12/7/17
+### Thursday, 12/6/18
 
 _wrap up_
 
