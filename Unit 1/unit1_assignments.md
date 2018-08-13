@@ -1,26 +1,27 @@
 # Unit 1 / Text / Assignments
 
-## Core Assignments
-
 ### Methodology Review
 
-To familiarize yourself with the various methodologies in the DH world, please conduct a review of one DH project. You may select from the list below or find a project of your choosing \(subject to professor approval\), as long as it uses textual data as its source.
+To familiarize yourself with the various methodologies in the DH world, please conduct a review of one DH project. You may select from the list below or find a project of your choosing \(subject to professor approval\), as long as it uses textual data as its source. Be prepared to share your review in class. Due DATE TIME. 
 
-Specs:
-
-* Due Thursday, 9/21 by 2:30pm 
-* 300-500 words. 
-* Submit via your Box folder. 
-* Be prepared to share your review in class. 
-* Do not quote extensively from the project website. Summarize in your own words.
-* Address the following questions:
-  * What is the goal of this project? Are there guiding research questions?
-  * Who are authors? What are their affiliations and roles? Have they received external funding? Are students involved? 
-  * Tell me about the data. Where did it come from? How has it been cleaned, modified, or enhanced? 
-  * What established standards \(technical or otherwise\) does the project data use? 
-  * What text analysis methods are at play? What tools are being used? Does the methodology seem appropriate to the data and goals?
-  * Consider the design of the project. What aspects of the project does the design privilege? How does the design affect your understanding of the material? 
-  * How open is the project? Do they share their data? In what format? Is there public documentation?
+* 1 point for assignment delivery: 
+  * on time
+  * 300-500 words
+  * Appropriate file name (no spaces, includes your last name and the date).
+  * Saved to your Box folder.
+* 1 point for absence of major typos, grammatical errors, and unclear writing.
+* 1 point for summarizing the following:
+	* What is the goal of this project? Are there guiding research questions?
+	* Who are authors? What are their affiliations and roles? Have they received external funding? Are students involved?
+* 1 point for describing the following: 
+	* Tell me about the data. Where did it come from? How has it been cleaned, modified, or enhanced? How can you tell?
+	* What established standards \(technical or otherwise\) does the project data use?
+	* What text analysis methods are at play? What tools are being used?
+	* How open is the project? Do they share their data? In what format? Is there public documentation?
+* 1 point for analyzing the following:
+	* Does the methodology seem appropriate to the data and goals?
+	* Consider the design of the project. What aspects of the project does the design privilege? How does the design affect your understanding of the material? 
+	
 
 Projects:
 
