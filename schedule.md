@@ -1,6 +1,6 @@
 # Schedule
 
-## Unit 1 / Text
+# Unit 1 / Text
 
 ### Thursday, 9/6/18
 
