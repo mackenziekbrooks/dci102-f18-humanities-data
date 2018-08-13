@@ -1,13 +1,8 @@
-
----
-
----
-
 # Schedule
 
 ## Unit 1 / Text
 
-### Thursday, 9/7/17
+### Thursday, 9/6/18
 
 * Introductions and course overview
 * Getting to know you [survey](https://goo.gl/forms/QtYLXmZntTnaGV6I3)
@@ -23,7 +18,7 @@
 * [What is Data?](http://schoolofdata.org/handbook/courses/what-is-data/)
 * [Defining Data for Humanists: Text, Artifact, Information or Evidence?](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
 
-### Tuesday, 9/12/17
+### Tuesday, 9/11/18
 
 * Discussion: readings
 * Lecture: How the internet works
@@ -39,7 +34,7 @@
 * Review [Introduction to Windows Command Line with Powershell](https://programminghistorian.org/lessons/intro-to-powershell) \(Windows people\)
 * Review [Introduction to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash) \(Mac people\)
 
-### Thursday, 9/14/17
+### Thursday, 9/13/18
 
 * Readings discussion
 * Lab: HTML/CSS cont.
@@ -52,7 +47,7 @@
   * read the Intro, Issues in Text Analysis, and Close Reading.
 * install Python \(see handout in Unit 0 folder in Box\)
 
-### Tuesday, 9/19/17
+### Tuesday, 9/18/18
 
 _Methodology review_
 
@@ -69,7 +64,7 @@ _Methodology review_
 
 * Unit 1 Methodology Review
 
-### Thursday, 9/21/17
+### Thursday, 9/20/18
 
 _Data introduction_
 
@@ -84,7 +79,7 @@ _Data introduction_
 * [Beginning with Regular Expressions](https://recompilermag.com/issues/issue-0/beginning-with-regular-expressions/)
 * [Cleaning OCR'd text with regular expressions](http://programminghistorian.org/lessons/cleaning-ocrd-text-with-regular-expressions)
 
-### Tuesday, 9/26/17
+### Tuesday, 9/25/18
 
 _Data cleanup_
 
@@ -104,7 +99,7 @@ _Data cleanup_
 
 * Read: [Argument Clinic](http://scottbot.net/argument-clinic/)
 
-### Thursday, 9/28/17
+### Thursday, 9/27/18
 
 _Data clean up + project work_
 
@@ -116,7 +111,7 @@ _Data clean up + project work_
 
 * [The Historian's Macroscope](http://www.themacroscope.org/?page_id=837), "Making Your Data Legible" through "Making an Effective Visualization." \(Don't worry about implementing all these suggestions, we will continue to work with visualizations in the next two units.\)
 
-### Tuesday, 10/3/17
+### Tuesday, 10/2/18
 
 Da_ata viz + project work_
 
@@ -127,7 +122,7 @@ Da_ata viz + project work_
 
 * [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 
-### Thursday, 10/5/16
+### Thursday, 10/4/18
 
 _Project work + documentation_
 
@@ -139,7 +134,7 @@ _Project work + documentation_
 
 ## Unit 2 Network
 
-### Tuesday, 10/10/17
+### Tuesday, 10/9/18
 
 _Methodology review_
 
@@ -152,11 +147,11 @@ _Methodology review_
 * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
 * [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
 
-### X Thursday, 10/12/17
+### X Thursday, 10/11/18
 
 No class, reading days
 
-### Tuesday, 10/17/17
+### Tuesday, 10/16/18
 
 _Methodology review_
 
@@ -172,7 +167,7 @@ _Methodology review_
 * Watch ["What is Linked Data?"](https://www.youtube.com/watch?v=4x_xzT5eF5Q) by Manu Sporny
 * Review this Programming Historian Lesson: "[Using SPARQL to access Linked Open Data](http://programminghistorian.org/lessons/graph-databases-and-SPARQL)" and "[Cleaning Data with Open Refine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)"
 
-### Thursday, 10/19/17
+### Thursday, 10/18/18
 
 _Data structures_  
 _Data cleanup_
@@ -189,11 +184,11 @@ _Data cleanup_
 * [Putting the Human Back into the Digital Humanities: Feminism, Generosity, and Mess](http://dhdebates.gc.cuny.edu/debates/text/61)
 * [Missed Connections: What Search Engines Say About Women](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf)
 
-### Tuesday, 10/24/17
+### Tuesday, 10/23/18
 
 **Prof. Brooks away at conference **
 
-### Thursday, 10/26/17
+### Thursday, 10/25/18
 
 _Critical DH discussion_  
 _Network analysis tools_
@@ -208,7 +203,7 @@ _Network analysis tools_
 * [Data + Design](https://infoactive.co/data-design/titlepage01.html), chapters on data cleaning and visualization \(and more!\)
 * [When the Designer Shows up in the Design](https://www.propublica.org/article/when-the-designer-shows-up-in-the-design)
 
-### Tuesday, 10/31/17
+### Tuesday, 10/30/18
 
 _Project work_
 
@@ -216,7 +211,7 @@ _Project work_
 
 **Prepare 1-2 network visualizations and 1 piece of documentation for peer review on Thursday**
 
-### Thursday, 11/2/16
+### Thursday, 11/1/18
 
 _Project work + Documentation_
 
