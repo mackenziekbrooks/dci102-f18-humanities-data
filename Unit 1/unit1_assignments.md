@@ -27,10 +27,8 @@ Projects:
 
 * [Mining the Dispatch](http://dsl.richmond.edu/dispatch/)
 * [The Proceedings of the Old Bailey](https://www.oldbaileyonline.org/)
-* [DPLA App Library](https://dp.la/apps)
 * [Quantifying Kissinger](http://blog.quantifyingkissinger.com/)
 * [Viral Texts](http://viraltexts.org/)
-* [Serendip](http://vep.cs.wisc.edu/serendip/)
 * [Dash Amerikan](http://dashamerikan.scholarslab.org/)
 
 Resources on evaluating digital projects:
