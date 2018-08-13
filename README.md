@@ -1,8 +1,8 @@
-# DH 102: Data in the Humanities
+# DCI 102: Data in the Humanities
 
-Fall 2017 // TR 2:30-4:30 // CGL 114
+Fall 2018 // TR 2:45-4:45pm // CGL 212
 
-[The course website](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities) is a living document. It will change regularly to reflect the needs of the course.
+[The course website](https://legacy.gitbook.com/book/mackenziekbrooks/dh-102-data-in-the-humanities) is a living document. It will change regularly to reflect the needs of the course.
 
 # Contact
 
@@ -11,8 +11,6 @@ Mackenzie Brooks, Assistant Professor & Digital Humanities Librarian
 brooksm@wlu.edu // 540-458-8659 // Leyburn 218
 
 Office hours: by appointment, Mondays and Fridays are best.
-
-Will Tucker '19, Undergraduate Mellon DH Fellow will be serving as a peer mentor. He took DH 102 in 2016 and will be assisting in class and available on TR 4:40-5:45 on LL2 in Leyburn for office hours.
 
 # Course description
 
