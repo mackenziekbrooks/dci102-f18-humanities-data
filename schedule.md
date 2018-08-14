@@ -147,7 +147,7 @@ _Methodology review_
 * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
 * [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
 
-### X Thursday, 10/11/18
+### Thursday, 10/11/18
 
 No class, reading days
 
@@ -186,7 +186,7 @@ _Data cleanup_
 
 ### Tuesday, 10/23/18
 
-**Prof. Brooks away at conference **
+
 
 ### Thursday, 10/25/18
 
