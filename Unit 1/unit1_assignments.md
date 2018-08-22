@@ -146,13 +146,12 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 * How would you define your relationship with technology? How has that changed over your lifetime? What are some ways you see societal norms changing due to your generation's relationship with technology?
 * What does big data mean to you personally? To your field of study? To your future career path.
 * What interesting stuff have you found in _Ring-tum Phi_? Anything that would make a cool research project? Is there a period of W&L's history that you'd like to learn more about? How would you compare that period to today? 
-* Respond to "[What Screens Want](http://www.frankchimero.com/writing/what-screens-want/)" by Frank Chimero
 * Respond to the \(controversial\) article "[Neoliberal Tools \(and Archives\): A Political History of Digital Humanities.](https://via.hypothes.is/https://lareviewofbooks.org/article/neoliberal-tools-archives-political-history-digital-humanities/)" This link opens the Hypothes.is sidebar containing public annotations of this article. How would you respond to the article itself? What do you make of the discourse occurring in the sidebar? 
 * Check out [The Pudding](https://pudding.cool/). What is it trying to do? Is it working? How does it compare to the more scholarly projects we've looked at? 
 
 Specs:
 
-* 2 blog posts due Tuesday 10/10 by 2:30pm. \(I recommend spacing them out!\)
+* Up to 2 blog posts due Tuesday, October 9, 2018 at 2:45pm. \(I recommend spacing them out!\)
 * Publish to your own domain. 
 * 300-500 words per post.
 * Link to outside articles and embed images \(with citations!\), if relevant.
