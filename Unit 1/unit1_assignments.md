@@ -30,6 +30,7 @@ Projects:
 * [Quantifying Kissinger](http://blog.quantifyingkissinger.com/)
 * [Viral Texts](http://viraltexts.org/)
 * [Dash Amerikan](http://dashamerikan.scholarslab.org/)
+* [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/)
 
 Resources on evaluating digital projects:
 
