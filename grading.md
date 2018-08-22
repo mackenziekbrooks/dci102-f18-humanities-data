@@ -19,7 +19,7 @@ Assignment details can be found on each unit's assignments page. Unless otherwis
 * Results
 * Reflection
 
-### Participation
+### Participation & Engagement
 Students are expected to be active, prepared members of this course. Willingness to engage with unfamiliar concepts and technology is essential. That being said, you can demonstrate engagement with the course through a variety of means - not just being talkative in class. 
 
 * Blog posts (1 point each). You can write up to 2 posts per unit. Topics and due dates can be found on the assignments page. 

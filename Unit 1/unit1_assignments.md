@@ -2,7 +2,7 @@
 
 ### Methodology Review
 
-To familiarize yourself with the various methodologies in the DH world, please conduct a review of one DH project. You may select from the list below or find a project of your choosing \(subject to professor approval\), as long as it uses textual data as its source. Be prepared to share your review in class. Due DATE TIME. 
+To familiarize ourselves with the various methodologies in the DH world, let's conduct a review of one DH project. You may select from the list below or find a project of your choosing \(subject to professor approval\), as long as it uses textual data as its source. Be prepared to share your review in class. Due September 20, 2018 at 2:45pm. 
 
 * 1 point for assignment delivery: 
   * on time
