@@ -63,17 +63,23 @@ Specs:
 
 ### Project data
 
-At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends.
+At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends. For Unit 1, you'll need tokenized 
+
+** Due Tuesday, October 9, 2018 at 2:45pm** 
 
 Specs:
+* 1 point for assignment delivery
+	* on time
+	* saved in Box.
+* 1 point for a zipped folder with your modified/cleaned data set. 
+* 1 point for a text file titled "data-assessment-%DATE.txt" with the results of our in-class activity.
+* 2 points for a text file titled "data-cleanup-%DATE.txt" with a list of the modifications you made to your data set. Those modifications could/should include:
+	* 5 or more regular expressions patterns that have a major impact on your data set. Out of all the problems, what are the most important ones to solve?
+	* Changes made to the existing file structure or file names. Did you combine individual issues into years for instance?
+	* A list of the stopwords you may have used.
+	* A list of the modifications you made using [Lexos](http://lexos.wheatoncollege.edu)
 
-* Due Tuesday 10/10 by 2:30pm.
-* Submit in a zipped folder via Box \(if you are creating your own subset of the data\).
-* Include a text file titled "data-assessment-%DATE.txt" with the results of our in-class activity \(activity 6\). 
-* Include a text file titled "data-cleanup-%DATE.txt" with a list of the modifications you made to your data set. Those modifications could/should include:
-  * 5 or more regular expressions patterns that have a major impact on your data set. Out of all the problems, what are the most important ones to solve?
-  * Changes made to the existing file structure or file names. Did you combine individual issues into years for instance?
-  * A list of the stopwords you may have used.
+
 
 ### Project visualization
 
