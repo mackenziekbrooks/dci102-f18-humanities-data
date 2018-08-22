@@ -28,10 +28,10 @@ Projects:
 * [Mining the Dispatch](http://dsl.richmond.edu/dispatch/)
 * [The Proceedings of the Old Bailey](https://www.oldbaileyonline.org/)
 * [Quantifying Kissinger](http://blog.quantifyingkissinger.com/)
-* [Viral Texts](http://viraltexts.org/)
 * [Dash Amerikan](http://dashamerikan.scholarslab.org/)
 * [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/)
 * [A Topic Model of Literary Studies Journals](http://www.rci.rutgers.edu/~ag978/quiet/#)
+* [America's Public Bible](http://americaspublicbible.org/)
 
 Resources on evaluating digital projects:
 
