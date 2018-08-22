@@ -31,6 +31,7 @@ Projects:
 * [Viral Texts](http://viraltexts.org/)
 * [Dash Amerikan](http://dashamerikan.scholarslab.org/)
 * [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/)
+* [A Topic Model of Literary Studies Journals](http://www.rci.rutgers.edu/~ag978/quiet/#)
 
 Resources on evaluating digital projects:
 
