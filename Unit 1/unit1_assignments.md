@@ -80,28 +80,28 @@ Specs:
 	* A list of the modifications you made using [Lexos](http://lexos.wheatoncollege.edu)
 
 
+### Results
 
-### Project visualization
+Now that you have some experience creating a usable data set - what can you do with it? What are the results of your research questions? From the tools we have experimented with in class, select your favorite and/or most meaningful visualizations. This can be a graph, a word cloud, a topic model etc. You can even generate data in one program, then visualize in another. Next, interpret this visualization. Use "[Using Data Visualization to Find Insights in Data](http://datajournalismhandbook.org/1.0/en/understanding_data_7.html)" to guide your writing. 
 
-Now that you have some experience creating a usable data set - what can you do with it? From the tools we have experimented with in class, select your favorite and/or most meaningful visualization. This can be a graph, a word cloud, a topic model etc. Use "[Using Data Visualization to Find Insights in Data](http://datajournalismhandbook.org/1.0/en/understanding_data_7.html)" to guide your writing. Since this unit is all about text, it is okay if your visualization isn't that visual.
+** Due Tuesday, October 9 at 2:45pm.**
 
 Specs:
+* 1 point for assignment delivery: 
+	* on time
+	* published on your website. 
+* 1 point for 1-3 visualizations. 
+* 1 point for 300 words interpreting your results.
+* 1 point for indicating the tools/methods used to produce the results.
+* 1 point for commenting on problems/issues with your method. 
 
-* Due Tuesday 10/10 by 2:30pm. 
-* Embed/publish on your website. 
-* Indicate which tool/method you used to produce this visualization. 
-* Include 150-300 words on why you selected this visualization. 
-  * What did you learn about your data from this visualization, if anything?
-  * What about the visualization/methodology worked or didn't work?
-  * Are there issues with the data that the visualization illuminates or disguises?
-  * Did this method of visualization require you to modify your data in a specific way?
 
 Resources on visualization:
 
 * [Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2014/05/DataVizChecklist_May2014.pdf)
 * "[Making an Effective Visualization](http://www.themacroscope.org/?page_id=882)" and "[Principles of Visualization](http://www.themacroscope.org/?page_id=469)" - The Historian's Macroscope
 
-## Advanced Assignments
+
 
 ### Project narrative
 
