@@ -103,53 +103,41 @@ Resources on visualization:
 
 
 
-### Project narrative
+### Documentation
 
-Because we are short on time, you're not being expected to design and implement a full-scale data-driven project. This assignment asks you to use your imagination about what this project could become. Now that you're familiar with the data, what paths would you like to pursue? How would you introduce this data set to the uninitiated? Think about the "About" pages we've seen during your Project Review assignment.
+As you have reviewed projects and experimented with various tools, you have found yourself relying on their documentation. Documentation is super important, but it doesn't always get the attention it deserves. Documenting your process, your project, and everything in between helps yourself and others. There are many different forms of documentation, but for this assignment, I'm asking you to document the process by which you achieved your results. This could be how you cleaned your data with Regex or how to import and visualize your data in a text analysis tool. Your professor is not your audience. Imagine a friend or family member trying to recreate what you have done in this unit using your documentation.
+
+**Due October 9, at 2:45pm**
 
 Specs:
-
-* Due Tuesday 10/10 by 2:30pm. 
-* Embed/publish on your website OR submit via your Box folder. 
-* 150-300 words. 
-* Introduce the data set and provide context. Save the technical details for the project documentation assignment.
-* Identify your disciplinary angle. Are you approaching this project as a historian, a literature person, someone else entirely? Who is your audience?
-* Include three potential research questions. 
-
-### Project documentation
-
-As you have reviewed projects and experimented with various tools, you have found yourself relying on their documentation. Documentation is super important, but it doesn't always get the attention it deserves. Documenting your process, your project, and everything in between helps yourself and others. Ever gone back to a project after time away? Was it hard to remember where you left off? \(This will only get worse as you get older\). Documentation is a gift to your future self. A detailed description of what you did and how you did it will help your external audience as well. Your work can serve as inspiration or help someone through a similar problem. Last but not least, documentation is a workplace reality. Your boss and your team will want to know what you've been working on.
-
-Your professor is not your audience. Imagine a friend or family member trying to recreate what you have done in this unit using your documentation.
+* 1 point for on time delivery
+	* on your website
+	* 150+ words
+* 1 point for well structured documentation (headings, bullet points).
+* 1 point for screenshots, links, or other visual material.
+* 1 point for clear, jargon-free writing. 
+* 1 point for comprehensiveness and appropriate details. 
 
 Check out [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) for more guidance.
-
-Specs:
-
-* Due Tuesday 10/10 by 2:30pm. 
-* Publish to your website.
-* Document the process of one of the following activities: 
-  * Cleaning up the data with regular expressions and a text editor.
-  * Restructuring the data for text analysis.
-  * Importing and visualizing your data with a text analysis tool.
-* List 5+ individual steps and reference specific options in the software.
-* Include links and screenshots when appropriate.
 
 ### Project reflection
 
 The final assignment for this unit a piece of reflective writing. Talk about your feelings. What have you learned? What has been challenging? How has your relationship with technology changed? What would you have done differently? What new strategies will you try in the next unit?
 
-Specs:
+**Due Tuesday, October 9, at 2:45pm.** 
 
-* Due Tuesday 10/10 by 2:30pm. 
-* Submit via your Box folder. You are welcome, but not required to post to your website.
-* 300-500 words.
-* Address the following: 
-  * What have you learned?
-  * What has been challenging? 
-  * How has your relationship with technology changed? What about your conception of data?
-  * What would you have done differently? 
-  * What new strategies will you try in the next unit?
+Specs:
+* 1 point for assignment delivery:
+	* On time
+	* 300-500 words
+	* Submit on Box. You are welcome, but not required to post to your website.
+* 4 points for addressing the following: 
+	* What have you learned? 
+	* What has been challenging? 
+	* How has your relationship with technology changed? What about your conception of data? 
+	* What would you have done differently?
+	* What new strategies will you try in the next unit?
+	* What other projects (in school or life) could benefit from text analysis methods? 
 
 ## Blog posts
 
