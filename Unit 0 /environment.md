@@ -28,7 +28,7 @@ I have made our course readings available in a Zotero [group library](https://ww
 
 ## Note taking
 
-[Hypothes.is](https://hypothes.is/) is a new framework for open annotation of the web. It operates via a Chrome extension allowing you to make private and public comments on websites. I have set up a [private group](https://hypothes.is/groups/XnMbDqV8/dh102-f16) for our course if you want to participate.
+[Hypothes.is](https://hypothes.is/) is a new framework for open annotation of the web. It operates via a Chrome extension allowing you to make private and public comments on websites. 
 
 If you're a big note-taker, [Evernote](https://evernote.com) is a great option. Available on the web, desktop, or mobile device.
 
