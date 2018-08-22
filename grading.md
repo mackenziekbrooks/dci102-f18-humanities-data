@@ -1,8 +1,8 @@
 # Grading
 
-This course consists of 3 units of repeating assignments. Each unit is worth 30 points. Each of the 6 assignments is worth 5 points each. The remaining 10 points is earned through active engagement in the course.
+This course consists of 3 units of repeating assignments. Each unit is worth 30 points. Each of the 6 assignments is worth 5 points each. The remaining 10 points is earned through active particpation and engagement in the course.
 
-Assignment details can be found on each unit's assignments page. Unless otherwise noted, all assignments will turned in via Box. Grades will be accessible through Sakai.
+Assignment details can be found on each unit's assignments page. Assignment will be turned in on your website or in Box. Grades will be accessible through Sakai.
 
 |Breakdown|Points|
 |---|---|
@@ -17,6 +17,7 @@ Assignment details can be found on each unit's assignments page. Unless otherwis
 * Research Question
 * Data set
 * Results
+* Documentation
 * Reflection
 
 ### Participation & Engagement
