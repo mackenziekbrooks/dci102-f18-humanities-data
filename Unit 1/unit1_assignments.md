@@ -2,7 +2,7 @@
 
 ### Methodology Review
 
-To familiarize ourselves with the various methodologies in the DH world, let's conduct a review of one DH project. You may select from the list below or find a project of your choosing \(subject to professor approval\), as long as it uses textual data as its source. Be prepared to share your review in class. Due September 20, 2018 at 2:45pm. 
+To familiarize ourselves with the various methodologies in the DH world, let's conduct a review of one DH project. You may select from the list below or find a project of your choosing \(subject to professor approval\), as long as it uses textual data as its source. Be prepared to share your review in class. **Due September 20, 2018 at 2:45pm.** 
 
 * 1 point for assignment delivery: 
   * on time
@@ -40,6 +40,26 @@ Resources on evaluating digital projects:
 * [Evaluating Digital Humanities Work: Guidelines for Librarians by Zach Coble](http://journalofdigitalhumanities.org/1-4/evaluating-digital-humanities-work-guidelines-for-librarians-by-zach-coble/)
 * [LAIRAH Digital Humanities checklist](http://www.ucl.ac.uk/infostudies/research/circah/lairah/features/)
 * [DH Commons Review Guidelines](http://dhcommons.org/journal/review-guidelines)
+
+### Research Question
+
+One of the first steps in your project should be to identify your research question(s). WHat questions do you want to ask of this data? What is your angle? What topics are you interested in? It's important to form a question that you think could be answered by the data we have in the time we have available. It's okay to start small.  
+
+For example, as a librarian, I might be curious about mentions of the library in the Ring-tum Phi. What role does the library play in students' lives and how has that changed over time? Is the library mentioned more around exam time? Does the library get featured by the RTP, or just casually mentioned as a physical space on campus? How did the new library building change the tone or narrative of the library at W&L? 
+
+**Due October 2, 2018 at 2:45pm **
+
+Specs:
+
+* 1 point for assignment delivery
+	* on time
+	* 200-300 words
+	* publish on your website 
+* 1 point for listing 2-3 potential research questions.
+* 1 point for research questions that are scaled and scoped to the data set at hand.
+* 1 point for providing contextual details about the data set. Save the technical details for the project documentation assignment.
+* 1 point for identifying your disciplinary angle. Are you approaching this project as a historian, a literature person, someone else entirely? Who is your audience?
+
 
 ### Project data
 
