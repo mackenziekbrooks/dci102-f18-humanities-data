@@ -22,6 +22,8 @@ For more on this topic, see ["Do I Own My Domain If You Grade It?"](https://www.
 
 ## How
 
+[these instructions are not relevant for DCI 102 Fall 2018, but are left here for posterity]
+
 * First, carefully select your domain name. You will also need to pick a top-level domain \(.com, .org, .info etc.\) Davidson/Emory have created [guidance](http://domains.davidson.edu/support/general_information/choosing_a_domain_name) on the selection of a domain name that you may wish to consult. 
 * Register for the Student & Individuals plans from Reclaim. Select the privacy protection add-on. To get there, go to Products &gt; Shared Hosting &gt; Students & Individuals. 
 * You can access the backend of your website by prepending `/cpanel` to your URL. The cPanel is a common way to access all the different controls and features of your site. 
