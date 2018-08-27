@@ -9,7 +9,7 @@
 * Lecture: what is data in the humanities?
 * Lab: [environment](Unit 0/environment.md) setup
 * Lab: domain setup with [Reclaim Hosting](Unit 0/reclaimmd.md)
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day1.html)
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day1.html)
 
 **Read for Tuesday:**
 
