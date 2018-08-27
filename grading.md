@@ -25,6 +25,7 @@ In this class we'll engage with unfamiliar technology and concepts in what is ho
 
 * Blog posts (1 point each). You can write up to 2 posts per unit. Topics and due dates can be found on the assignments page. 
 * Activities (1 point each). You can earn up to 2 points per unit by completing activities begun in class.
+* Speakers (1 point each). You can earn up to 2 points by attending relevant speaker events and writing a blog post about the talk. Relevant speakers will be included on the schedule. 
 
 If you're unable to attend class, please notify me before class begins. Each unexcused absence will deduct 5 points from your final grade.  
 
