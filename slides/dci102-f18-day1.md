@@ -1,7 +1,7 @@
 ---
 author: Mackenzie Brooks
-title: DH 102 // Data in the Humanities
-date: September 7, 2017
+title: DCI 102 // Data in the Humanities
+date: September 6, 2018
 ---
 
 # agenda
@@ -9,11 +9,8 @@ date: September 7, 2017
 * course overview
 * break?
 * environment setup
-* domain registration
+* domain setup
 
-# Before this class is over, you will have your own website. 
-
-Start thinking of domain names now.
 
 # introductions
 * Name
@@ -63,7 +60,7 @@ Please fill out the student survey if you haven't already!
 # Why do I care? 
 
 # course website
-[https://www.gitbook.com/book/mackenziekbrooks/dh-102-data-in-the-humanities/details](https://www.gitbook.com/book/mackenziekbrooks/dh-102-data-in-the-humanities/details)
+[https://legacy.gitbook.com/book/mackenziekbrooks/dh-102-data-in-the-humanities/details](https://legacy.gitbook.com/book/mackenziekbrooks/dh-102-data-in-the-humanities/details)
 
 # Environment setup
 
@@ -73,11 +70,13 @@ See Unit 0 / Environment
 * Text editor 
 * Browsers
 
-# Domain registration
+# Domain setup
+Did you receive an email from Jason Mickel? 
+
+# Domain setup
 
 Unit 0 / Reclaim Hosting
 
-Unit 0 / Activities / Activity 1 
 
 # Wordpress installation
 
