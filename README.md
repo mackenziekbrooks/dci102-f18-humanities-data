@@ -78,3 +78,5 @@ Washington and Lee University makes reasonable academic accommodations for quali
 
 All writing should be your own or should be cited properly. The writing assignments in this course are different than what is required in other courses, so we will discuss proper citation procedures for writing for the Web, writing in a group, and writing technical documentation. For more info: [http://libguides.wlu.edu/plagiarism](http://libguides.wlu.edu/plagiarism)
 
+# License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
