@@ -5,10 +5,10 @@
 ### Thursday, 9/6/18
 
 * Introductions and course overview
-* Getting to know you [survey](https://goo.gl/forms/QtYLXmZntTnaGV6I3)
+* Getting to know you [survey](https://docs.google.com/forms/d/e/1FAIpQLSezew0M6oMR-EkWEqyyxWdc-VHycLu3PutC1leBuNRh2uD2ng/viewform?usp=sf_link)
 * Lecture: what is data in the humanities?
 * Lab: [environment](Unit 0/environment.md) setup
-* Lab: domain registration with [Reclaim Hosting](Unit 0/reclaimmd.md)
+* Lab: domain setup with [Reclaim Hosting](Unit 0/reclaimmd.md)
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day1.html)
 
 **Read for Tuesday:**
