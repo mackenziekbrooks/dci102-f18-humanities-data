@@ -45,7 +45,7 @@
 
 * [Intro to Text Analysis workbook](http://walshbr.com/textanalysiscoursebook/) by Profs. Brandon Walsh and Sarah Horowitz
   * read the Intro, Issues in Text Analysis, and Close Reading.
-* install Python \(see handout in Unit 0 folder in Box\)
+
 
 ### Tuesday, 9/18/18
 
