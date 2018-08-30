@@ -5,10 +5,10 @@
 * [Grading](grading.md)
 * Unit0/Setup
   * [Reclaim Hosting](Unit 0 /reclaimmd.md)
-  * [Activities](Unit 0 /activities.md)
   * [Environment](Unit 0 /environment.md)
   * [Command Line](Unit 0 /command-line.md)
   * [HTML + CSS](Unit 0 /html-css.md)
+* [Activities](Unit 0 /activities.md)
 * Unit1/Text
   * [Activities](Unit 1/unit1_activities.md)
   * [Assignments](Unit 1/unit1_assignments.md)

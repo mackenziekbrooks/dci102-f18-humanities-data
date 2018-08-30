@@ -4,9 +4,9 @@ Just as you might outfit your study carrel with all the essentials, you also nee
 
 ## Box
 
-Did you know that W&L offers unlimited cloud storage while you're a student? We will use [http://box.wlu.edu/](https://www.wlu.edu/its/how-to/box-faq) to share course materials. Please take some time to familiarize yourself with the platform.
+Did you know that W&L offers unlimited cloud storage while you're a student? We will use [http://box.wlu.edu/](https://www.wlu.edu/its/how-to/box-faq) to share course materials, including your assignments and project data. Please take some time to familiarize yourself with the platform.
 
-One key feature of Box is Box Sync. This makes the contents of your Box folders accessible via the Finder or Windows Explorer. You will need to install Box Sync on your computer.
+One key feature of Box is [Box Drive](https://www.box.com/resources/downloads/drive). This makes the contents of your Box folders accessible via the Finder or Windows Explorer. You will need to install Box Drive on your computer.
 
 **WARNING**: I will be distributing a large zip file via Box. Please do not double click on the zip file within a Box folder. Trust me, it will result in chaos. Copy the zip file to your desktop then double click to unzip the contents.
 
