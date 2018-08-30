@@ -112,7 +112,7 @@ _Data clean up + project work_
 
 ### Tuesday, 10/2/18
 
-Da_ata viz + project work_
+Data viz + project work_
 
 * Lab: text analysis tools + individual consults
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day8.html)
