@@ -77,61 +77,40 @@ At the beginning of each unit, you will be handed a messy data set. It is a rare
 	* Any approaches for standardizing the content of the fields \(LastName, FirstName or First, Last; separating or combining fields\).
 	* A list of cleanup steps taken in OpenRefine or Excel.
 
-### Project visualization
+### Results
 
-Now that you have some experience creating a usable data set - what can you do with it? From the tools we have experimented with in class, select your favorite and/or most meaningful visualization. For this unit, your visualizaiton should be some kind of network graph. Use "[Using Data Visualization to Find Insights in Data](http://datajournalismhandbook.org/1.0/en/understanding_data_7.html)" to guide your writing.
+Now that you have some experience creating a usable data set - what can you do with it? What are the results of your research questions? From the tools we have experimented with in class, select your favorite and/or most meaningful visualizations. This can be a graph, a word cloud, a topic model etc. You can even generate data in one program, then visualize in another. Next, interpret this visualization. Use "[Using Data Visualization to Find Insights in Data](http://datajournalismhandbook.org/1.0/en/understanding_data_7.html)" to guide your writing.
 
-Specs:
+** Due Tuesday, November 6, 2018 at 2:45pm**
 
-* Due Tuesday 11/7 by 2:30pm.
-* Embed/publish 1+ visualization your website. 
-* Include 150-300 words on why you selected this visualization. 
-  * What did you learn about your data from this visualization, if anything?
-  * What about the methodology worked or didn't work? 
-  * Are there issues with the data that the visualization illuminates or disguises? 
-* Indicate which tool/method you used to produce this visualization. 
-* Reference the comments from your peer reviewer.
+* 1 point for assignment delivery:
+	* on time
+	* published on your website.
+* 1 point for 1-3 visualizations.
+* 1 point for 300 words interpreting your results.
+* 1 point for indicating the tools/methods used to produce the results.
+* 1 point for commenting on problems/issues with your method, including the comments from your peer reviewer.
 
 More resources on visualization:
 
 * [Data Visualization Checklist](http://annkemery.com/wp-content/uploads/2014/05/DataVizChecklist_May2014.pdf)
 * "[Making an Effective Visualization](http://www.themacroscope.org/?page_id=882)" and "[Principles of Visualization](http://www.themacroscope.org/?page_id=469)" - The Historian's Macroscope
 
-## Advanced Assignments
+### Documentation
 
-### Project narrative
+As you have reviewed projects and experimented with various tools, you have found yourself relying on their documentation. Documentation is super important, but it doesn't always get the attention it deserves. Documenting your process, your project, and everything in between helps yourself and others. There are many different forms of documentation, but for this assignment, I'm asking you to document the process by which you achieved your results. This could be how you cleaned your data with Regex or how to import and visualize your data in a text analysis tool. Your professor is not your audience. Imagine a friend or family member trying to recreate what you have done in this unit using your documentation.
 
-Because we are short on time, you're not being expected to design and implement a full-scale data-driven project. This assignment asks you to use your imagination about what this project could become. Now that you're familiar with the data, what paths would you like to pursue? How would you introduce this data set to the uninitiated? Think about the "About" pages we've seen during your Project Review assignment.
+** Due Tuesday, November 6, 2018 at 2:45pm**
 
-Specs:
-
-* Due Tuesday 11/7 by 2:30pm.
-* Embed/publish on your website OR submit via your Box folder. 
-* 150-300 words. 
-* Introduce the data set and provide context. Save the technical details for the project documentation assignment.
-* Identify your disciplinary angle. Are you approaching this project as a historian, a literature person, someone else entirely? Who is your audience?
-* Include three potential research questions. 
-
-### Project documentation
-
-As you have reviewed projects and experimented with various tools, you have found yourself relying on their documentation. Documentation is super important, but it doesn't always get the attention it deserves. Documenting your process, your project, and everything in between helps yourself and others. Ever gone back to a project after time away? Was it hard to remember where you left off? \(This will only get worse as you get older\). Documentation is a gift to your future self. A detailed description of what you did and how you did it will help your external audience as well. Your work can serve as inspiration or help someone through a similar problem. Last but not least, documentation is a workplace reality. Your boss and your team will want to know what you've been working on.
-
-Your professor is not your audience. Imagine a friend or family member trying to recreate what you have done in this unit using your documentation.
+* 1 point for on time delivery
+	* on your website
+	* 150+ words
+* 1 point for well structured documentation (headings, bullet points).
+* 1 point for screenshots, links, or other visual material.
+* 1 point for clear, jargon-free writing.
+* 1 point for comprehensiveness and appropriate details.
 
 Check out [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) for more guidance.
-
-Specs:
-
-* Due Tuesday 11/7 by 2:30pm
-* Publish to your website.
-* Document a specfic task required to cleanup or visualize your data. 
-* Include 5 or more steps.
-
-* Include screenshots and links when appropriate.
-
-* Incorporate feedback from your peer reviewer.
-
-* Be specific!
 
 ### Project reflection
 
