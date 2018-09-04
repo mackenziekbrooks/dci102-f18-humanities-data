@@ -43,6 +43,23 @@ Resources on evaluating digital projects:
 * [LAIRAH Digital Humanities checklist](http://www.ucl.ac.uk/infostudies/research/circah/lairah/features/)
 * [DH Commons Review Guidelines](http://dhcommons.org/journal/review-guidelines)
 
+### Research Question
+
+One of the first steps in your project should be to identify your research question(s). WHat questions do you want to ask of this data? What is your angle? What topics are you interested in? It's important to form a question that you think could be answered by the data we have in the time we have available. It's okay to start small.
+
+**Due October 30, 2018 at 2:45pm **
+
+Specs:
+
+* 1 point for assignment delivery
+* on time
+* 200-300 words
+* publish on your website
+* 1 point for listing 2-3 potential research questions.
+* 1 point for research questions that are scaled and scoped to the data set at hand.
+* 1 point for providing contextual details about the data set. Save the technical details for the project documentation assignment.
+* 1 point for identifying your disciplinary angle. Are you approaching this project as a historian, a literature person, someone else entirely? Who is your audience?
+
 ### Project data
 
 At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends.
