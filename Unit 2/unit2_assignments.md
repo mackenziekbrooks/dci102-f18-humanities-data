@@ -52,9 +52,9 @@ One of the first steps in your project should be to identify your research quest
 Specs:
 
 * 1 point for assignment delivery
-* on time
-* 200-300 words
-* publish on your website
+	* on time
+	* 200-300 words
+	* publish on your website
 * 1 point for listing 2-3 potential research questions.
 * 1 point for research questions that are scaled and scoped to the data set at hand.
 * 1 point for providing contextual details about the data set. Save the technical details for the project documentation assignment.
@@ -62,23 +62,20 @@ Specs:
 
 ### Project data
 
-At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends.
+At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends. 
 
-Specs:
+** Due Tuesday, November 6, 2018 at 2:45pm**
 
-* Due Tuesday 11/7 by 2:30pm.
-* Submit your data set in a zipped folder via Box.
-* Include the data you modified in .csv or .xlsx form.
-* Include a text file titled "data-assessment-DATE.txt" with the results of our in-class activity \(Unit 2 / Activity 3\). 
-* Include a text file titled "data-cleanup-DATE.txt" with a list of the modifications you made to your data set. Those modifications could include:
-
-  * All fields should be standardized to the most appropriate data type \(Date, String, etc.\)
-
-  * Separation into multiple csv files for more specific analysis.
-
-  * Any approaches for standardizing the content of the fields \(LastName, FirstName or First, Last; separating or combining fields\).
-
-  * List of cleanup steps taken in OpenRefine or Excel.
+* 1 point for assignment delivery
+	* on time
+	* saved in Box.
+* 1 point for a zipped folder with your modified/cleaned data set in ```.csv``` or ```.xlsx``` format.
+* 1 point for a text file title "data-assessment-DATE.txt" with the results of our in-class activity \(Unit 2 / Activity 3\).
+* 2 points for a text file titled "data-cleanup-DATE.txt" with a list of the modifications you made to your data set. Those modifications could include:
+	* All fields should be standardized to the most appropriate data type \(Date, String, etc.\)
+	* Separation into multiple csv files for more specific analysis.
+	* Any approaches for standardizing the content of the fields \(LastName, FirstName or First, Last; separating or combining fields\).
+	* A list of cleanup steps taken in OpenRefine or Excel.
 
 ### Project visualization
 
