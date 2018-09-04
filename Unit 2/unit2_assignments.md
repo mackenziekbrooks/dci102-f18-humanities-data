@@ -116,17 +116,19 @@ Check out [A Beginner's Guide to Writing Documentation](http://www.writethedocs.
 
 The final assignment for this unit a piece of reflective writing. Talk about your feelings. What have you learned? What has been challenging? How has your relationship with technology changed? What would you have done differently? What new strategies will you try in the next unit?
 
-Specs:
+** Due Tuesday, November 6, 2018 at 2:45pm**
 
-* Due Tuesday 11/7 by 2:30pm.
-* Submit via your Box folder. You are welcome, but not required to post to your website.
-* 300-500 words.
-* Address the following: 
-  * What have you learned?
-  * What has been challenging? 
-  * How has your relationship with technology changed? What about your conception of data?
-  * What would you have done differently? 
-  * What new strategies will you try in the next unit?
+* 1 point for assignment delivery:
+	* On time
+	* 300-500 words
+	* Submit on Box. You are welcome, but not required to post to your website.
+* 4 points for addressing the following:
+	* What have you learned?
+	* What has been challenging?
+	* How has your relationship with technology changed? What about your conception of data?
+	* What would you have done differently?
+	* What new strategies will you try in the next unit?
+	* What other projects (in school or life) could benefit from text analysis methods?
 
 ## Blog posts
 
@@ -137,13 +139,10 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 * What interests you about the data set you have chosen to work with? What other local history topics could use network analysis/visualization?
 * Respond/reflect on our reading on Critical DH. See "[Missed Connections: What Search Engines Say About Women](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf)" or ["An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 
-Specs:
-
-* 2 blog posts due Tuesday 11/7 by 2:30pm. \(I recommend spacing them out!\)
-* Publish to your own domain. 
+* Up to 2 blog posts due Tuesday, November 6, 2018 at 2:45pm. 
+* Publish to your own domain.
 * 300-500 words per post.
 * Link to outside articles and embed images \(with citations!\), if relevant.
-* Watch your tone. You are free to have personality and style, but remember that this is an academic/professional project. Find a balance between Buzzfeed and a scholarly journal. 
-
+* Watch your tone. You are free to have personality and style, but remember that this is an academic/professional project. Find a balance between Buzzfeed and a scholarly journal.
 
 
