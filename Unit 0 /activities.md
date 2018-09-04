@@ -58,7 +58,7 @@ Create a separate CSS document and save it as `style.css` in the same folder you
 * Change the border on your table. 
 * Add style to your links when you hover over them. 
 
-## Activity 5: Publish your website
+## Activity 5: Publish your website (1 point)
 
 When you opened your HTML files in your browser, you were viewing your files locally. Only you could see them on your computer. Now it's time to upload them to your domain so other people can view them.
 
