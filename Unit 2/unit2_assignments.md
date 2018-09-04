@@ -33,7 +33,6 @@ Projects:
 * [Preliminaries Project](http://dbrownbeta.blogs.cultureplex.ca/)
 * [Prosop](http://prosop.org/) \(in development\)
 * [Social Networks and Archival Context \(SNAC\)](http://socialarchive.iath.virginia.edu/)
-* [Digital Mitford](http://digitalmitford.org/visual.html)
 * [Linked Jazz](https://linkedjazz.org/)
 * [Signs @ 40 Cocitation Network](http://signsat40.signsjournal.org/cocitation/)
 
