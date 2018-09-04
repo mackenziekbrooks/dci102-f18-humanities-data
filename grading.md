@@ -1,6 +1,6 @@
 # Grading
 
-This course consists of 3 units of repeating assignments. Each unit is worth 30 points. Each of the 6 assignments is worth 5 points each. The remaining 10 points is earned through active particpation and engagement in the course.
+This course consists of 3 units of repeating assignments. Each unit is worth 30 points. Within a unit, each of the 6 assignments is worth 5 points each. The remaining 10 points is earned through active particpation and engagement in the course.
 
 Assignment details can be found on each unit's assignments page. Assignment will be turned in on your website or in Box. Grades will be accessible through Sakai.
 
@@ -25,7 +25,8 @@ In this class we'll engage with unfamiliar technology and concepts in what is ho
 
 * Blog posts (1 point each). You can write up to 2 posts per unit. Topics and due dates can be found on the assignments page. 
 * Activities (1 point each). You can earn up to 2 points per unit by completing activities begun in class.
-* Speakers (1 point each). You can earn up to 2 points by attending relevant speaker events and writing a blog post about the talk and its connection to the class s. Relevant speakers will be included on the schedule. 
+* Speakers (1 point each). You can earn up to 2 points by attending relevant speaker events and writing a blog post about the talk and its connection to the class. Relevant speakers will be included on the schedule. 
+* Blog comments (1 point each). You can earn up to 2 points per unit by commenting on other students' blog posts. Add a bookmark to your Box folder to ensure I see your comment. 
 
 If you're unable to attend class, please notify me before class begins. Each unexcused absence will deduct 5 points from your final grade.  
 

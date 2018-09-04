@@ -42,7 +42,7 @@ We will rely heavily on the following texts:
 * [The Historian's Macroscope](http://www.themacroscope.org/?page_id=584)
 * [Programming Historian](http://programminghistorian.org/)
 
-You will be required to purchase your own domain from [Reclaim Hosting](https://reclaimhosting.com/) at the rate of $30/year.
+You will be provided with a domain from [Reclaim Hosting](https://reclaimhosting.com/) in the format ```http://username.wludci.info```. You can purchase a custom domain, such as ```http://www.myname.com``` for $15 a year. If you are interested in keeping your domain after graduation, the W&L library can transfer ownership to you. 
 
 # Course structure
 
