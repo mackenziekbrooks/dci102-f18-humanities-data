@@ -1,6 +1,5 @@
 # Unit 3 / Space / Assignments
 
-## Core Assignments
 
 ### Methodology Review
 
