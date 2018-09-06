@@ -36,7 +36,7 @@
 
 5. Press install to finish up.
 
-6. You should now be able to access your wordpress admin interface by appending `/wp-admin`to your domain.
+6. You should now be able to access your wordpress admin interface by appending `/wp-admin`to your selected URL.
 
 ## Activity 3: HTML
 
