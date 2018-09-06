@@ -20,6 +20,7 @@
 
 ### Tuesday, 9/11/18
 
+* Kellie Harra visit! 
 * Discussion: readings
 * Lecture: How the internet works
 * Lab: CPanel
