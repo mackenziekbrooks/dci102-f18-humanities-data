@@ -1,7 +1,7 @@
 ---
-author: Mackenzie Brooks
+author: Prof. Mackenzie Brooks
 title: DCI 102 // Data in the Humanities
-date: September 6, 2018
+date: September 6, 2018 // Day 1
 ---
 
 # agenda
@@ -23,6 +23,8 @@ Please fill out the student survey if you haven't already!
 
 [https://goo.gl/forms/DfldntwbMmspVAur2](https://goo.gl/forms/DfldntwbMmspVAur2)
 
+# Digital Culture and Information minor
+[https://wlu.edu/digital-culture-and-information](https://wlu.edu/digital-culture-and-information)
 
 # What is data?
 
@@ -66,7 +68,7 @@ Please fill out the student survey if you haven't already!
 
 See Unit 0 / Environment
 
-* Box + Box sync
+* Box + Box Drive
 * Text editor 
 * Browsers
 
@@ -78,10 +80,10 @@ Did you receive an email from Jason Mickel?
 Unit 0 / Reclaim Hosting
 
 
-# Wordpress installation
+# WordPress installation
 
 Unit 0 / Activities / Activity 2 
 
 # For Tuesday 
-* Get familiar with Wordpress. Try changing your theme or adding pages/posts. 
+* Get familiar with WordPress. Try changing your theme or adding pages/posts. 
 * Complete readings as listed on the schedule. 
