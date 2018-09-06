@@ -29,7 +29,8 @@ This course introduces students to the creation and visualization of data in hum
 
 * If you have ever labeled yourself as “bad at technology,” you are welcome in this course. There is no assumed technical skill. 
 * "Technology" is a lot of things. Chances are you will know something about it that your classmates do not. Be generous about teaching and learning from each other. See also: [https://xkcd.com/1053/](https://xkcd.com/1053/)
-* Your laptop will be a major player in this course. Please make sure it is good working order by updating software \(operating system, browers, etc\) and visiting the IT help desk as necessary. Learn how to disable notifications since you will have to share your screen in class.
+* Your laptop will be a major player in this course. Please make sure it is good working order by updating software \(operating system, browers, etc\) and visiting the IT help desk as necessary. 
+* That being said, using your laptop in class is not an invitation to distraction. Learn how to disable notifications since you will have to share your screen in class.
 * This course will mix theory and hands-on work. Be prepared to think critically about technology AND to get your hands dirty in a little bit of code.
 * The DH community values experimentation and productive failure, often in public. We will learn from how and why things don’t work. We are not just going to talk about what we’re learning but how we’re learning it. Give yourself a break from perfectionism!
 
