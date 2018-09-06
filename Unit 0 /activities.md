@@ -30,11 +30,9 @@
 2. You should see a Wordpress icon near the top of the page. Click on it to begin installing Wordpress.
 3. Find the "install this application" button. 
 4. Work through the installation. You can leave the default settings except for the following:  
-   1. Directory \(optional\) - if you want your course website to live in subdirectory, such as `http://www.mackenziekbrooks.com/dh102` then type in the name of the subdirectory in the second box. I recommend using a subdirectory if you want to use your site for other purposes.
-
-   1. Change the administrator username and password to something you are likely to remember.
-
-   2. Customize the website title and tagline.
+   * Directory  - since you might want to use this domain for other things, let's put course materials in a subdirectory, such as ``http://www.mackenziekbrooks.info/dci102``. 
+   * Change the administrator username and password to something you are likely to remember.
+   * Customize the website title and tagline.
 
 5. Press install to finish up.
 
