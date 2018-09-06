@@ -61,7 +61,11 @@ As a class, we will interrogate the Ring-tum Phi archives. Leyburn Library has p
 
 In this unit, we will explore the network of social connections between people and how to render those connections digitally. How do you construct a network of 30,000 people from British history? How do you define the relationships between individual members of the American jazz community? How do you gather the biographical data necessary to construct these networks? How do the fields of history and literature understand networks differently?
 
-In groups, we will take advantage of local archival material to develop network visualizations. One group will use data from the Stonewall Jackson Cemetery Map Project to document family, military, and social connections between residents of historic Lexington. Another group will assemble a network of W&L students and notable authors who contributed to Shenandoah magazine and the mid-century literary scene in the American South. Additional options include creating a data set from the Evergreen Cemetery or the Thomas H. Carter personal library.
+In groups, we will take advantage of local archival material to develop network visualizations. You'll have a few options for datasets: 
+* the Stonewall Jackson Cemetery inhabitants
+* President Wilson correspondence on the coeducation decision
+* Shenandoah literary magazine index
+
 
 ## Unit 3: Space
 
