@@ -21,7 +21,7 @@ Assignment details can be found on each unit's assignments page. Assignment will
 * Reflection
 
 ### Participation & Engagement
-In this class we'll engage with unfamiliar technology and concepts in what is hopefully a supportive, inclusive environment. I depend on you to be an active, prepared member of this course. We have a two hour course block in order to accomodate the hands-on technical work required for your projects, so attendance is essential. That being said, you can demonstrate engagement with the course through a variety of means - not just being talkative in class. 
+In this class we'll engage with unfamiliar technology and concepts in what is hopefully a supportive, inclusive environment. I depend on you to be an active, prepared member of this course. We have a two hour course block in order to accomodate the hands-on technical work required for your projects, so attendance is essential. That being said, you can demonstrate engagement with the course through a variety of means - not just being talkative in class. You can earn up to 10 points with the following:
 
 * Blog posts (1 point each). You can write up to 2 posts per unit. Topics and due dates can be found on the assignments page. 
 * Activities (1 point each). You can earn up to 2 points per unit by completing activities begun in class.
