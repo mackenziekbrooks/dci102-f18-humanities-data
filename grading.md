@@ -6,9 +6,9 @@ Assignment details can be found on each unit's assignments page. Assignment will
 
 |Breakdown|Points|
 |---|---|
-|Unit 1|30|
-|Unit 2|30|
-|Unit 3|30|
+|Unit 1  - due October 9th|30|
+|Unit 2 - due November 6th|30|
+|Unit 3 - due December 7th|30|
 |Participation|10|
 
 ### Assignments
