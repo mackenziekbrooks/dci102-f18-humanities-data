@@ -7,15 +7,15 @@
 * Introductions and course overview
 * Getting to know you [survey](https://docs.google.com/forms/d/e/1FAIpQLSezew0M6oMR-EkWEqyyxWdc-VHycLu3PutC1leBuNRh2uD2ng/viewform?usp=sf_link)
 * Lecture: what is data in the humanities?
-* Lab: [environment](Unit 0/environment.md) setup
-* Lab: domain setup with [Reclaim Hosting](Unit 0/reclaimmd.md)
+* Lab: [environment](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/Unit%200/Unit%200%20/environment.html) setup
+* Lab: domain setup with [Reclaim Hosting](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/Unit%200/Unit%200/reclaimmd.md)
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day1.html)
 
 **Read for Tuesday:**
 
 * [Digital\_Humanities](https://web.archive.org/web/20180217210709/https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), chap 1
 * [Technology Is Taking Over English Departments: The false promise of the digital humanities](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)
-* [What is Data?](http://schoolofdata.org/handbook/courses/what-is-data/)
+* [What is Data?](http://schoolofdata.org/handbook/courses/what-is-data/) (if this link doesn't work, [try this one](http://web.archive.org/web/20161205121253/http://schoolofdata.org:80/handbook/courses/what-is-data/))
 * [Defining Data for Humanists: Text, Artifact, Information or Evidence?](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
 
 ### Tuesday, 9/11/18
