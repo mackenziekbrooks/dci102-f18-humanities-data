@@ -1,8 +1,15 @@
 ---
-author: Mackenzie Brooks
+author: Prof. Mackenzie Brooks
 title: DH 102 // how the web works
-date: September 12, 2017
+date: September 11, 2018 // Day 2
 ---
+
+# administrivia 
+* [Rewriting the Code](http://rewritingthecode.wludci.info/)
+* attendance policy
+* Roopika Risam 9/20 
+* 
+
 
 # readings
 
@@ -18,14 +25,18 @@ date: September 12, 2017
 4. "Defining Data for Humanists"
 
 
-# DH, chap 1
+# D_H, chap 1
 * "humanities" as traditionally text-based disciplines
 * digitization of print cultural record
 * digital environment brings new conventions, need for standards, and a focus on design
 * DH not a replacement for "traditional knowledge skills and methods"
 * interfaces are important, but they can change, even with the same data
 * collaboration is key
+
+# D_H, chap 1
 * vast and accessible digital archive changes way we learn
+* computation depends on disambiguation at every level
+
 
 # "Limits"
 * DH suffers from an identity crisis
@@ -69,15 +80,8 @@ On Windows:
 # more proof!
 <a href="http://www.submarinecablemap.com">http://www.submarinecablemap.com</a>
 
-# what is all this stuff on CPanel? 
-Using http://docs.reclaimhosting.com and Google, try to figure out what each of the icons is for in your CPanel.
-
-* Table 1: Applications, Domains
-* Table 2: Files, Email, Advanced
-* Table 3: Databases, Metrics
-* Table 4: Security, Software
-
-Present back to the group on what you've learned
+# 
+<a href="https://xkcd.com/1053/"><img src="https://imgs.xkcd.com/comics/ten_thousand_2x.png" /></a>
 
 # HyperText Markup Language
 ```
