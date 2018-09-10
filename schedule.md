@@ -20,7 +20,7 @@
 
 ### Tuesday, 9/11/18
 
-* Kellie Harra visit! 
+* Kellie Harra to share [Rewriting the Code](http://rewritingthecode.wludci.info/)
 * Discussion: readings
 * Lecture: How the internet works
 * Lab: CPanel
