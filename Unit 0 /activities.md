@@ -40,7 +40,7 @@
 
 ## Activity 3: HTML
 
-* Open your favorite text editor and using the W3 Schools as a guide, write your own HTML document.
+* Open your favorite text editor and using the [W3 Schools](http://w3schools.com/) as a guide, write your own HTML document.
 * Save the file as `index.html` in your Box folder in a separate folder titled: `activity_2016-09-13`. I'm not grading this, but it will help me troubleshoot if necessary.
 * To view your page in the browswer, open `index.html` in your browser, usually with the key commands `Ctrl + o`
 * You should include the basic set of tags: `<html> <head> <title> <body>`
@@ -51,7 +51,7 @@
 
 Create a separate CSS document and save it as `style.css` in the same folder you created for Activity 1.
 
-* Link the `style.css` file to your HTML document. Consult the W3 Schools to figure out how to do this.
+* Link the `style.css` file to your HTML document. Consult the [W3 Schools](http://w3schools.com/) to figure out how to do this.
 * Add a background color.
 * Change the border on your table. 
 * Add style to your links when you hover over them. 
