@@ -8,11 +8,9 @@ date: September 11, 2018 // Day 2
 * [Rewriting the Code](http://rewritingthecode.wludci.info/)
 * attendance policy
 * Roopika Risam 9/20 
-* 
 
 
 # readings
-
 * 2-3 main points of the article
 * 1 thing you didn't quite understand
 * 1 question for the rest of the class to answer
@@ -25,18 +23,25 @@ date: September 11, 2018 // Day 2
 4. "Defining Data for Humanists"
 
 
-# D_H, chap 1
+# D_H, pp. 1-16
 * "humanities" as traditionally text-based disciplines
-* digitization of print cultural record
+* "generative humanities" - we're making things now
+* digitization of print cultural record > changes learning
 * digital environment brings new conventions, need for standards, and a focus on design
 * DH not a replacement for "traditional knowledge skills and methods"
 * interfaces are important, but they can change, even with the same data
-* collaboration is key
 
-# D_H, chap 1
-* vast and accessible digital archive changes way we learn
+# D_H, pp. 16-26
 * computation depends on disambiguation at every level
+* core activities: curation, analysis, modeling, editing
+* humanistic values affect digital environments/structures
+* versioning, prototyping, and FAILURE
+* value of humanities? 
 
+# D_H, projects
+* [Perseus](http://www.perseus.tufts.edu/hopper/)
+* [Valley of the Shadow](http://valley.lib.virginia.edu/), [Ed Ayers talk](https://livestream.com/wlu/edward-ayers)
+* [Women Writers Project](http://wwp.northeastern.edu/)
 
 # "Limits"
 * DH suffers from an identity crisis
@@ -78,10 +83,22 @@ On Windows:
 ```
 
 # more proof!
-<a href="http://www.submarinecablemap.com">http://www.submarinecablemap.com</a>
+* <a href="http://www.submarinecablemap.com">http://www.submarinecablemap.com</a>
+* <a href="https://acrl.ala.org/techconnect/post/what-should-academic-librarians-know-about-net-neutrality/">net neutrality post</a>
+
+# glossary
+* URL = Uniform Resource Locator
+* TLD = top level domain 
+* DNS = Domain Name System
+* HTTP = Hypertext Transfer Protocol
+* FTP = File Transfer Protocol
+* IP = Internet Protocol
+* TCP = Transmission Control Protocol
 
 # 
 <a href="https://xkcd.com/1053/"><img src="https://imgs.xkcd.com/comics/ten_thousand_2x.png" /></a>
+
+# 
 
 # HyperText Markup Language
 ```
