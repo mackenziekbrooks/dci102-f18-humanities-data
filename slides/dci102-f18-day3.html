@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Prof. Mackenzie Brooks">
+  <meta name="dcterms.date" content="2018-09-13">
+  <title>DCI 102 // command line</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="reveal.js/css/theme/white.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+  <h1 class="title">DCI 102 // command line</h1>
+  <p class="author">Prof. Mackenzie Brooks</p>
+  <p class="date">September 13, 2018</p>
+</section>
+
+<section id="agenda" class="slide level1">
+<h1>agenda</h1>
+<ul>
+<li>introduce first assignment!</li>
+<li>reflect on learning tech</li>
+<li>HTML/CSS review</li>
+<li>command line!</li>
+</ul>
+</section>
+<section id="we-can-all-be-technical-with-the-right-teacher" class="slide level1">
+<h1>we can all be technical with the right teacher</h1>
+</section>
+<section id="reflection" class="slide level1">
+<h1>reflection</h1>
+<ul>
+<li>What does society say about learning to code?</li>
+<li>What's wrong with that narrative, if anything?</li>
+<li>How did I learn to code? How did I feel about it?</li>
+</ul>
+</section>
+<section id="html" class="slide level1">
+<h1>html</h1>
+<ul>
+<li>is structured</li>
+<li>is semantic markup</li>
+<li>is made up of elements/tags</li>
+<li>describes the content</li>
+</ul>
+</section>
+<section id="html-syntax" class="slide level1">
+<h1>html syntax</h1>
+<p><code>&lt;tag attribute=&quot;value&quot;&gt;My Content&lt;/closeTag&gt;</code></p>
+</section>
+<section id="head-vs.-body" class="slide level1">
+<h1>head vs. body</h1>
+<ul>
+<li><code>&lt;head&gt;</code> contains metadata, isn't displayed</li>
+<li><code>&lt;body&gt;</code> contains the content, is</li>
+</ul>
+</section>
+<section id="classes-ids" class="slide level1">
+<h1>classes + ids</h1>
+<ul>
+<li><code>&lt;div class=&quot;blueBox&quot;&gt;Content&lt;/div&gt;</code></li>
+<li><code>.blueBox {background-color: blue;}</code></li>
+</ul>
+</section>
+<section id="css" class="slide level1">
+<h1>css</h1>
+<ul>
+<li>affects the way your page looks</li>
+<li>is a different language/syntax than html</li>
+<li>saves time/ensures consistency</li>
+<li>styles the content</li>
+</ul>
+</section>
+<section id="css-syntax" class="slide level1">
+<h1>css syntax</h1>
+<p><code>selector {CSSproperty:value;}</code></p>
+</section>
+<section id="unit-0-activity-6" class="slide level1">
+<h1>unit 0 / activity 6</h1>
+</section>
+<section id="break" class="slide level1">
+<h1>break</h1>
+<p>Please seat yourselves in small groups by operating system.</p>
+</section>
+<section id="how-computers-work" class="slide level1">
+<h1>How computers work</h1>
+<ul>
+<li>series of commands</li>
+<li>binary</li>
+<li>layers of abstraction</li>
+<li>humans</li>
+<li><a href="https://mitpress.mit.edu/books/racing-beam">Racing the Beam</a></li>
+</ul>
+</section>
+<section id="command-line" class="slide level1">
+<h1>Command line</h1>
+<ul>
+<li>vs. GUI</li>
+<li>container = shell</li>
+<li>tree structure</li>
+</ul>
+</section>
+<section id="syntax" class="slide level1">
+<h1>syntax</h1>
+<p><code>$ command parameters -flag</code></p>
+<ul>
+<li>$ says start after me</li>
+<li>command = what to do</li>
+<li>parameters = how to do it</li>
+<li>flag = use this option</li>
+</ul>
+</section>
+<section id="programming-historian-lessons" class="slide level1">
+<h1>Programming Historian lessons</h1>
+</section>
+<section id="for-tuesday" class="slide level1">
+<h1>for Tuesday</h1>
+<ul>
+<li>practice command line with <a href="https://learnrubythehardway.org/book/appendixa.html">Command Line Crash Course</a></li>
+<li>readings</li>
+<li>start on methodology review assignment (due Thursday)</li>
+</ul>
+</section>
+    </div>
+  </div>
+
+  <script src="reveal.js/lib/js/head.min.js"></script>
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+              { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
