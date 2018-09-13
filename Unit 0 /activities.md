@@ -44,7 +44,7 @@
 * Save the file as `index.html` in your Box folder in a separate folder titled: `activity_2016-09-13`. I'm not grading this, but it will help me troubleshoot if necessary.
 * To view your page in the browswer, open `index.html` in your browser, usually with the key commands `Ctrl + o`
 * You should include the basic set of tags: `<html> <head> <title> <body>`
-* Add five additional types of tags to the body of your HTML document, including a table.
+* Add seven additional types of tags to the body of your HTML document, including a table, link, and image.
 * Add an additional HTML page and link the two pages.
 
 ## Activity 4: CSS
