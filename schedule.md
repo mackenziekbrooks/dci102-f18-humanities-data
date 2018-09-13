@@ -70,7 +70,7 @@ _Methodology review_
 
 _Data introduction_
 
-* Assignment: Methodology review due to your Box folder by 2:30pm. Be prepared to share. 
+* Assignment: Methodology review due to your Box folder by 2:45pm. Be prepared to share. 
 * Data set introduction
 * Lab: OCR
 * Lab: command line practice
