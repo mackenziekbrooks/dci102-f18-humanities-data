@@ -54,7 +54,7 @@
 
 _Methodology review_
 
-* Text Analysis - guest speaker?
+* Lecture: 4 ways to read a text
 * Lab: text analysis 
 
 **Read for Thursday:**
