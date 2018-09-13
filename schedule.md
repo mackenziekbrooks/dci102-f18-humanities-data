@@ -42,7 +42,7 @@
 * Readings discussion
 * Lab: HTML/CSS cont.
 * Lab: command line \([Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)\)
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day3.html)
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day3.html)
 
 **Read for Tuesday:**
 
