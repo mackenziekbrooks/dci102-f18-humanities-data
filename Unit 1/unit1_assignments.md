@@ -2,11 +2,11 @@
 
 ### Methodology Review
 
-To familiarize ourselves with the various methodologies in the DH world, let's conduct a review of one DH project. You may select from the list below or find a project of your choosing \(subject to professor approval\), as long as it uses textual data as its source. Be prepared to share your review in class. **Due September 20, 2018 at 2:45pm.** 
+To familiarize ourselves with the various methodologies in the DH world, let's conduct a review of one text analysis project. You may select from the list below or find a project of your choosing \(subject to professor approval\), as long as it uses textual data as its source. Be prepared to share your review in class. **Due September 20, 2018 at 2:45pm.** 
 
 * 1 point for assignment delivery: 
   * on time
-  * 300-500 words
+  * 300-600 words
   * Appropriate file name (no spaces, includes your last name and the date).
   * Saved to your Box folder.
 * 1 point for absence of major typos, grammatical errors, and unclear writing.
