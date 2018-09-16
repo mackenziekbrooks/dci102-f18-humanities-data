@@ -8,7 +8,7 @@ To familiarize ourselves with the various methodologies in the DH world, let's c
   * on time
   * 300-600 words
   * Appropriate file name (no spaces, includes your last name and the date).
-  * Saved to your Box folder.
+  * Saved to your Box folder (DCI102-username).
 * 1 point for absence of major typos, grammatical errors, and unclear writing.
 * 1 point for summarizing the following:
 	* What is the goal of this project? Are there guiding research questions?
