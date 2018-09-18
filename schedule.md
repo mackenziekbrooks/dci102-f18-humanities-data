@@ -60,7 +60,7 @@ _Methodology review_
 **Read for Thursday:**
 
 * [The Historian's Macroscope](http://www.themacroscope.org/?page_id=593), "Who We Are..." through "Chapter One Conclusion" (see table of contents)
-* [Problems with Data](http://walshbr.com/textanalysiscoursebook/book/data-cleaning/problems-with-data/)
+* [Problems with Data](http://walshbr.com/textanalysiscoursebook/book/data-cleaning/problems-with-data/) from Text Analysis Coursebook
 
 **Due on Thursday:**
 
