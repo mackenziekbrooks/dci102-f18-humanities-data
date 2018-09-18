@@ -149,7 +149,7 @@ _Project work + documentation_
 _Methodology review_
 
 * Unit 1 project debrief. Be prepared to share your results for Unit 1. 
-* Guest speaker: Alex Farley '19
+* Guest speaker: Alex Farley '19 + Kellie Harra
 
 **Read for Tuesday the 16th:**
 
