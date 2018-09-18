@@ -59,8 +59,8 @@ _Methodology review_
 
 **Read for Thursday:**
 
-* [The Historian's Macroscope](http://www.themacroscope.org/?page_id=593), "Who We Are..." through "Putting Big Data to Good Use"
-* [The CobWeb: Can the Internet Be Archived?](http://www.newyorker.com/magazine/2015/01/26/cobweb)
+* [The Historian's Macroscope](http://www.themacroscope.org/?page_id=593), "Who We Are..." through "Chapter One Conclusion" (see table of contents)
+* [Problems with Data](http://walshbr.com/textanalysiscoursebook/book/data-cleaning/problems-with-data/)
 
 **Due on Thursday:**
 
@@ -68,6 +68,7 @@ _Methodology review_
 
 ### Thursday, 9/20/18
 
+_Methodology review_
 _Data introduction_
 
 * Assignment: Methodology review due to your Box folder by 2:45pm. Be prepared to share. 
