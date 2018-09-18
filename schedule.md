@@ -55,7 +55,7 @@
 _Methodology review_
 
 * Lecture: 4 ways to read a text
-* Lab: text analysis 
+* Lab: text analysis by hand
 
 **Read for Thursday:**
 
