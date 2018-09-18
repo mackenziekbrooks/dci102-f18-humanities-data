@@ -60,7 +60,7 @@ _Methodology review_
 **Read for Thursday:**
 
 * [The Historian's Macroscope](http://www.themacroscope.org/?page_id=593), "Who We Are..." through "Chapter One Conclusion" (see table of contents)
-* [Problems with Data](http://walshbr.com/textanalysiscoursebook/book/data-cleaning/problems-with-data/) from Text Analysis Coursebook
+
 
 **Due on Thursday:**
 
@@ -81,6 +81,9 @@ _Data introduction_
 
 * [Beginning with Regular Expressions](https://recompilermag.com/issues/issue-0/beginning-with-regular-expressions/)
 * [Cleaning OCR'd text with regular expressions](http://programminghistorian.org/lessons/cleaning-ocrd-text-with-regular-expressions)
+* [Problems with Data](http://walshbr.com/textanalysiscoursebook/book/data-cleaning/problems-with-data/) from Text Analysis Coursebook
+
+
 
 ### Tuesday, 9/25/18
 
