@@ -43,7 +43,7 @@ Resources on evaluating digital projects:
 
 ### Research Question
 
-One of the first steps in your project should be to identify your research question(s). WHat questions do you want to ask of this data? What is your angle? What topics are you interested in? It's important to form a question that you think could be answered by the data we have in the time we have available. It's okay to start small.  
+One of the first steps in your project should be to identify your research question(s). What questions do you want to ask of this data? What is your angle? What topics are you interested in? It's important to form a question that you think could be answered by the data we have in the time we have available. It's okay to start small.  
 
 For example, as a librarian, I might be curious about mentions of the library in the Ring-tum Phi. What role does the library play in students' lives and how has that changed over time? Is the library mentioned more around exam time? Does the library get featured by the RTP, or just casually mentioned as a physical space on campus? How did the new library building change the tone or narrative of the library at W&L? 
 
