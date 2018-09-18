@@ -100,8 +100,6 @@ _Data cleanup_
   * Specifically, what can you do to the text files to make them easier to work with? 
 * Review the Assignments page for Unit 1. Bring questions.
 
-* [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet) \(concentrate on the first couple sections\)
-
 * Read: [Argument Clinic](http://scottbot.net/argument-clinic/)
 
 ### Thursday, 9/27/18
