@@ -124,6 +124,7 @@ _Data clean up + project work_
 
 _Data viz + project work_
 
+* Assignment: research question due
 * Lab: text analysis tools + individual consults
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day8.html)
 
