@@ -60,7 +60,6 @@ _Methodology review_
 **Read for Thursday:**
 
 * [The Historian's Macroscope](http://www.themacroscope.org/?page_id=593), "Who We Are..." through "Chapter One Conclusion" (see table of contents)
-* [How Computers Read Texts](http://walshbr.com/textanalysiscoursebook/book/cyborg-readers/computer-reading/) + [Distant Reading](http://walshbr.com/textanalysiscoursebook/book/reading-at-scale/distant-reading/)
 
 **Due on Thursday:**
 
@@ -81,7 +80,7 @@ _Data introduction_
 
 * [Beginning with Regular Expressions](https://recompilermag.com/issues/issue-0/beginning-with-regular-expressions/)
 * [Cleaning OCR'd text with regular expressions](http://programminghistorian.org/lessons/cleaning-ocrd-text-with-regular-expressions)
-* [Problems with Data](http://walshbr.com/textanalysiscoursebook/book/data-cleaning/problems-with-data/) from Text Analysis Coursebook
+* [How Computers Read Texts](http://walshbr.com/textanalysiscoursebook/book/cyborg-readers/computer-reading/) + [Distant Reading](http://walshbr.com/textanalysiscoursebook/book/reading-at-scale/distant-reading/) + [Problems with Data](http://walshbr.com/textanalysiscoursebook/book/data-cleaning/problems-with-data/) from Text Analysis Coursebook
 
 
 
