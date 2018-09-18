@@ -115,7 +115,7 @@ _Data clean up + project work_
 * [The Historian's Macroscope](http://www.themacroscope.org/?page_id=837), "Making Your Data Legible" through "Making an Effective Visualization." \(Don't worry about implementing all these suggestions, we will continue to work with visualizations in the next two units.\)
 
 **Due Tuesday**
-Research Question
+* Research Question
 
 ### Tuesday, 10/2/18
 
