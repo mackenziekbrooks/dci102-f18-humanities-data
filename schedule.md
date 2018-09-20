@@ -60,6 +60,7 @@ _Methodology review_
 **Read for Thursday:**
 
 * [The Historian's Macroscope](http://www.themacroscope.org/?page_id=593), "Who We Are..." through "Chapter One Conclusion" (see table of contents)
+* Oh and also [Why We're All Digital Now](http://www.themacroscope.org/?page_id=617)
 
 **Due on Thursday:**
 
