@@ -73,8 +73,7 @@ _Data introduction_
 
 * Assignment: Methodology review due to your Box folder by 2:45pm. Be prepared to share. 
 * Data set introduction
-* Lab: OCR
-* Lab: command line practice
+* Lab: RTP scavenger hunt
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day5.html)
 
 **Read for Tuesday:**
