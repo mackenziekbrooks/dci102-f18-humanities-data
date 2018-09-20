@@ -14,6 +14,32 @@
 4. Paste in a URL from the Digital Archive AND the filename for the text file in your data set. 
 5. As you go along, note your observations/frustrations about the data set at the bottom of the Box note. What was hard to find? Why? Where are the inconsistencies? How's the OCR? 
 
+### Topics:
+* Coeducation
+* Integration 
+* Bill Clinton 
+* Fraternity Renaissance
+* Sit in (Vietnam) 
+* Jesse Jackson
+* MLK 
+* Y2K
+* “The move” of Leyburn Library
+* WW1
+* Ambulance Corps 
+* WW2
+* ATO steals a train
+* Hurricane Camille 
+* Virginia Horse Center
+* Prohibition 
+* Lee Chapel 1920s controversy or 1960s renovation
+* Mock Con (Alvin Barclay) 
+* Buildings! Burning of Tucker, Lenfest/Wilson, Elrod Commons, 
+* Cold War
+* Best Fancy Dress theme 
+* Best Advertisement
+* Best Greek story:
+* Best sports story: 
+
 
 ## Activity 3
 
