@@ -40,8 +40,15 @@
 * Best Greek story:
 * Best sports story: 
 
-
 ## Activity 3
+To search the RTP from your computer, open it in your text editor. 
+
+In Sublime/Atom:
+* File > Open > select TesseractOCR. If you select the file, then press open, rather than double clicking and entering the folder, you should see all the folders in the left pane. 
+* Use ```Cmd + F``` to search or the Find menu item. If you select a folder name or specific file on the left, you can search on just that folder/file.
+
+
+## Activity 
 
 Using your new found command line skills, let's learn more about the RTP data.
 
