@@ -1,38 +1,21 @@
 # Unit 1 / Activities
 
-## Data Cleanup
+## Activity 1: get the data!
 
-### Activity 1
+* In Box ```/ DCI102-F18-data / Uni1_Text``` there is a zip file ```TesseractOCR```. 
+* Do not search then click on this folder! It will unzip, expand, and take up a lot of space. 
+* Instead, download this file to your Desktop, then unzip/decompress to view the contents. 
 
-Let's explore what's in the Ring-tum Phi!
+## Activity 2: RTP Scavenger Hunt
 
-* Through the Digital Archive or the text files on your machine, start browsing the Ring-tum Phi.
-* Not sure where to start? 
-  * Look up the year you were born.
-  * Find coverage of a major historical event.
-  * Find Mock Con coverage. 
-  * Mention of sorority/fraternity? 
-  * Did your parent/older friend attend W&L?
-  * Sports, music, or other W&L events?
-  * Other ideas: diversity, alcohol/drug policies, gender issues, town and gown relations...
-* Pay attention to your browsing experience. Is it easy to find what you're looking for? Are you tumbling down research rabbit holes?
+1. Form teams of three. Each team is responsible for 3-4 topics + "best of" topics. 
+2. In your team's Box note, list your team name, participants, and your topics as headings. 
+3. For each topic, find the relevant RTP issue in BOTH the Digital Archive and the data set on your computer. 
+4. Paste in a URL from the Digital Archive AND the filename for the text file in your data set. 
+5. As you go along, note your observations/frustrations about the data set at the bottom of the Box note. What was hard to find? Why? Where are the inconsistencies? How's the OCR? 
 
-### Activity 2
 
-The type of OCR tool you need depends on your project. If you have modern documents, you might be okay with a less sophisticated tool.
-
-Compare and contrast the output of several OCR tools:
-
-* Use the TIFF files in the `Unit1_Text` in Box.
-* Submit the same TIFF file to each of these tools.
-
-  * Adobe Pro. Available on [myvi.wlu.edu ](http://myvi.wlu.edu/)
-
-  * [Tesseract](https://github.com/tesseract-ocr/tesseract/wiki). Easy installation on Mac: `brew install tesseract` in the command line.
-
-* Which tool does a better job? Which is easier to install? To use? Which tool is more efficient for the task at hand? What if you had to OCR 100 years of the RTP?
-
-### Activity 3
+## Activity 3
 
 Using your new found command line skills, let's learn more about the RTP data.
 
@@ -42,7 +25,7 @@ Using your new found command line skills, let's learn more about the RTP data.
 * Can you figure out how to list all the file names in `TesseractOCR` and send them to a text file? 
 * Continue learning by working through the tutorials in the Command Line page using the RTP data. 
 
-### Activity 4
+## Activity 4
 
 Box also contains the folder `/tesseractscript` with the original scripts used to create the OCRed text files. The `tesseract_process.sh` script was written by Professor Sara Sprenkle in 2014 in order to create a data set for another DH course.
 
