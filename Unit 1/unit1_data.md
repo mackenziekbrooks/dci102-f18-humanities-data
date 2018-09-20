@@ -8,7 +8,7 @@ The Ring-tum Phi \(RTP\) is Washington and Lee's student newspaper, published on
 
 But how do you find what you're looking for in the RTP? How do you browse if you don't know what you're looking for? Can anyone access it at any time?
 
-Currently, the RTP is available in several forms. Can you tell what they are from the [catalog record](http://annie.wlu.edu:80/record=b1345778~S0)?
+Currently, the RTP is available in several forms. Can you tell what they are from the [catalog record](https://wlu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000405049704161&context=L&vid=01WLU_INST:01WLU&search_scope=MyInst_and_CI&tab=Everything&lang=en)?
 
 1. The entire run of the print newspaper, bound together by volume, sits in the vault in Special Collections. [See what that looks like.](https://i.makeagif.com/media/8-11-2016/aNVqo7.gif)
 2. Most of the entire run is available on microfilm. 
