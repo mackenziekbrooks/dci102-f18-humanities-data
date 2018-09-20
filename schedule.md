@@ -75,7 +75,7 @@ _Data introduction_
 * Data set introduction
 * Lab: OCR
 * Lab: command line practice
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day5.html)
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day5.html)
 
 **Read for Tuesday:**
 
