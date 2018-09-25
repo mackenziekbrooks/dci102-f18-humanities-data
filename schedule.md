@@ -95,6 +95,7 @@ _Data cleanup_
 * Review the Assignments page for Unit 1. Bring questions.
 
 * Read: [Argument Clinic](http://scottbot.net/argument-clinic/)
+* Look over: [Lexos Manual](http://scalar.usc.edu/works/lexos/manual)
 
 ### Thursday, 9/27/18
 
