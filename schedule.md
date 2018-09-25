@@ -7,15 +7,15 @@
 * Introductions and course overview
 * Getting to know you [survey](https://docs.google.com/forms/d/e/1FAIpQLSezew0M6oMR-EkWEqyyxWdc-VHycLu3PutC1leBuNRh2uD2ng/viewform?usp=sf_link)
 * Lecture: what is data in the humanities?
-* Lab: [environment](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/Unit%200/Unit%200%20/environment.html) setup
-* Lab: domain setup with [Reclaim Hosting](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/Unit%200/Unit%200/reclaimmd.md)
+* Lab: [environment](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/Unit 0/Unit 0 /environment.html) setup
+* Lab: domain setup with [Reclaim Hosting](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/Unit 0/Unit 0/reclaimmd.md)
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day1.html)
 
 **Read for Tuesday:**
 
 * [Digital\_Humanities](https://web.archive.org/web/20180217210709/https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), chap 1
 * [Technology Is Taking Over English Departments: The false promise of the digital humanities](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)
-* [What is Data?](http://schoolofdata.org/handbook/courses/what-is-data/) (if this link doesn't work, [try this one](http://web.archive.org/web/20161205121253/http://schoolofdata.org:80/handbook/courses/what-is-data/))
+* [What is Data?](http://schoolofdata.org/handbook/courses/what-is-data/) \(if this link doesn't work, [try this one](http://web.archive.org/web/20161205121253/http://schoolofdata.org:80/handbook/courses/what-is-data/)\)
 * [Defining Data for Humanists: Text, Artifact, Information or Evidence?](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
 
 ### Tuesday, 9/11/18
@@ -26,8 +26,6 @@
 * Lab: CPanel
 * Lab: HTML + CSS
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day2.html)
-
-
 
 **Read for Thursday:**
 
@@ -49,7 +47,6 @@
 * [Intro to Text Analysis workbook](http://walshbr.com/textanalysiscoursebook/) by Profs. Brandon Walsh and Sarah Horowitz
   * read the Intro, Issues in Text Analysis, and Close Reading.
 
-
 ### Tuesday, 9/18/18
 
 _Methodology review_
@@ -59,7 +56,7 @@ _Methodology review_
 
 **Read for Thursday:**
 
-* [The Historian's Macroscope](http://www.themacroscope.org/?page_id=593), "Who We Are..." through "Chapter One Conclusion" (see table of contents)
+* [The Historian's Macroscope](http://www.themacroscope.org/?page_id=593), "Who We Are..." through "Chapter One Conclusion" \(see table of contents\)
 * Oh and also [Why We're All Digital Now](http://www.themacroscope.org/?page_id=617)!
 
 **Due on Thursday:**
@@ -68,7 +65,7 @@ _Methodology review_
 
 ### Thursday, 9/20/18
 
-_Methodology review_
+_Methodology review_  
 _Data introduction_
 
 * Assignment: Methodology review due to your Box folder by 2:45pm. Be prepared to share. 
@@ -82,14 +79,11 @@ _Data introduction_
 * [Cleaning OCR'd text with regular expressions](http://programminghistorian.org/lessons/cleaning-ocrd-text-with-regular-expressions)
 * [How Computers Read Texts](http://walshbr.com/textanalysiscoursebook/book/cyborg-readers/computer-reading/) + [Distant Reading](http://walshbr.com/textanalysiscoursebook/book/reading-at-scale/distant-reading/) + [Problems with Data](http://walshbr.com/textanalysiscoursebook/book/data-cleaning/problems-with-data/) from Text Analysis Coursebook
 
-
-
 ### Tuesday, 9/25/18
 
 _Data cleanup_
 
 * Guest speaker: Prof. Jason Mickel, [slides](https://docs.google.com/presentation/d/1dGwQHX8DNuRXgw80nKvBInTY7kJ7DjQKFC6RugSS3So/edit?usp=sharing)
-* Lab: regular expressions, [answer key](https://docs.google.com/document/d/1AzhUusEp5PM4sQbnWGODe7B6IezkVoe6HBaLjm8hrAg/edit?usp=sharing)
 
 **For Thursday:**
 
@@ -115,6 +109,7 @@ _Data clean up + project work_
 * [The Historian's Macroscope](http://www.themacroscope.org/?page_id=837), "Making Your Data Legible" through "Making an Effective Visualization." \(Don't worry about implementing all these suggestions, we will continue to work with visualizations in the next two units.\)
 
 **Due Tuesday**
+
 * Research Question
 
 ### Tuesday, 10/2/18
@@ -192,8 +187,6 @@ _Data cleanup_
 * [Missed Connections: What Search Engines Say About Women](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf)
 
 ### Tuesday, 10/23/18
-
-
 
 ### Thursday, 10/25/18
 
