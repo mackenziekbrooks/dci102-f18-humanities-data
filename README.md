@@ -10,7 +10,7 @@ Mackenzie Brooks, Assistant Professor & Digital Humanities Librarian
 
 brooksm@wlu.edu // 540-458-8659 // Leyburn 218
 
-Office hours: Wednesdays, 9-11am; Thursday 1-2pm. 
+Office hours: Wednesdays, 10-12pm; Thursday 1-2pm. 
 
 # Course description
 
