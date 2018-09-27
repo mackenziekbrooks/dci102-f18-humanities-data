@@ -71,7 +71,16 @@ Using your new found regex skills, let's start cleaning up some RTP data.
 	* How would you find large spaces between words?
 	* Are there frequent misspellings of common words? \(Ring-tum, Rockbridge, Washington for instance\).
 
-## Part 3 - Next steps
+## Part 3 - Lexos
+With your data subset, start exploring Lexos. Use the documentation often!
+* What looks the most helpful on the `Prepare > Scrub` menu?
+* What are lemmas?
+* What is a document term matrix?
+* Which visualization is most useful?
+* What is interesting in the `Analyze` menu? Why?
+
+
+## Part 4 - Next steps
 * What are the biggest problems with the data set?
 * Which problems can you solve?
 * Based on your proposed research question, what are your priorities for OCR cleanup? 
