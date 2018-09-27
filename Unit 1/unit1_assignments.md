@@ -55,7 +55,7 @@ Specs:
 	* on time
 	* 200-300 words
 	* publish on your website 
-* 1 point for listing 2-3 potential research questions.
+* 1 point for listing 2-3 potential research questions and introducing the data set.
 * 1 point for research questions that are scaled and scoped to the data set at hand.
 * 1 point for providing contextual details about the data set. Save the technical details for the project documentation assignment.
 * 1 point for identifying your disciplinary angle. Are you approaching this project as a historian, a literature person, someone else entirely? Who is your audience?
