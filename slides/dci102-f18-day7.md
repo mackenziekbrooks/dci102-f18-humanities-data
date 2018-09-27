@@ -45,5 +45,5 @@ date: September 27, 2018
 
 # data assessment 
 * see Unit 1 / Activities
-* extra point for doing it by Tuesday 
+* feedback if submitted by Tuesday
 
