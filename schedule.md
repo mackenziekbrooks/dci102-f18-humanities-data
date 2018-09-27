@@ -103,7 +103,7 @@ _Data clean up + project work_
 
 * Lab: data exploration, cleanup
 * Lab: project prep + Lexos
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day7.html)
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day7.html)
 
 **Read for Tuesday:**
 
