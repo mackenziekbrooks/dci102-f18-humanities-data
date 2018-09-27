@@ -48,7 +48,7 @@ In Sublime/Atom:
 * Use ```Cmd + F``` to search or the Find menu item. If you select a folder name or specific file on the left, you can search on just that folder/file.
 
 # Data Assessment 
-Record the answers to all questions in a text file saved to DCI102-studentname Box Folder. 
+Record the answers to all questions in a text file or Word doc saved to DCI102-studentname Box Folder. 
 
 ## Part 1 - File structure + command line
 Using your new found command line skills, let's learn more about the RTP data. 
