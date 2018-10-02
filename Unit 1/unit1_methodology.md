@@ -47,7 +47,6 @@ Classification and NER are other methods of "natural language processing" that y
 ### Lexos
 This [tool](http://lexos.wheatoncollege.edu/upload) from Wheaton College performs some powerful pre-processing of your corpus for text analysis. 
 
-
 ### Wordle
 
 Word clouds are a simple way to get started. Copy and paste text from the RTP into [Wordle](http://www.wordle.net/).
