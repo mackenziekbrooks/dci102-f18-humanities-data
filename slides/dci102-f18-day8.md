@@ -1,15 +1,20 @@
 ---
 author: Mackenzie Brooks
 title: DH 102 // Text analysis tools
-date: October 3, 2017
+date: October 2, 2018
 ---
 
-# Sit with your operating system! 
-
 # data visualization 
-> When first obtaining or creating a dataset, visualizations can be a valuable aid in understanding exactly what data are available and how they interconnect.
+> A method of deforming, compressing, or otherwise manipulating data in order to see it in new and enlightening ways. A good visualization can turn hours of careful study into a flash of insight, or can convey a complex narrative in a single moment.  
 
-# what makes good data viz?
+Historian's Macroscope
+
+# But... 
+> Visualizations can also lie, confuse, or otherwise misrepresent if used poorly.  
+
+Historian's Macroscope
+
+# what makes bad data viz?
 
 #
 <img src="images/badchart1.png" style="width:80%;" />
@@ -30,17 +35,23 @@ date: October 3, 2017
 * [https://pudding.cool/](https://pudding.cool/)
 * [http://www.informationisbeautiful.net/](http://www.informationisbeautiful.net/)
 
+# Teams
+|team 1|team 2|team 3|team 4|
+|---|---|---|---|
+|Bancks   Anne  Mary Hampton Peyton|Gunnar Ian Amanda  Maggie| Duncan Chase  Alice  Karel  Kathleen|Conner  Rich  Madeline  Charlie  Jenna|
+
 # Text analysis tools
-* Voyant
-* AntConc
-* [Topic Modeling Tool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html) and/or Mallet
-* Python? Excel?
+* AntConc (team 1)
+* [Topic Modeling Tool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html) and/or Mallet (team 2)
+* Lexos (team 3)
+* Voyant (team 4)
 
 # Evaluation questions
 * Who created this tool?
 * What documentation is available?
 * How do you input/output data? 
 * What visualization options are available? 
+* What types of questions does this tool enable?
 
 # Project planning 
 1. What is my research question or topic?
