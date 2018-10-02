@@ -38,7 +38,7 @@ Historian's Macroscope
 # Teams
 |team 1|team 2|team 3|team 4|
 |---|---|---|---|
-|Bancks   Anne  Mary Hampton Peyton|Gunnar Ian Amanda  Maggie| Duncan Chase  Alice  Karel  Kathleen|Conner  Rich  Madeline  Charlie  Jenna|
+|Bancks   Anne  Mary Hampton Peyton|Gunnar Ian Amanda  Maggie| Duncan  Karel Conner Kathleen|Rich  Madeline  Charlie  Jenna|
 
 # Text analysis tools
 * AntConc (team 1)
