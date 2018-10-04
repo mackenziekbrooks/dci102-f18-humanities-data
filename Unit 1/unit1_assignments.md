@@ -72,7 +72,7 @@ Specs:
 	* on time
 	* saved in Box.
 * 1 point for a zipped folder with your modified/cleaned data set. 
-* 1 point for a text file titled "data-assessment-%DATE.txt" with the results of our in-class activity.
+* 1 point for the data assessment activity parts 1 + 2 in a text file or word doc.
 * 2 points for a text file titled "data-cleanup-%DATE.txt" with a list of the modifications you made to your data set. Those modifications could/should include:
 	* 5 or more regular expressions patterns that have a major effect on your data set. 
 	* Changes made to the existing file structure or file names. Did you combine individual issues into years for instance?
