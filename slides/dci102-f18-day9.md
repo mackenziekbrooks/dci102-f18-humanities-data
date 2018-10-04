@@ -1,12 +1,8 @@
 ---
-author: Mackenzie Brooks
-title: DH 102 // Documentation
-date: October 5, 2017
+author: Prof. Mackenzie Brooks
+title: DCI 102 // Documentation
+date: October 4, 2018
 ---
-
-# Friday office hours
-* 10am-12pm
-* 2-5pm 
 
 # Documentation is one of those boring important things.
 
@@ -31,12 +27,21 @@ date: October 5, 2017
 * Markdown!
 * Include screenshots when appropriate.
 
+# Let's find docs for
+* Voyant
+* Topic Modeling Tool
+* Lexos
+
+# Activity 4
+
+# Project work 
+
 # Unit 1 assignments 
 * data 
-	* assessment from activity #6
+	* data assessment activity
 	* list of cleanup tasks (regex)
 	* zipped with data subset if applicable
-* narrative 
+* results  
 * visualization 
 
 # Unit 1 assignments 
@@ -44,10 +49,6 @@ date: October 5, 2017
 * reflection
 * 2 blog posts
 
-# Wordpress
-* choose/customize your theme
-* arrange content by unit
-* pages vs. posts 
 
 
 
