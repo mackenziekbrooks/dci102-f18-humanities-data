@@ -128,9 +128,8 @@ _Data viz + project work_
 
 _Project work + documentation_
 
-* Lab: website setup
 * Lab: documentation
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day9.html)
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day9.html)
 
 **All Unit 1 assignments due 10/9/18 by 2:45pm**
 

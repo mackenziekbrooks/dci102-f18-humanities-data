@@ -54,8 +54,8 @@ Let's practice writing documentation for a technical task.
 * Compose 5-7 steps to complete the assigned task. 
 * Remember the best practices we discussed. Include screenshots and links when appropriate.
 * Then, compare notes with another student with your number. 
-	* How did you do things differently? The same?
-* Finally, compare notes with another student. Pretend you have never done this before! Can you follow their steps? What are they missing? What was helpful?
+	* How did you do things differently? Different doesn't mean bad/good. Discuss motivations. 
+* Finally, compare notes with a student with another number. Pretend you have never done this before! Can you follow their steps? What are they missing? What was helpful?
 
 
 1. Install Wordpress from CPanel
