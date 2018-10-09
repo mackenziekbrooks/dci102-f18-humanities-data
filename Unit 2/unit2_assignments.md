@@ -18,7 +18,7 @@ To familiarize ourselves with the various methodologies in the DH world, let's c
 * 1 point for describing the following:
 	* Tell me about the data. Where did it come from? How has it been cleaned, modified, or enhanced? How can you tell?
 	* What established standards \(technical or otherwise\) does the project data use?
-	* What text analysis methods are at play? What tools are being used? How can you tell?
+	* What netework analysis methods are at play? What tools are being used? How can you tell?
 	* How open is the project? Do they share their data? In what format? Is there public documentation?
 * 1 point for analyzing the following:
 	* Does the methodology seem appropriate to the data and goals?
