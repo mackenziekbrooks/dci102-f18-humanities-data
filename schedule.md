@@ -148,6 +148,8 @@ _Methodology review_
 * [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
 * [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
 
+** Due Tuesday the 16th: methodology review **
+
 ### Thursday, 10/11/18
 
 No class, reading days
