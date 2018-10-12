@@ -29,12 +29,8 @@ This database is a boon to family history and local history researchers. In addi
 
 Obviously, having this information available online is a tremendous resource, but what else can we learn about connections between the former residents of Lexington if this data was visualized as a network? How could we enhance the biographical information of these people? 
 
-## Evergreen Cemetery
-Did you know Lexington has an African-American cemetery? Do you know where it is? African-American cemeteries are rarely given the same attention and care as primarily white cemeteries. In Lexington's case, they're even [subject to property development and removed from their original neighborhood](http://www.washingtontimes.com/news/2007/sep/29/black-cemetery-doubt-remains/).   
-
-Fortunately, there is some data available on [findagrave.com](https://secure.findagrave.com/cgi-bin/fg.cgi?page=gsr&GScid=50176). But it is not as easily browseable as the Stonewall Jackson Cemetery website and there is no metadata beyond birth date and death year. 
-
-What can you do with this data? Do you think it's complete? Pay a visit to the cemetery to find out. 
+## President Wilson Correspondence 
+W&L went co-ed in 1985, under the leadership of President John Wilson. As part of her research on the networks of ethical leaders, Prof. Megan Hess, with assistance from Alex Farley '19, has been working on the correspondence of Wilson with his constiuents. 
  
   
    
