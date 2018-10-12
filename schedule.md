@@ -144,9 +144,9 @@ _Methodology review_
 
 **Read for Tuesday the 16th:**
 
-* [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
-* [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
 * [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
+* [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
+* [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf) (don't panic, it's mostly graphs)
 
 ** Due Tuesday the 16th: methodology review **
 
