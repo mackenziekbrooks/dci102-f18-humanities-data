@@ -159,7 +159,7 @@ No class, reading days
 _Methodology review_
 
 * **Assignment: project review due by 2:30pm. Be prepared to share.**
-* Discussion: readings
+* Discussion: readings + assignment
 * Data set introduction
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day10.html)
 
