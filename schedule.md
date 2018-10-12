@@ -160,18 +160,29 @@ _Methodology review_
 
 * **Assignment: project review due by 2:30pm. Be prepared to share.**
 * Discussion: readings + assignment
-* Data set introduction
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day10.html)
 
 **For Thursday:**
+* [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
+* [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
+* [Putting the Human Back into the Digital Humanities: Feminism, Generosity, and Mess](http://dhdebates.gc.cuny.edu/debates/text/61)
+* [Missed Connections: What Search Engines Say About Women](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf)
 
+
+
+
+### Thursday, 10/18/18
+* Critical DH discussion 
+* Slides
+
+** Read for Tuesday:**
 * [Databases for people who don't know a whole lot about them](https://medium.com/@rwilliams_bv/intro-to-databases-for-people-who-dont-know-a-whole-lot-about-them-a64ae9af712#.tmk6ooisu)
 * Install [Open Refine](http://openrefine.org/)
 * Watch ["What is Linked Data?"](https://www.youtube.com/watch?v=4x_xzT5eF5Q) by Manu Sporny
 * Review this Programming Historian Lesson: "[Using SPARQL to access Linked Open Data](http://programminghistorian.org/lessons/graph-databases-and-SPARQL)" and "[Cleaning Data with Open Refine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)"
 
-### Thursday, 10/18/18
 
+### Tuesday, 10/23/18
 _Data structures_  
 _Data cleanup_
 
@@ -180,14 +191,6 @@ _Data cleanup_
 * Lab: Open Refine 
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day11.html)
 
-** Read for Thursday:**
-
-* [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
-* [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
-* [Putting the Human Back into the Digital Humanities: Feminism, Generosity, and Mess](http://dhdebates.gc.cuny.edu/debates/text/61)
-* [Missed Connections: What Search Engines Say About Women](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf)
-
-### Tuesday, 10/23/18
 
 ### Thursday, 10/25/18
 
