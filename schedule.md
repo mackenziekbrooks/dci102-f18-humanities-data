@@ -172,7 +172,8 @@ _Methodology review_
 
 
 ### Thursday, 10/18/18
-* Critical DH discussion 
+* Critical DH discussion
+* Data set introduction
 * Slides
 
 ** Read for Tuesday:**
