@@ -169,8 +169,6 @@ _Methodology review_
 * [Missed Connections: What Search Engines Say About Women](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf)
 
 
-
-
 ### Thursday, 10/18/18
 * Critical DH discussion
 * Data set introduction
@@ -194,11 +192,9 @@ _Data cleanup_
 
 
 ### Thursday, 10/25/18
-
-_Critical DH discussion_  
+ 
 _Network analysis tools_
 
-* Reading discussion
 * Network analysis tools workshop/sandbox
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day12.html)
 * [Survey](https://goo.gl/forms/4FBrUM0uIefk5Lcu2)
@@ -207,6 +203,8 @@ _Network analysis tools_
 
 * [Data + Design](https://infoactive.co/data-design/titlepage01.html), chapters on data cleaning and visualization \(and more!\)
 * [When the Designer Shows up in the Design](https://www.propublica.org/article/when-the-designer-shows-up-in-the-design)
+
+**Due Tuesday: Research question**
 
 ### Tuesday, 10/30/18
 
