@@ -16,7 +16,7 @@ To see what others have done with this type of material, check out the [Modernis
 ## Thomas Carter Personal Library
 This summer, Laurel Myers completed an inventory of the personal library of a 1950s W&L Student, Thomas Carter. She created this inventory as the first step in a project about the reading habits of a young literary scholar. You can learn more about this project in the WLUDH [GitHub repo](https://github.com/wludh/carter-library). There's a biographical sketch of Carter in a 1980 _Shenandoah_ article available in Box.
 
-What can we learn about Carter and his reading or book buying habits through network visualizations? What were popular authors or topics? How did his taste change over time? What genres are represented? 
+What can we learn about Carter and his reading or book buying habits through network visualizations? What were popular authors or topics? How did his taste change over time? What genres are represented? Check out this Hathi Trust project, [Creating Data](http://creatingdata.us/datasets/hathi-features/), for a model of how to make meaning from library collections. 
 
 ## Stonewall Jackson Cemetery
 If you haven't noticed, Lexington is a major tourist destination for Civil War History. Places like Lee Chapel and the Stonewall Jackson Cemetery attract tens of thousands of visitors a year. In 2013, Leyburn Library launched an online database of those buried in the Stonewall Jackson Cemetery. Carol Karsch (Data and Statistical Support Specialist) collaborated with Lexington resident Tom Kastner to create the database. Emily Crawford '15 assisted with the work of cleaning up the data and the accompanying photos. 
