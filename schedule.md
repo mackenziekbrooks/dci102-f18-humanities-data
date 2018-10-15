@@ -160,7 +160,7 @@ _Methodology review_
 
 * **Assignment: project review due by 2:30pm. Be prepared to share.**
 * Discussion: readings + assignment
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day10.html)
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day10.html)
 
 **For Thursday:**
 * [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
