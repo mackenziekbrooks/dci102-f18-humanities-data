@@ -34,7 +34,7 @@ date: October 4, 2018
 
 # Activity 4
 
-# Project work 
+# Pep talk
 
 # Unit 1 assignments 
 * data 
