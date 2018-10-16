@@ -77,6 +77,8 @@ You can apply the same technology to your own corpus with a took called [Bookwor
 
 Check out [Getting Started with Topic Modeling and MALLET](http://programminghistorian.org/lessons/topic-modeling-and-mallet).
 
+Scott Enderle's Topic Modeling Tool [Quickstart Guide](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html)
+
 [Serendip](http://vep.cs.wisc.edu/serendip/) is a visual interface for interacting with the topic models of a corpus. Using their sample data, you can compare topics across all of Shakespeare's plays. It's also possible to load in your own corpus.
 
 ### Natural Language Toolkit \(NLTK\)

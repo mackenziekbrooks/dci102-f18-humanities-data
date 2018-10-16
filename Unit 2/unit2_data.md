@@ -1,9 +1,9 @@
 # Unit 2 / Network / Data 
 
-For the next two units, students will choose from two different data sets. 
+For the next two units, students will choose from several different data sets. 
 
 ## Shenandoah Index
-Some of you may have heard of *[Shenandoah](http://shenandoahliterary.org/)*, the literary magazine associated with W&L. It was actually founded here in the 1950s by a group of students. Now, it's run by R.T. Smith and published exclusively online. 
+Some of you may have heard of *[Shenandoah](http://shenandoahliterary.org/)*, the literary magazine associated with W&L. It was actually founded here in the 1950s by a group of students. Now, it's run by Beth Staples published exclusively online. 
 
 By this point in the course, you will know that not everything is available online. The full text of *Shenandoah* is not available for free or purchase. None of the journal aggregators have even made the index available. A student worker in Special Collections (thanks Monica Musgrave!) painstakingly typed up the spreadsheets you will work with during the 2014-2015 academic year. Until then, this data only existed in the covers of the print journal. 
 
@@ -16,7 +16,7 @@ To see what others have done with this type of material, check out the [Modernis
 ## Thomas Carter Personal Library
 This summer, Laurel Myers completed an inventory of the personal library of a 1950s W&L Student, Thomas Carter. She created this inventory as the first step in a project about the reading habits of a young literary scholar. You can learn more about this project in the WLUDH [GitHub repo](https://github.com/wludh/carter-library). There's a biographical sketch of Carter in a 1980 _Shenandoah_ article available in Box.
 
-What can we learn about Carter and his reading or book buying habits through network visualizations? What were popular authors or topics? How did his taste change over time? What genres are represented? 
+What can we learn about Carter and his reading or book buying habits through network visualizations? What were popular authors or topics? How did his taste change over time? What genres are represented? Check out this Hathi Trust project, [Creating Data](http://creatingdata.us/datasets/hathi-features/), for a model of how to make meaning from library collections. 
 
 ## Stonewall Jackson Cemetery
 If you haven't noticed, Lexington is a major tourist destination for Civil War History. Places like Lee Chapel and the Stonewall Jackson Cemetery attract tens of thousands of visitors a year. In 2013, Leyburn Library launched an online database of those buried in the Stonewall Jackson Cemetery. Carol Karsch (Data and Statistical Support Specialist) collaborated with Lexington resident Tom Kastner to create the database. Emily Crawford '15 assisted with the work of cleaning up the data and the accompanying photos. 
@@ -29,12 +29,8 @@ This database is a boon to family history and local history researchers. In addi
 
 Obviously, having this information available online is a tremendous resource, but what else can we learn about connections between the former residents of Lexington if this data was visualized as a network? How could we enhance the biographical information of these people? 
 
-## Evergreen Cemetery
-Did you know Lexington has an African-American cemetery? Do you know where it is? African-American cemeteries are rarely given the same attention and care as primarily white cemeteries. In Lexington's case, they're even [subject to property development and removed from their original neighborhood](http://www.washingtontimes.com/news/2007/sep/29/black-cemetery-doubt-remains/).   
-
-Fortunately, there is some data available on [findagrave.com](https://secure.findagrave.com/cgi-bin/fg.cgi?page=gsr&GScid=50176). But it is not as easily browseable as the Stonewall Jackson Cemetery website and there is no metadata beyond birth date and death year. 
-
-What can you do with this data? Do you think it's complete? Pay a visit to the cemetery to find out. 
+## President Wilson Correspondence 
+W&L went co-ed in 1985, under the leadership of President John Wilson. As part of her research on the networks of ethical leaders, Prof. Megan Hess, with assistance from Alex Farley '19, has been working on the correspondence of Wilson with his constituents. 
  
   
    

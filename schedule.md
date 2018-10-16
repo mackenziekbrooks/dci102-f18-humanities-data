@@ -128,9 +128,8 @@ _Data viz + project work_
 
 _Project work + documentation_
 
-* Lab: website setup
 * Lab: documentation
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day9.html)
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day9.html)
 
 **All Unit 1 assignments due 10/9/18 by 2:45pm**
 
@@ -145,9 +144,11 @@ _Methodology review_
 
 **Read for Tuesday the 16th:**
 
-* [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
-* [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)
 * [Networks Analysis ](http://www.themacroscope.org/?page_id=889)
+* [Demystifying Networks](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), Parts 1-2
+* [Network Theory, Plot Analysis](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf) (don't panic, it's mostly graphs)
+
+** Due Tuesday the 16th: methodology review **
 
 ### Thursday, 10/11/18
 
@@ -158,19 +159,28 @@ No class, reading days
 _Methodology review_
 
 * **Assignment: project review due by 2:30pm. Be prepared to share.**
-* Discussion: readings
-* Data set introduction
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day10.html)
+* Discussion: readings + assignment
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day10.html)
 
 **For Thursday:**
+* [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources) (look over)
+* [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 
+
+### Thursday, 10/18/18
+* Critical DH discussion?
+* Data set introduction
+* Visit to Special Collections?
+* Slides
+
+** Read for Tuesday:**
 * [Databases for people who don't know a whole lot about them](https://medium.com/@rwilliams_bv/intro-to-databases-for-people-who-dont-know-a-whole-lot-about-them-a64ae9af712#.tmk6ooisu)
 * Install [Open Refine](http://openrefine.org/)
 * Watch ["What is Linked Data?"](https://www.youtube.com/watch?v=4x_xzT5eF5Q) by Manu Sporny
 * Review this Programming Historian Lesson: "[Using SPARQL to access Linked Open Data](http://programminghistorian.org/lessons/graph-databases-and-SPARQL)" and "[Cleaning Data with Open Refine](http://programminghistorian.org/lessons/cleaning-data-with-openrefine)"
 
-### Thursday, 10/18/18
 
+### Tuesday, 10/23/18
 _Data structures_  
 _Data cleanup_
 
@@ -179,21 +189,11 @@ _Data cleanup_
 * Lab: Open Refine 
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day11.html)
 
-** Read for Thursday:**
-
-* [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
-* [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
-* [Putting the Human Back into the Digital Humanities: Feminism, Generosity, and Mess](http://dhdebates.gc.cuny.edu/debates/text/61)
-* [Missed Connections: What Search Engines Say About Women](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf)
-
-### Tuesday, 10/23/18
 
 ### Thursday, 10/25/18
-
-_Critical DH discussion_  
+ 
 _Network analysis tools_
 
-* Reading discussion
 * Network analysis tools workshop/sandbox
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day12.html)
 * [Survey](https://goo.gl/forms/4FBrUM0uIefk5Lcu2)
@@ -202,6 +202,8 @@ _Network analysis tools_
 
 * [Data + Design](https://infoactive.co/data-design/titlepage01.html), chapters on data cleaning and visualization \(and more!\)
 * [When the Designer Shows up in the Design](https://www.propublica.org/article/when-the-designer-shows-up-in-the-design)
+
+**Due Tuesday: Research question**
 
 ### Tuesday, 10/30/18
 
