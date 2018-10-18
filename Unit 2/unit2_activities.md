@@ -8,7 +8,16 @@ In order to practice using the terminology and methods of network analysis, let'
 3. Start making connections or edges in your network. What type of edges do you need? Do the edges have a weight?  
 4. Think about centrality. Do you have an ego network? How might you start calculating centrality?
 
-## Activity 2: Open Graph protocol
+## Activity 2: Special Collections Scavenger Hunt
+
+1. Form teams of 4-5. 
+2. Create a Box note in Unit 2 / Scavenger Hunt for your team. List your names at the top. 
+3. In Special Collections, groups will rotate through each collection. You should answer questions by reviewing the material and asking Special Collections staff. 
+4. For each collection, you'll want to consider: "where is the network here?" 
+5. For your bonus participation point, visit the Stonewall Jackson Cemetery and add a photo to your Box note. 
+
+
+## Activity 3: Open Graph protocol
 
 In this activity, you will semantically enrich your website using Facebook's [Open Graph Protocol](http://ogp.me/). As the site says, Open Graph Protocol "enables any web page to become a rich object in a social graph." When you paste a link into Facebook or Twitter and an image and title show up nicely formatted, this is why.  
 1. Create a new HTML page or find one of your HTML pages from the first week in class.  
