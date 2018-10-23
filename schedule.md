@@ -187,7 +187,7 @@ _Data cleanup_
 * Lecture: linked data
 * Lecture: How to structure data 
 * Lab: Open Refine 
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day11.html)
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day11.html)
 
 
 ### Thursday, 10/25/18
