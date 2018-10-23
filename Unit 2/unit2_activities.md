@@ -36,14 +36,14 @@ Using Open Refine, explore your data set. In a text file to be turned in with Un
 4. Which columns need to be modified for consistency? \(hint: any date field\)  
 5. Is there research you need to conduct to learn about the people in your data? How will you go about it?
 
-## Activity 4: Data Generation
+## Activity 5: Data Generation
 
 * Fill this out [data generation survey](https://goo.gl/forms/UeQlebJxdqGu7baP2) to create a simple data set for testing network analysis tools. 
 * Follow Miriam Posner's [tutorial](http://miriamposner.com/blog/a-fun-way-to-introduce-dh-students-to-dataviz/) to convert data to two columns. 
 * Data is available as .csv on Box. 
 * Load data into your chosen app for testing.
 
-## Activity 5: Set Your Intentions
+## Activity 6: Set Your Intentions
 
 * What is my research question or topic?
 * What are the biggest problems I have found with the data? What are realistic solutions?
@@ -51,7 +51,7 @@ Using Open Refine, explore your data set. In a text file to be turned in with Un
 * What resources do I need?
 * What are my next steps? Break them down!
 
-## Activity 6: Documentation
+## Activity 7: Documentation
 
 What makes good documentation? As _Data + Design_ [reminds](https://infoactive.co/data-design/ch08.html) us:
 
