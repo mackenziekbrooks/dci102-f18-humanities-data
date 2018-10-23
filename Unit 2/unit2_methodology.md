@@ -31,9 +31,6 @@ Graph databases privilege the relationships between units of information. Attrib
 ### Gephi
 [Gephi](https://gephi.org/) is a robust network/graph visualization tool. It runs from your computer and can accept large data sets (though you will need some patience). Gephi has a lot of options for changing the appearance of your network via filters and layout. You can also generate statistics about graph density etc. Lots of tutorials [here](https://gephi.org/users/).
 
-### Neo4j
-[Neo4j](https://neo4j.com/) is a "graph database." The "community edition" is easy to install and runs locally in your browser. Neo4j is well-documented and has a great training tutorial. Having experience with query languages like SQL will help with the learning curve. 
-
 ### Cytoscape
 [Cytoscape](http://www.cytoscape.org/) was designed for the sciences, but is now being used for more general network analysis and visualization purposes. 
 
