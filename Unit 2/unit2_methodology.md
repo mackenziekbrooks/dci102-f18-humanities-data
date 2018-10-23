@@ -25,6 +25,10 @@ Usually when we talk about databases, we're talking about relational databases. 
 Graph databases privilege the relationships between units of information. Attributes can be given to the nodes and edges to provide more details.
 
 ## Tools
+
+### Open Refine
+Though not a network tool per se, [Open Refine](http://openrefine.org/) is a really powerful tool for cleaning, modifying, and extending your data. 
+
 ### Palladio
 [Palladio](http://hdlab.stanford.edu/palladio/) is a data visualization tool created by Stanford's Humanities + Design Research Lab. It's a browser-based tool that accepts structured data and creates network, geospatial, and gallery visualizations. It's easy to use, but can crash under too much data. 
 
