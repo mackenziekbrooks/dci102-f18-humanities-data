@@ -27,7 +27,7 @@ In this activity, you will semantically enrich your website using Facebook's [Op
 5. So let's add some metadata! Visit [http://ogp.me/](http://ogp.me/) and add the basic metadata fields as listed to your HTML file.  
 6. Upload this file to your website, then paste the URL into the Debugger again. What do you see now?
 
-## Activity 3: Data Assessment
+## Activity 4: Data Assessment
 
 Using Open Refine, explore your data set. In a text file to be turned in with Unit 2 Data, answer the following:  
 1. What do the "Text Facet" or "Numeric Facet" features reveal about your data? Are there outliers that need investigation?  
@@ -38,7 +38,7 @@ Using Open Refine, explore your data set. In a text file to be turned in with Un
 
 ## Activity 4: Data Generation
 
-* Fill this out [data generation survey](https://docs.google.com/forms/d/e/1FAIpQLSeSBKxh-rv1W8z8vPLdeurrtrN6QAt3QkhXY8plkB4lzAMHOw/viewform?c=0&w=1) to create a simple data set for testing network analysis tools. 
+* Fill this out [data generation survey](https://goo.gl/forms/UeQlebJxdqGu7baP2) to create a simple data set for testing network analysis tools. 
 * Follow Miriam Posner's [tutorial](http://miriamposner.com/blog/a-fun-way-to-introduce-dh-students-to-dataviz/) to convert data to two columns. 
 * Data is available as .csv on Box. 
 * Load data into your chosen app for testing.
