@@ -189,6 +189,7 @@ _Data cleanup_
 * Lab: Open Refine 
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day11.html)
 
+**Attend "How Big Data Increases Inequality and Destroys Democracy" Cathy O'Neil: 10/24 at 5:30 PM in Northen and write a blog post for participation point** 
 
 ### Thursday, 10/25/18
  
@@ -227,7 +228,6 @@ _Project work + Documentation_
 
 ### Tuesday, 11/6/18
 
-MEET IN IQ CENTER!
 
 _Methodology review_
 
