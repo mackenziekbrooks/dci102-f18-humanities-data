@@ -139,6 +139,7 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 * What networks would you like to look at in or outside of your own field of study? Why? 
 * What interests you about the data set you have chosen to work with? What other local history topics could use network analysis/visualization?
 * Respond/reflect on our reading on Critical DH. See "[Missed Connections: What Search Engines Say About Women](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf)" or ["An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](http://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
+* Attend "How Big Data Increases Inequality and Destroys Democracy" Cathy O'Neil: 10/24 at 5:30 PM in Northen Auditorium and write a blog post about the event.
  *** 
 
 * Up to 2 blog posts due Tuesday, November 6, 2018 at 2:45pm. 
