@@ -64,7 +64,7 @@ Answer the following:
 4. What is useful about this tool and type of analysis?
 5. Are the visualizations meaningful? Easy to decipher? Why or why not?
 6. Compare and contrast tools.
-7. Does this tool expose problems with your data?
+7. Does this tool expose problems with your data? 
 
 
 ## Activity 7: Set Your Intentions
