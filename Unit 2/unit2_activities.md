@@ -39,11 +39,35 @@ Using Open Refine, explore your data set. In a text file to be turned in with Un
 ## Activity 5: Data Generation
 
 * Fill this out [data generation survey](https://goo.gl/forms/UeQlebJxdqGu7baP2) to create a simple data set for testing network analysis tools. 
-* Follow Miriam Posner's [tutorial](http://miriamposner.com/blog/a-fun-way-to-introduce-dh-students-to-dataviz/) to convert data to two columns. 
 * Data is available as .csv on Box. 
+* Using Open Refine, create an edge list. 
+  * Remove the timestamp column.
+  * From the first column after the names, select ```Transpose > Transpose cells across columns into rows```.
+  * Select the ```one column``` option and title your new column ```Value```. 
+  * Check the box for ```Fill down in other columns```.
+  * Press ```Transpose```. You should end up with two columns where each person's name is listed multiple times, corresponding with their answer to each survey question.
+* Extract your new edge list as .csv to download.
 * Load data into your chosen app for testing.
 
-## Activity 6: Set Your Intentions
+## Activity 6: Network Tools
+In small groups by operating system, download or open the following network visualization/analysis tools. Use our new survey edge list to demo these platforms. 
+
+1. Palladio
+2. Cytoscape
+3. Gephi 
+4. UCInet (Windows)
+
+Answer the following: 
+1. What do you think of the results? What's surprising? What's not?
+2. How about the tool itself? What options do you have?
+3. What can you do with the results?
+4. What is useful about this tool and type of analysis?
+5. Are the visualizations meaningful? Easy to decipher? Why or why not?
+6. Compare and contrast tools.
+7. Does this tool expose problems with your data?
+
+
+## Activity 7: Set Your Intentions
 
 * What is my research question or topic?
 * What are the biggest problems I have found with the data? What are realistic solutions?
@@ -51,7 +75,7 @@ Using Open Refine, explore your data set. In a text file to be turned in with Un
 * What resources do I need?
 * What are my next steps? Break them down!
 
-## Activity 7: Documentation
+## Activity 8: Documentation
 
 What makes good documentation? As _Data + Design_ [reminds](https://infoactive.co/data-design/ch08.html) us:
 
