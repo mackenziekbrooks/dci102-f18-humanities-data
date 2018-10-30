@@ -92,17 +92,6 @@ What makes good documentation? As _Data + Design_ [reminds](https://infoactive.c
 * Using your new list of principles, document one of your methods from this unit. It can be something you learned to do in Excel or Open Refine or one of the visualization tools.
 * Post this documentation to your website by Thursday's class. 
 
-## Activity 7: Excel tips
-
-* To open CSV file &gt; Get External Data &gt; From Text &gt; Choose your delimiter
-* To combine cells &gt; =\(A2&" "&B2\)
-* To fill in whole column, drag down the bottom right corner of the first cell.
-* Copy columns with formulas and paste special as "value" to preserve actual data.
-* Keyboard shortcuts! Alt + \_\_ to save time on commands.
-* Filter and sort.
-  * Check "expand selection" to sort all the rows in your spreadsheet.
-  * Use the filter option to show or hide certain data in your columns.
-* To format dates according to ISO standard, change column type to "Custom," then add in yyyy-mm-dd to the "type field."
 
 ## Activity 8: Peer Review
 
