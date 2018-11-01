@@ -219,8 +219,7 @@ _Project work_
 _Project work + Documentation_
 
 * Peer review of documentation, visualizations
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day13.html)
-* [Boxnote link](https://wlu.app.box.com/notes/243612555790)
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day13.html)
 
 **All Unit 2 assignments due Tuesday 11/7 by 2:30pm.**
 
