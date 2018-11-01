@@ -232,7 +232,7 @@ _Methodology review_
 
 * Unit 2 presentations
 * Vote! 
-* Guest speaker: Ben Gorham from University of Virginia 
+
 
 **Read for Thursday:**
 
@@ -243,6 +243,7 @@ _Methodology review_
 
 _Methodology review_
 
+* Guest speaker: Sean Tennant from UVa
 * Unit 3 planning/prep
 * Collaborative research
 * Activity 1 
