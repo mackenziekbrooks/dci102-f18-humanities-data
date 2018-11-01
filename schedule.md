@@ -227,11 +227,10 @@ _Project work + Documentation_
 
 ### Tuesday, 11/6/18
 
-
 _Methodology review_
 
 * Unit 2 presentations
-* Vote! 
+* Don't forget to vote! 
 
 
 **Read for Thursday:**
