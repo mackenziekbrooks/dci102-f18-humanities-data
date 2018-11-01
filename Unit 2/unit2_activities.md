@@ -75,37 +75,22 @@ Answer the following:
 * What resources do I need?
 * What are my next steps? Break them down!
 
-## Activity 8: Documentation
-
-What makes good documentation? As _Data + Design_ [reminds](https://infoactive.co/data-design/ch08.html) us:
-
-> "Regardless of how you choose to do it, good documentation of your cleaning procedures ensures that you can always justify why certain data points were removed and others weren’t and that others are able to verify that the data were cleaned competently and correctly."
-
-### Part 1
-
-* At your table, brainstorm a list of the qualities of good documentation.
-* For each quality, find an example from the projects and tutorials we've used so far in the course. 
-* Share your results with the class. 
-
-### Part 2
-
-* Using your new list of principles, document one of your methods from this unit. It can be something you learned to do in Excel or Open Refine or one of the visualization tools.
-* Post this documentation to your website by Thursday's class. 
-
-
 ## Activity 8: Peer Review
-
-### Documentation
-
-* You will receive the link to another classmate's documentation page. Follow their documentation to produce the same result.
-* Take notes on what worked and what didn't work. 
-* Share 1 positive aspect + 1 needs improvement aspect with your partner. 
 
 ### Visualization
 
-* Spend some time on [HelpMeViz](http://helpmeviz.com) and [Part 4 of Data + Design](https://infoactive.co/data-design/part04.html). Take note of the problems and solutions that both sites present. 
-* Review your classmate's visualization. 
-* Share 1 positive + 1 needs improvement.
+* Individually, spend some time on [HelpMeViz](http://helpmeviz.com) and [Part 4 of Data + Design](https://infoactive.co/data-design/part04.html). Make a list of the common problems and solutions that both sites present. 
+* Share your findings with your group. What did you find in common? Any differences? Do you agree with all the recommendations? 
+* Pair up and review your classmate's visualization. 
+* Share 1 positive + 1 needs improvement, based on the recommendations from the reading. 
+
+
+### Documentation
+
+* Switch partners and check out your classmate's documentation page. Follow their documentation to produce the same result.
+* Take notes on what worked and what didn't work. 
+* Share 1 positive aspect + 1 needs improvement aspect with your partner. 
+
 
 
 
