@@ -221,7 +221,7 @@ _Project work + Documentation_
 * Peer review of documentation, visualizations
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day13.html)
 
-**All Unit 2 assignments due Tuesday 11/7 by 2:30pm.**
+**All Unit 2 assignments due Tuesday 11/6 by 2:45pm.**
 
 ## Unit 3 Space
 
