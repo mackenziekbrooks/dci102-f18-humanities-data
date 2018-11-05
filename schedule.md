@@ -231,26 +231,24 @@ _Methodology review_
 
 * Unit 2 presentations
 * Don't forget to vote! 
+* Intro to Unit 3
 
 
 **Read for Thursday:**
 
 * [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id)
-* [Visualizing the Railway Space in Fontane’s Effi Briest](http://transit.berkeley.edu/2016/youngman-et-al/)
+* [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
+
 
 ### Thursday, 11/8/183
 
 _Methodology review_
 
 * Guest speaker: Sean Tennant from UVa
-* Unit 3 planning/prep
-* Collaborative research
-* Activity 1 
-
 
 **Read for Tuesday:**
 
-* [What is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
+* [Visualizing the Railway Space in Fontane’s Effi Briest](http://transit.berkeley.edu/2016/youngman-et-al/)
 * [The Geographic Imagination of Civil War-Era American Fiction](http://muse.jhu.edu/article/527788)
 
 **Unit 3 Methodology Review due Tuesday, 11/14**
@@ -260,8 +258,8 @@ _Methodology review_
 _Methodology review + Data_
 
 * Methodology review discussion
-* Lecture: open data
-* Lab: data assessment  
+* Readings discussion
+
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day15.html)
 
 **Read for Thursday:**
@@ -271,17 +269,21 @@ _Methodology review + Data_
 ### Thursday, 11/15/18
 
 _Methodology review + Data_
+* Unit 3 prep + planning 
+* Lecture: open data
+* Lab: data assessment  
 
-* Readings discussion
-* Activity 3: Mapping tools sandbox
+
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day16.html)
+
+** Research question due Tuesday the 27th**
 
 ### Thanksgiving break
 
 ### Tuesday, 11/27/18
 
 _Methodology review + Data_
-
+* Activity 3: Mapping tools sandbox
 * Data set/project approval and consults 
 
 ### Thursday, 11/29/18
