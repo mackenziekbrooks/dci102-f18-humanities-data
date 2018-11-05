@@ -71,7 +71,7 @@ At the beginning of each unit, you will be handed a messy data set. It is a rare
 	* on time
 	* saved in Box.
 * 1 point for a zipped folder with your modified/cleaned data set in ```.csv``` or ```.xlsx``` format.
-* 1 point for a text file title "data-assessment-DATE.txt" with the results of our in-class activity \(Unit 2 / Activity 3\).
+* 1 point for a text file title "data-assessment-DATE.txt" with the results of our in-class activity \(Unit 2 / Activity 4 Data Assessment\).
 * 2 points for a text file titled "data-cleanup-DATE.txt" with a list of the modifications you made to your data set. Those modifications could include:
 	* All fields should be standardized to the most appropriate data type \(Date, String, etc.\)
 	* Separation into multiple csv files for more specific analysis.
