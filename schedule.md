@@ -251,7 +251,7 @@ _Methodology review_
 * [Visualizing the Railway Space in Fontane’s Effi Briest](http://transit.berkeley.edu/2016/youngman-et-al/)
 * [The Geographic Imagination of Civil War-Era American Fiction](http://muse.jhu.edu/article/527788)
 
-**Unit 3 Methodology Review due Tuesday, 11/14**
+**Unit 3 Methodology Review due Tuesday, 11/13**
 
 ### Tuesday, 11/13/18
 
@@ -259,12 +259,11 @@ _Methodology review + Data_
 
 * Methodology review discussion
 * Readings discussion
-
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day15.html)
 
 **Read for Thursday:**
 
-* [We Mapped It So You Don't Have To](http://crln.acrl.org/index.php/crlnews/article/view/16772/18314)
+
 
 ### Thursday, 11/15/18
 
@@ -275,6 +274,9 @@ _Methodology review + Data_
 
 
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day16.html)
+
+** Read for Tuesday:**
+* [We Mapped It So You Don't Have To](http://crln.acrl.org/index.php/crlnews/article/view/16772/18314)
 
 ** Research question due Tuesday the 27th**
 
