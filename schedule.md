@@ -232,7 +232,7 @@ _Methodology review_
 * Unit 2 presentations
 * Don't forget to vote! 
 * Intro to Unit 3
-
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day14.html)
 
 **Read for Thursday:**
 
