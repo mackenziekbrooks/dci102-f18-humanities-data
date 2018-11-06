@@ -3,23 +3,30 @@
 
 ### Methodology Review
 
-To familiarize yourself with the various methodologies in the DH world, please conduct a review of one DH project. You may select from the list below or find a project of your choosing \(subject to professor approval\), as long as it uses spatial data as its source.
+To familiarize yourself with the various methodologies in the DH world, please conduct a review of one DH project. You may select from the list below or find a project of your choosing \(subject to professor approval\), as long as it uses spatial data as its source. Be prepared to share your review in class. 
+
+**Due Tuesday 11/13/18 by 2:45pm.**
 
 Specs:
 
-* Due Tuesday 11/13/18 by 2:45pm.
-* 300-500 words. 
-* Submit via your Box folder. 
-* Be prepared to share your review in class. 
-* Do not quote extensively from the project website. Summarize in your own words.
-* Address the following questions:
-  * What is the goal of this project? Are there guiding research questions?
-  * Who are authors? What are their affiliations and roles? Have they received external funding? Are students involved? 
-  * Tell me about the data. Where did it come from? How has it been cleaned, modified, or enhanced? 
-  * What established standards \(technical or otherwise\) does the project data use? 
-  * What mapping/GIS  methods are at play? What tools are being used? Does the methodology seem appropriate to the data and goals?
-  * Consider the design of the project. What aspects of the project does the design privilege? How does the design affect your understanding of the material? 
-  * How open is the project? Do they share their data? In what format? Is there public documentation?
+* 1 point for assignment delivery:
+  * on time
+  * 300-500 words
+  * Appropriate file name (no spaces, includes your last name and the date).
+  * Saved to your Box folder.
+* 1 point for absence of major typos, grammatical errors, and unclear writing.
+* 1 point for absence of major typos, grammatical errors, and unclear writing.
+* 1 point for summarizing the following:
+	* What is the goal of this project? Are there guiding research questions?
+	* Who are authors? What are their affiliations and roles? Have they received external funding? Are students involved?
+* 1 point for describing the following:
+	* Tell me about the data. Where did it come from? How has it been cleaned, modified, or enhanced? How can you tell?
+	* What established standards \(technical or otherwise\) does the project data use?
+	* What spatial analysis methods are at play? What tools are being used? How can you tell?
+	* How open is the project? Do they share their data? In what format? Is there public documentation?
+* 1 point for analyzing the following:
+	* Does the methodology seem appropriate to the data and goals?
+	* Consider the design of the project. What aspects of the project does the design privilege? How does the design affect your understanding of the material?
 
 Projects:
 
@@ -36,9 +43,10 @@ Projects:
 
 At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends.
 
+**Due Thursday 12/6/16 by 2:45pm**
+
 Specs:
 
-* Due Thursday 12/8/16 by 2:30pm.
 * If possible, submit your data set in a zipped folder via Box.
 * If possible, make your data available to download on your website. You could provide a link to Box, or upload a zip file via CPanel and File manager. 
 * Include a text file titled "data-assessment-DATE.txt" that addresses the following:
@@ -63,7 +71,7 @@ For this unit, your visualization should feature some kind of map. You can use a
 
 Specs:
 
-* Due Thursday 12/8 by 2:30pm.
+* Due Thursday 12/6 by 2:45pm.
 * Embed/publish on your website. 
 * Include 150-300 words on why you selected this visualization. 
   * What did you learn about your data from this visualization, if anything?
