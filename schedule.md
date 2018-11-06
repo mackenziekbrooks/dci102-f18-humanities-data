@@ -258,8 +258,9 @@ _Methodology review_
 _Methodology review + Data_
 
 * Methodology review discussion
-* Readings discussion
 * Lab: collaborative research
+* Unit 3 prep + planning 
+
 
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day15.html)
 
@@ -269,7 +270,8 @@ _Methodology review + Data_
 ### Thursday, 11/15/18
 
 _Methodology review + Data_
-* Unit 3 prep + planning 
+
+* Readings discussion
 * Lecture: open data
 * Activity 2: Data Assessment
 
