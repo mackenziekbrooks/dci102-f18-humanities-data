@@ -271,6 +271,7 @@ _Methodology review + Data_
 _Methodology review + Data_
 * Unit 3 prep + planning 
 * Lecture: open data
+* Activity 2: Data Assessment
 
 
 
@@ -286,7 +287,7 @@ _Methodology review + Data_
 ### Tuesday, 11/27/18
 
 _Methodology review + Data_
-* Activity 2: Data Assessment
+
 * Activity 3: Mapping tools sandbox
 * Data set/project approval and consults 
 
