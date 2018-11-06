@@ -92,7 +92,7 @@ Because we are short on time, you're not being expected to design and implement 
 
 Specs:
 
-* Due Thursday 12/8 by 2:30pm.
+* Due Thursday 12/6 by 2:45pm.
 * Embed/publish on your website OR submit via your Box folder. 
 * 150-300 words. 
 * Introduce the data set and provide context. Save the technical details for the project documentation assignment.
@@ -109,7 +109,7 @@ Check out [A Beginner's Guide to Writing Documentation](http://www.writethedocs.
 
 Specs:
 
-* Due Thursday 12/8/16 by 2:30pm.
+* Due Thursday 12/6/16 by 2:45pm.
 * Publish to your website.
 * Document a specfic task required to cleanup or visualize your data.
 * Include 5 or more steps.
@@ -123,7 +123,7 @@ The final assignment for this unit a piece of reflective writing. Talk about you
 
 Specs:
 
-* Due Thursday 12/8/16 by 2:30pm. 
+* Due Thursday 12/6/16 by 2:45pm. 
 * Submit via your Box folder. You are welcome, but not required to post to your website.
 * 300-500 words.
 * Address the following: 
@@ -145,7 +145,7 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 
 Specs:
 
-* 2 blog posts due Thursday 12/8/16 by 2:30pm. \(I recommend spacing them out!\)
+* 2 blog posts due Thursday 12/6/16 by 2:45pm. \(I recommend spacing them out!\)
 * Publish to your own domain. 
 * 300-500 words per post.
 * Link to outside articles and embed images \(with citations!\), if relevant.
