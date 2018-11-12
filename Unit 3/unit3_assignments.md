@@ -88,33 +88,27 @@ Specs:
     * If using an existing data set, refer to their license.
 
 ### Results
-
-
-
-
-
-### Project visualization
+Now that you have some experience creating a usable data set - what can you do with it? What are the results of your research questions? From the tools we have experimented with in class, select your favorite and/or most meaningful visualizations. Next, interpret this visualization. Use "[Using Data Visualization to Find Insights in Data](http://datajournalismhandbook.org/1.0/en/understanding_data_7.html)" to guide your writing.
 
 For this unit, your visualization should feature some kind of map. You can use a modern or historical map. Your map can be created from existing data, or you can create a new set of data to layer on to a map. Ideally, your map should be driven by or created from the data. However, if you create a data set from scratch, then you are free to make a narrative-driven map.
 
-Specs:
 
-* Due Thursday 12/6 by 2:45pm.
-* Embed/publish on your website. 
-* Include 150-300 words on why you selected this visualization. 
-  * What did you learn about your data from this visualization, if anything?
-  * What about the methodology worked or didn't work?
-  * Are there issues with the data that the visualization illuminates or disguises?
-  * Does this method of visualization require you to modify your data in a particular way?
-* Indicate which tool/method you used to produce this visualization.
-* Your map must contain at least one of the following: 
+**Due Thursday 12/6/16 by 2:45pm**
+
+* 1 point for assignment delivery:
+    * on time
+    * published on your website.
+* 1 point for creating a map with at least one of the following:
   * Historic map layer
   * 10-20 pins or features
   * Shapefiles of some kind
+* 1 point for 300 words interpreting your results.
+* 1 point for indicating the tools/methods used to produce the results. What can the user do to change the appearance of the map and its data?
+* 1 point for commenting on problems/issues with your method, including the comments from your peer reviewer.
 
-## Advanced Assignments
 
-### Project narrative
+
+## Project narrative
 
 Because we are short on time, you're not being expected to design and implement a full-scale data-driven project. This assignment asks you to use your imagination about what this project could become. Now that you're familiar with the data, what paths would you like to pursue? How would you introduce this data set to the uninitiated? Think about the "About" pages we've seen during your Project Review assignment.
 
