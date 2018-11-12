@@ -264,7 +264,7 @@ _Methodology review + Data_
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day15.html)
 
 **Read for Thursday:**
-
+* [Anatomy of a web map](http://maptime.io/anatomy-of-a-web-map/)
 
 ### Thursday, 11/15/18
 
