@@ -270,7 +270,6 @@ _Methodology review + Data_
 
 _Methodology review + Data_
 
-* Readings discussion
 * Lecture: open data
 * Activity 2: Data Assessment
 
