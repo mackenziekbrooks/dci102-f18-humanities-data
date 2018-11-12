@@ -62,7 +62,7 @@ Specs:
 
 ### Project data
 
-At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends.
+At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends. For this unit, you'll be required to source your own data set, either by finding one online or creating one from scratch. For both these situations, it's crucial you keep good notes on how you modified someone else's data or the process by which you created your own. 
 
 **Due Thursday 12/6/16 by 2:45pm**
 
@@ -86,6 +86,12 @@ Specs:
 * 1 point for a text file titled ```data-license-DATE.txt``` that includes the following:
     * Use [Open Data Commons](opendatacommons.org) to help you select an appropriate license for your data set.
     * If using an existing data set, refer to their license.
+
+### Results
+
+
+
+
 
 ### Project visualization
 
