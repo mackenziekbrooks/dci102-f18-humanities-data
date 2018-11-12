@@ -107,20 +107,6 @@ For this unit, your visualization should feature some kind of map. You can use a
 * 1 point for commenting on problems/issues with your method, including the comments from your peer reviewer.
 
 
-
-## Project narrative
-
-Because we are short on time, you're not being expected to design and implement a full-scale data-driven project. This assignment asks you to use your imagination about what this project could become. Now that you're familiar with the data, what paths would you like to pursue? How would you introduce this data set to the uninitiated? Think about the "About" pages we've seen during your Project Review assignment.
-
-Specs:
-
-* Due Thursday 12/6 by 2:45pm.
-* Embed/publish on your website OR submit via your Box folder. 
-* 150-300 words. 
-* Introduce the data set and provide context. Save the technical details for the project documentation assignment.
-* Identify your disciplinary angle. Are you approaching this project as a historian, a literature person, someone else entirely? Who is your audience?
-* Include three potential research questions. 
-
 ### Project documentation
 
 As you have reviewed projects and experimented with various tools, you have found yourself relying on their documentation. Documentation is super important, but it doesn't always get the attention it deserves. Documenting your process, your project, and everything in between helps yourself and others. Ever gone back to a project after time away? Was it hard to remember where you left off? \(This will only get worse as you get older\). Documentation is a gift to your future self. A detailed description of what you did and how you did it will help your external audience as well. Your work can serve as inspiration or help someone through a similar problem. Last but not least, documentation is a workplace reality. Your boss and your team will want to know what you've been working on.
@@ -129,33 +115,39 @@ Your professor is not your audience. Imagine a friend or family member trying to
 
 Check out [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) for more guidance.
 
+**Due Thursday 12/6/16 by 2:45pm**
+
 Specs:
+* 1 point for on time delivery
+    * on your website
+    * 150+ words
+* 1 point for well structured documentation (headings, bullet points).
+* 1 point for screenshots, links, or other visual material.
+* 1 point for clear, jargon-free writing.
+* 1 point for comprehensiveness and appropriate details.
 
-* Due Thursday 12/6/16 by 2:45pm.
-* Publish to your website.
-* Document a specfic task required to cleanup or visualize your data.
-* Include 5 or more steps.
-* Include screenshots and links when appropriate.
-
-* Be specific!
+Check out [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) for more guidance.
 
 ### Project reflection
 
 The final assignment for this unit a piece of reflective writing. Talk about your feelings. What have you learned? What has been challenging? How has your relationship with technology changed? What would you have done differently? Reflect on Unit 3 and the course as a whole.
 
+** Due Thursday 12/6/16 by 2:45pm.** 
+
 Specs:
 
-* Due Thursday 12/6/16 by 2:45pm. 
-* Submit via your Box folder. You are welcome, but not required to post to your website.
-* 300-500 words.
-* Address the following: 
-  * What have you learned?
-  * What has been challenging? 
+* 1 point for assignment delivery:
+    * On time
+    * 300-500 words
+    * Submit on Box. You are welcome, but not required to post to your website.
+* 4 points for addressing the following:
+    * What have you learned?
+    * What has been challenging?
+    * How has your relationship with technology changed? What about your conception of data? Maping?
+    * What would you have done differently?
+    * What was your biggest achievement in this course?
+    * What lesson have you learned from this course that you can apply in the future?
 
-  * How has your relationship with technology changed? What about your conception of data? Mapping?
-  * What would you have done differently? 
-  * What was your biggest achievement in this course?
-  * What lesson have you learned from this course that you can apply in the future?
 
 ## Blog posts
 
@@ -167,7 +159,7 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 
 Specs:
 
-* 2 blog posts due Thursday 12/6/16 by 2:45pm. \(I recommend spacing them out!\)
+* Up to 2 blog posts due Thursday 12/6/16 by 2:45pm. \(I recommend spacing them out!\)
 * Publish to your own domain. 
 * 300-500 words per post.
 * Link to outside articles and embed images \(with citations!\), if relevant.
