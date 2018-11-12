@@ -68,23 +68,24 @@ At the beginning of each unit, you will be handed a messy data set. It is a rare
 
 Specs:
 
-* If possible, submit your data set in a zipped folder via Box.
-* If possible, make your data available to download on your website. You could provide a link to Box, or upload a zip file via CPanel and File manager. 
-* Include a text file titled "data-assessment-DATE.txt" that addresses the following:
-  * What makes this a "humanities" data set? 
-  * What is the source of your data? Do you have the correct permissions/rights to use it? 
-  * What is the spatial component to your data set?
-  * What format is your data in? 
-  * What about your data might need to be cleaned or adjusted for visualization?
-* Include a text file titled "data-cleanup-DATE.txt" with a list of the modifications you made to your data set. Those modifications could include:
-  * Adding/deleting data to alter the visualization/map.
-  * Correcting erroneous data.
-  * Separating or combining columns of data. 
-  * Any external research you may have conducted to find a historical map or add information to your data set. 
-  * Any adjustments you made to the mapping platform \(ex: changing the base map in Neatline\).
-* Include a text file title "data-license-DATE.txt" that includes the following:
-  * Use [Open Data Commons](opendatacommons.org) to help you select an appropriate license for your data set. 
-  * If using an existing data set, refer to their license.
+* 1 point for assignment delivery
+    * on time
+    * saved in Box in a zip folder
+* 2 points for a text file titled ```data-assessment-DATE.txt``` that addresses the following:
+    * What makes this a "humanities" data set?
+    * What is the source of your data? Do you have the correct permissions/rights to use it?
+    * What is the spatial component to your data set?
+    * What format is your data in?
+    * What about your data might need to be cleaned or adjusted for visualization?
+* 1 point for a text file titled ```data-cleanup-DATE.txt``` with a list of the modifications you made to your data set. Those modifications could include:
+    * Adding/deleting data to alter the visualization/map.
+    * Correcting erroneous data.
+    * Separating or combining columns of data.
+    * Any external research you may have conducted to find a historical map or add information to your data set.
+    * Any adjustments you made to the mapping platform \(ex: changing the base map in Neatline\).
+* 1 point for a text file titled ```data-license-DATE.txt``` that includes the following:
+    * Use [Open Data Commons](opendatacommons.org) to help you select an appropriate license for your data set.
+    * If using an existing data set, refer to their license.
 
 ### Project visualization
 
