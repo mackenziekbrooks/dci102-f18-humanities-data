@@ -39,6 +39,27 @@ Projects:
 * [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/)
 * [DECIMA](https://decima-map.net/)
 
+
+### Research Question
+Because we are short on time, you're not being expected to design and implement a full-scale data-driven project. This assignment asks you to use your imagination about what this project could become. Now that you're familiar with the data, what paths would you like to pursue? How would you introduce this data set to the uninitiated? Think about the "About" pages we've seen during your Methodology Review assignment. 
+
+****Due Thursday 12/6/16 by 2:45pm**
+
+Specs:
+
+* 1 point for assignment delivery
+    * on time
+    * 200-300 words
+    * publish on your website
+* 1 point for listing 2-3 potential research questions.
+* 1 point for research questions that are scaled and scoped to the data set you intend to use or create.
+* 1 point for providing contextual details about the data set. Save the technical details for the project documentation assignment.
+* 1 point for identifying your disciplinary angle. Are you approaching this project as a historian, a literature person, someone else entirely? Who is your audience?
+
+
+
+
+
 ### Project data
 
 At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends.
