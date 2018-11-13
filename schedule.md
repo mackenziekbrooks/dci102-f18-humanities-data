@@ -311,7 +311,7 @@ _wrap up_
 
 * Unit 3 presentations 
 
-**Unit 3 assignments due 12/8/17 at 2:30pm**
+**Unit 3 assignments due 12/6/18 at 2:45pm**
 
 ### Finals week
 
