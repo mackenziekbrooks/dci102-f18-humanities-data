@@ -43,7 +43,7 @@ Projects:
 ### Research Question
 Because we are short on time, you're not being expected to design and implement a full-scale data-driven project. This assignment asks you to use your imagination about what this project could become. Now that you're familiar with the data, what paths would you like to pursue? How would you introduce this data set to the uninitiated? Think about the "About" pages we've seen during your Methodology Review assignment. 
 
-****Due Thursday 12/6/16 by 2:45pm**
+****Due Thursday 11/27/18 by 2:45pm**
 
 Specs:
 
@@ -64,7 +64,7 @@ Specs:
 
 At the beginning of each unit, you will be handed a messy data set. It is a rare thing to find a perfectly structured and organized set of data in the wild. A major component of your work during each unit will involve turning this data into something usable for visualization or other types of analysis. "Usable," of course, depends on the nature of your project. Ideally, a clean and well-structured data set can serve a variety of uses AND live beyond specific tools or visualization trends. For this unit, you'll be required to source your own data set, either by finding one online or creating one from scratch. For both these situations, it's crucial you keep good notes on how you modified someone else's data or the process by which you created your own. 
 
-**Due Thursday 12/6/16 by 2:45pm**
+**Due Thursday 12/6/18 by 2:45pm**
 
 Specs:
 
@@ -93,7 +93,7 @@ Now that you have some experience creating a usable data set - what can you do w
 For this unit, your visualization should feature some kind of map. You can use a modern or historical map. Your map can be created from existing data, or you can create a new set of data to layer on to a map. Ideally, your map should be driven by or created from the data. However, if you create a data set from scratch, then you are free to make a narrative-driven map.
 
 
-**Due Thursday 12/6/16 by 2:45pm**
+**Due Thursday 12/6/18 by 2:45pm**
 
 * 1 point for assignment delivery:
     * on time
@@ -115,7 +115,7 @@ Your professor is not your audience. Imagine a friend or family member trying to
 
 Check out [A Beginner's Guide to Writing Documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) for more guidance.
 
-**Due Thursday 12/6/16 by 2:45pm**
+**Due Thursday 12/6/18 by 2:45pm**
 
 Specs:
 * 1 point for on time delivery
@@ -132,7 +132,7 @@ Check out [A Beginner's Guide to Writing Documentation](http://www.writethedocs.
 
 The final assignment for this unit a piece of reflective writing. Talk about your feelings. What have you learned? What has been challenging? How has your relationship with technology changed? What would you have done differently? Reflect on Unit 3 and the course as a whole.
 
-** Due Thursday 12/6/16 by 2:45pm.** 
+** Due Thursday 12/6/18 by 2:45pm.** 
 
 Specs:
 
@@ -159,7 +159,7 @@ You are free to choose the topic of your blog posts, as long as there is a conne
 
 Specs:
 
-* Up to 2 blog posts due Thursday 12/6/16 by 2:45pm. \(I recommend spacing them out!\)
+* Up to 2 blog posts due Thursday 12/6/18 by 2:45pm. \(I recommend spacing them out!\)
 * Publish to your own domain. 
 * 300-500 words per post.
 * Link to outside articles and embed images \(with citations!\), if relevant.
