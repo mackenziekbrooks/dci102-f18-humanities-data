@@ -271,12 +271,8 @@ _Methodology review + Data_
 
 * Lecture: open data
 * Activity 2: Data Assessment
-* [_Slides_](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day17.html)
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day17.html)
 
-
-
-
-* [Slides](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dh102-f17-day16.html)
 
 ** Read for Tuesday:**
 * [We Mapped It So You Don't Have To](http://crln.acrl.org/index.php/crlnews/article/view/16772/18314)
