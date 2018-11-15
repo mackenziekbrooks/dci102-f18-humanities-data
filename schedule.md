@@ -271,6 +271,8 @@ _Methodology review + Data_
 
 * Lecture: open data
 * Activity 2: Data Assessment
+* [_Slides_](https://mackenziekbrooks.gitbooks.io/dh-102-data-in-the-humanities/content/slides/dci102-f18-day17.html)
+
 
 
 
