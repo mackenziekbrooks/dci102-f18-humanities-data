@@ -43,7 +43,7 @@ Projects:
 ### Research Question
 Because we are short on time, you're not being expected to design and implement a full-scale data-driven project. This assignment asks you to use your imagination about what this project could become. Now that you're familiar with the data, what paths would you like to pursue? How would you introduce this data set to the uninitiated? Think about the "About" pages we've seen during your Methodology Review assignment. 
 
-****Due Thursday 11/27/18 by 2:45pm**
+****Due Tuesday 11/27/18 by 2:45pm**
 
 Specs:
 
