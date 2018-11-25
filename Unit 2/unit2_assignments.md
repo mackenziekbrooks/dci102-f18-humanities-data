@@ -129,7 +129,7 @@ The final assignment for this unit a piece of reflective writing. Talk about you
 	* How has your relationship with technology changed? What about your conception of data?
 	* What would you have done differently?
 	* What new strategies will you try in the next unit?
-	* What other projects (in school or life) could benefit from text analysis methods?
+	* What other projects (in school or life) could benefit from network analysis methods?
 
 ## Blog posts
 
