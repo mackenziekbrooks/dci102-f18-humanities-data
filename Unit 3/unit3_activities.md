@@ -65,6 +65,7 @@ In your group, review and test out one of the following mapping tools. Compile y
 * Neatline
 * Kepler.gl 
 * Google Fusion Tables
+* Tableau Public
 
 ***
 
