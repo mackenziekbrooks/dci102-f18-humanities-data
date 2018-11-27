@@ -56,10 +56,19 @@ Evaluate:
 
 ## Activity 3: Mapping tools
 
-1. At your tables, explore some mapping tools \(TBD\) and address the following questions. 
-2. Add your responses to the shared Boxnote `MasterMappingResearch`
+In your group, review and test out one of the following mapping tools. Compile your findings in a Box note in our Unit 3 folder. You must test out 2 tools, but you are 
 
-* Who created this tool? Is it open source?
+* Carto
+* Palladio
+* ArcGIS Online
+* QGIS 
+* Neatline
+* Kepler.gl 
+* Google Fusion Tables
+
+***
+
+* Who created this tool? Is it open source? Is it free?
 * How do I use it? Browser or download? OS preference?
 * How do I add data? What formats does it accept? 
 * How do I add layers? 
@@ -68,6 +77,7 @@ Evaluate:
 * Where is the basemap from? \(Google, OpenStreetMap, etc.\)
 * What type of mapping project would suit this tool? 
 * Can you find the documentation? Other tutorials? 
+* Using the sample data provided in Box, create a map of the hometowns. You may need to alter the data to fit the requirements of the mapping tool.  
 
 ## Activity 4: Peer review
 
