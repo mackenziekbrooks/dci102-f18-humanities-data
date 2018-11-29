@@ -73,7 +73,7 @@ Specs:
 * 2 points for a text file titled ```data-assessment-DATE.txt``` that addresses the following:
     * What makes this a "humanities" data set?
     * What is the source of your data? Do you have the correct permissions/rights to use it?
-    * What is the spatial component to your data set?
+    * What is the spatial component to your data set? 
     * What format is your data in?
     * What about your data might need to be cleaned or adjusted for visualization?
 * 1 point for a text file titled ```data-cleanup-DATE.txt``` with a list of the modifications you made to your data set. Those modifications could include:
