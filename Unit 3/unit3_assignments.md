@@ -15,7 +15,6 @@ Specs:
   * Appropriate file name (no spaces, includes your last name and the date).
   * Saved to your Box folder.
 * 1 point for absence of major typos, grammatical errors, and unclear writing.
-* 1 point for absence of major typos, grammatical errors, and unclear writing.
 * 1 point for summarizing the following:
 	* What is the goal of this project? Are there guiding research questions?
 	* Who are authors? What are their affiliations and roles? Have they received external funding? Are students involved?
