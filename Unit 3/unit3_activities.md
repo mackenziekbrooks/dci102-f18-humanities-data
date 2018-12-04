@@ -92,3 +92,13 @@ In your group, review and test out one of the following mapping tools. Compile y
   * If you've used that platform, do you have any tips? 
 4. Share your findings with your partner. 
 
+Peer review partners:
+* Madeleine + Bancks
+* Alice + Charlie
+* Kathleen + Amanda
+* Peyton + Connor + Mary Hampton
+* Anne + Duncan
+* Karel + Ian
+* Jenna + Rich
+* Maggie + Chase
+
